@@ -1,17 +1,17 @@
 package com.predicteasy.test;
 
-import com.predicteasy.model.BasePredictor;
-import com.predicteasy.data.DataFetcher;
-import com.predicteasy.knn.EuclideanNearestNeighborFinder;
-import com.predicteasy.knn.NearestNeighborFinder;
-import com.predicteasy.knn.Node;
-import com.predicteasy.model.RatingPredictor;
-import com.predicteasy.model.PredictionClass;
-
-import java.io.File;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import com.predicteasy.data.CSVDataSource;
+import com.predicteasy.data.DataSource;
+import com.predicteasy.knn.EuclideanNearestNeighborFinder;
+import com.predicteasy.knn.NearestNeighborFinder;
+import com.predicteasy.knn.Node;
+import com.predicteasy.model.BasePredictor;
+import com.predicteasy.model.PredictionClass;
+import com.predicteasy.model.RatingPredictor;
 
 public class PredictionTestRunner {
 
@@ -19,13 +19,13 @@ public class PredictionTestRunner {
 
     private NearestNeighborFinder nearestNeighborFinder;
 
-    private DataFetcher dataFetcher;
+    private CSVDataSource dataFetcher;
 
     public PredictionTestRunner() throws Exception{
 
         /* Initiate Data Fetch from data.csv */
-        dataFetcher = new DataFetcher();
-        Map<Long, Node> inputData = dataFetcher.getData(new File("data.csv"));
+        DataSource csvSource = new CSVDataSource("data.csv");
+        Map<Long, Node> inputData = csvSource.getData();
 
         /* The value of K will be usually Math.sqrt(rowCount) */
         int valueOfK = dataFetcher.getValueOfK();

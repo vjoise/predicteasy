@@ -14,6 +14,8 @@ public class Node {
 
    private List<Node> neighbors;
 
+   private boolean isLeaf;
+   
    public void addToNNList(Node node){
         this.neighbors.add(node);
    }
@@ -28,6 +30,10 @@ public class Node {
 
     public Number getAttribute(String key){
         return attributesMap.get(key);
+    }
+    
+    public boolean isLeafNode(){
+    	return isLeaf;
     }
 
 }
