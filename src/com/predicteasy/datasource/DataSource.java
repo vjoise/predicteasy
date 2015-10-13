@@ -1,8 +1,8 @@
-package com.predicteasy.data;
+package com.predicteasy.datasource;
 
 import java.util.Map;
 
-import com.predicteasy.knn.Node;
+import com.predicteasy.dto.Node;
 
 public interface DataSource {
 

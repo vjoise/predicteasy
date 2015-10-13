@@ -1,4 +1,4 @@
-package com.predicteasy.knn;
+package com.predicteasy.dto;
 
 import java.util.HashMap;
 import java.util.List;

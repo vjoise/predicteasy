@@ -1,4 +1,4 @@
-package com.predicteasy.data;
+package com.predicteasy.datasource;
 
 import java.io.File;
 import java.util.Collections;
@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-import com.predicteasy.knn.Node;
+import com.predicteasy.dto.Node;
 
 /**
  * A simple implementation to fetch csv data into a map.

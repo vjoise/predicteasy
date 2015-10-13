@@ -4,11 +4,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.predicteasy.data.CSVDataSource;
-import com.predicteasy.data.DataSource;
+import com.predicteasy.datasource.CSVDataSource;
+import com.predicteasy.datasource.DataSource;
+import com.predicteasy.dto.Node;
 import com.predicteasy.knn.EuclideanNearestNeighborFinder;
 import com.predicteasy.knn.NearestNeighborFinder;
-import com.predicteasy.knn.Node;
 import com.predicteasy.model.BasePredictor;
 import com.predicteasy.model.PredictionClass;
 import com.predicteasy.model.RatingPredictor;
@@ -19,7 +19,7 @@ public class PredictionTestRunner {
 
     private NearestNeighborFinder nearestNeighborFinder;
 
-    private CSVDataSource dataFetcher;
+    private CSVDataSource dataSource;
 
     public PredictionTestRunner() throws Exception{
 
@@ -28,13 +28,13 @@ public class PredictionTestRunner {
         Map<Long, Node> inputData = csvSource.getData();
 
         /* The value of K will be usually Math.sqrt(rowCount) */
-        int valueOfK = dataFetcher.getValueOfK();
+        int valueOfK = dataSource.getValueOfK();
 
         /* Initiate the KNN Finder with the k-factor and the input data. */
         nearestNeighborFinder = new EuclideanNearestNeighborFinder(valueOfK, inputData);
 
         /* Feed initial data to KNN Engine along with test data. */
-        List<Node> queryNodes = dataFetcher.getQueryNodes();
+        List<Node> queryNodes = dataSource.getQueryNodes();
 
         /* Map to hold neighboring nodes for a given "query" Node.*/
         Map<Node, List<Node>> neighborsMap = new HashMap<Node, List<Node>>();
