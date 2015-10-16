@@ -5,6 +5,7 @@ package com.predicteasy.weka;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.trees.ADTree;
 import weka.core.Attribute;
 import weka.core.FastVector;
 import weka.core.Instance;
@@ -54,7 +55,9 @@ public class classifier {
 		// add the instance
 		isTrainingSet.add(iExample);
 		
-		Classifier cModel = (Classifier)new NaiveBayes();   
+		//Classifier cModel = (Classifier)new NaiveBayes();
+		Classifier cModel = (Classifier)new ADTree();
+		//Classfier cModel = (Classifier) new S
 		cModel.buildClassifier(isTrainingSet);
 
 		// Test the model
