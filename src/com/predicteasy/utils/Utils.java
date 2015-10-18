@@ -1,6 +1,6 @@
 package com.predicteasy.utils;
 
-public class MathUtils {
+public class Utils {
 
 	/**
      * Entropy (p,q) = -p log2 (p) - q log2 (q)
@@ -9,7 +9,7 @@ public class MathUtils {
      * @return
      */
 	public static double entropy(double p, double q){
-    	return -(p * MathUtils.log(p, 2)) - (q * MathUtils.log(q, 2));
+    	return -(p * Utils.log(p, 2)) - (q * Utils.log(q, 2));
     }
 	
 	public static double log(double x, int base){
