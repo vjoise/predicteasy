@@ -1,0 +1,1037 @@
+@relation mydata
+@attribute X1463 numeric
+@attribute Harboes.Bryggeri.A.S {'','A Tribbiera','Åbro Bryggeri','Abbaye de Leffe S.A.','Accra Brewery Limited','Afanasy Pivo (Brau Service)','Akashi Brewery K.K.','Al Ahram Beverages Company','Alaus Darykla Kalnapilis','Alcatraz Brewing Co.','Aldaris','AMB - Maître Brasseur','Amnesia Brewing','Amstar','Amstel Brouwerij B. V.','Amsterdam Brewing Company','Anacapa Brewing Company','Anadolu Efes Brewery','Arkell\'s Brewery Limited','Artebirraia','AS Tartu Õlletehas','Asahi Breweries Ltd','Asia Pacific Breweries Ltd.','Atomic Ale Brewpub And Eatery','Atwater Block Brewery','Auchan Production','August Schell Brewing Company','Avery Brewing Company','Azumino Brewery','B.O.B.\'s House Of Brews','BABB Srl','Back Street Brewery','Bad Monkey Brewing Company, LLC','Baikalskaya Pivovarenniya Kompaniya','Baja Brewing Company','Ballard\'s Brewery Limited','Balmain Brewing Company','Baltika Breweries','Banff Ave. Brewing Co.','Barada Beer Company','Barefoot Brewers','Barley Mill Brew Pub / Trifons Pizza','barVolo','Battered Boar Brewing Company','Bear Republic Brewing Co.','Beba','Beck\'s Sports Brewery','Beer Works','Beermann\'s Beerwerks','Bell\'s Brewery, Inc.','Ben Middlemiss Brewing','Beowulf Brewing Company','Bere Trei Stejari','Berliner Bürgerbräu GmbH','Berliner Kindl Brauerei','BFM Brasserie Des Franches-Montagnes','Bières de Chimay S.A.','Big Bear Brewing Company','Big Hole Brewing Company','Big River Grille & Brewing Works','Birra Peroni Industriale S.p.A.','Birra Venezia','Birreria Blues','Birreria San Gabriel','Birrificio B.O.A. (Birrificio Ostiense Artigianale)','Birrificio L\'Orso Verde','Birrificio Lambrate','Birrificio Rurale','BirrOne','BJ\'s Restaurant & Brewhouse','Blackwater Brewing Company','Blitz-Weinhard Brewing Co.','Blue & Gray Brewing Co.','Blue Tractor BBQ & Brewery','Bluegrass Brewing Co. - East St. Matthew\'s','Bluetongue Brewery Pty Ltd','Bodega 1800 Import & Export Corporation','Bootleg Brewery','Bootleggers Restaurant & Brewery','Boscos Restaurant & Brewing Co. - Memphis','Boston Beer Company (Samuel Adams)','Boulder Beer / Wilderness Pub','Brasserie Artisanale De La Divatte','Brasserie Artisanale Du Dauphiné','Brasserie Artisanale Du Trégor','Brasserie Artisanale Millevertus De Toernich','Brasserie Authentique','Brasserie Britt de Bretagne','Brasserie Celtik','Brasserie D\'Ecaussinnes','Brasserie d\'Oc','Brasserie de Luxembourg Mousel -Diekirch SA','Brasserie De Saint Omer','Brasserie de Silly S.A.','Brasserie Des Fagnes','Brasserie Distillerie Du Mont Blanc','Brasserie Du Bocq','Brasserie Du Chant Du Loup','Brasserie Dunham','Brasserie Duyck','Brasserie Fischer / Fischer Biere d\' Alsace','Brasserie Grain d\' Orge (Brasserie Jeanne d\'Arc SA)','Brasserie Henri Monier','Brasserie La Binchoise (Malterie des Remparts)','Brasserie La Saint-Pierre','Brasserie Lancelot','Brasserie Meteor','Brasserie Nationale (Bofferding)','Brasserie Saint-Germain','Brasserie Saint-Monon','Brasserie Vanuxeem','Brasseries Kronenbourg','Brasseurs R.J.','Brasseurs Sans Gluten','Brau Union Österreich AG','Brauerei Baar AG','Brauerei Fohrenburg GmbH & Co','Brauerei G.A. Bruch','Brauerei Gasthof Hartmann','Brauerei Gasthof Hotel Post','Brauerei Grandauer - Wildbräu Grafing vor München','Brauerei Hebendanz','Brauerei Heinrich Reissdorf','Brauerei Kürzer','Brauerei Laupheimer Günz','Brauerei Locher AG','Brauerei Schützengarten AG','Brauerei Ustersbach','Brauerei Weitnau','Brauerei Zoller-Hof','Brauhaus Rheinbach','Brauhaus Torgau AG','Braustolz GmbH','Brewery At The Bay / Put-In-Bay Brewing Co.','Brewery Creek Inn Restaurant & Brewery','Brewery Vivant','Brewsters Brewing Company & Restaurant - Eleventh Avenue','Bricktown Brewery','Broad Ripple Brew Pub','Broken Tooth Brewing','Broue Chope','Brouwerij Angerik BVBA','Brouwerij Cnudde','Brouwerij De Bie / D\'Hellekappelle','Brouwerij De Kemphaan','Brouwerij De Molen','Brouwerij De Troch','Brouwerij Den Hopperd','Brouwerij Haacht NV','Brouwerij Liefmans','Brouwerij Martens NV','Brouwerij Roman N.V.','Brouwerij Strubbe','Brouwerij Van Steenberge N.V.','Brouwerij Verhaeghe','Browar Amber','Browar Okocim S.A. (Carlsberg)','Browar Staropolski','Browar Van Pur S.A. (Brau Union Polska)','Bruveris - SIA Alus Tirdzniecibas Grupa','Bryggeri Skovlyst','Bullfrog Brewery','Butternuts Beer & Ale','Camo Brewing Company','CANOE Brewpub','Capitol City Brewing Company','Captain Lawrence Brewing Co.','Captured By Porches Brewing Company','Carlsberg-Tetley Brewing Ltd','Carlsberg Croatia','Carlsberg Italia S.p.A.','Carlsberg Sverige','Carlsberg Sverige AB','Carlton & United Breweries, Ltd.','Cascade Brewery Company Ltd.','Castlemaine Perkins','Ceres Brewery (Royal Unibrew)','Cervecera CCU Chile Ltda','Cervecera Mexicana S.A. De C.V.','Cervecería Artesanal Mastra','Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.','Cervecería Encino','Cervecería Leona, S. A.','Cervecería Schneider','Cervecería y Maltería Quilmes / Grupo Bemberg','Cerveceria Argentina S.A. Isenbeck','Cerveceria Bucanero S.A.','Cerveceria Costa Rica','Cerveceria Hacienda','Cerveceria Hondurena, S.A. / BevCo Ltd','Cerveceria La Tropical Brewmasters','Cervejaria Baden Baden','Cervejaria Sul Brasileira','Cervejaria Wäls','Cerveses La Gardènia','Cerveza Jerome','Chastnaya Pivovarnya Erstes','Chelsea Brewing Company','Cherryland Brewing, LTD.','Chez Gambrinus','Chillers Brew Pub, Eatery & Offsale','Choc Beer Co. / Pete\'s Place','Cigar City Brewing','City Brewing Company, LLC','Coach House Brewing Company Ltd.','Coastal Extreme Brewing Co.','Coedo Brewery (Kyodo Shoji Koedo Brewery)','Coeur d\'Alene Brewing Co.','Compañía Cervecera de Puerto Rico','Companhia Cervejaria Brahma','Coopers Brewery Limited','Coors Brewers Ltd','Coors Brewing Company','Cosmic Ales','Court Avenue Brewing Company','Crabtree Brewing Company','Creemore Springs Brewery Limited','Cropton Brewery','Cross Plains Beer Company','Crow Peak Brewing','Crown Beverages','Crown Valley Brewing & Distilling Co.','Cucapá Brewing Company','Dama Bier','Damm S. A.','Davidson Brothers Restaurant & Brewery','DB Breweries Ltd.','De Proefbrouwerij (bvba Andelot)','De Struise Brouwers','Deep Creek Brewing Company','Denmark Brewing, LLC','Der HirschBrau/Privatbrauerei Höss','Deschutes Brewery & Public House','Desert Edge Brewery','Diamond Knot Brewery','Die Weisse Salzburger Weissbierbrauerei','District ChopHouse & Brewery','Dostal Alley Brewpub','Dragonmead Microbrewery','Dreher Brewery','DUFF Sales & Marketing E.K.','Dunedin Brewery','Dusters Restaurant and The Gottberg Brew Pub','East End Brewing Company','Eastwood The Brewer (John Eastwood)','Edelweissbrauerei Farny','Einbecker Brauhaus AG','EleganT Brouwerij','Elk Head Brewing Company','Elmar\'s In The Valley','Emmett\'s Brewing Company','Engine House No.9','Erdinger Weissbräu','Eureka Brewing Co.','Euskal Garagardoa S.L.','Evolution Craft Brewing Company','Exportbierbrauerei Richard Glenk OHG','Fürst Wallerstein Brauhaus','Falkner Cerveceria','Federal Jack\'s Restaurant & Brew Pub','Feldschlösschen Beverages Group','Ferme Brasserie Schoune','Figure 8 Brewing','Fire Station 5 Brewing Company','Firehouse Brewing Co.','Firehouse Grill & Brewery','Florida Beer Company','Flossmoor Station Restaurant & Brewery','Flying Goose Brew Pub & Grille','Font Salem','Formosa Brewing Co.','Fort Collins Brewing','Fort Garry Brewing Company Ltd.','Founders Brewing Company','Fox And Hounds / Houston Brewery Company','Frankenthaler Brauhaus','Franklin\'s Restaurant, Brewery & General Store','Freiherr Von Poschinger Braysche Schlossbrauerei Irlbach GmbH','Full Sail Brewery & Tasting Room & Pub','Galatea Spirits','Gallaghers\' U-Brew','Garrison Brewing Company','Gaslight Brewery & Restaurant','Genesee Brewing Co. / Dundee Brewing Co.','George Gale & Company Ltd','Gettysbrew Restaurant & Brewery','Ginga Kogen Beer','Golden Pacific Brewing Company','Goose Island Beer Co.','Gotlands Bryggeri','Grand Rapids Brewing Co','Grans Bryggeri AS','Granville Island Brewery','Great Grains Brewery, Inc.','Great Lakes Brewing Company','Great Northern Brewing Co. / Black Star Draught House','Great Western Brewing','Grebbestad Bryggeri','Green Valley Brewing Company (Crooked Creek)','Grizzly Peak Brewing Company','Groningse Stadsbrouwerij','Gruhlke Brewery','Guangzhou Zhujiang Brewery Co. Ltd.','Gubernija Brewery','Gulf Islands Brewing','Hösl & Co. Brauhaus GmbH','Haerlemsche Bierbrouwerij B.V.','Hahn Brewing Co. Pty. Ltd.','Hair of the Dog Brewing Company / Brewery and Tasting Room','Hale\'s Ales Brewery & Pub','Half Moon Restaurant & Brewery','Halifax Steam Brewing Company Ltd','Hansa Borg Bryggerier ASA','Harboes Bryggeri A/S','Harmon Restaurant & Brewery','Harper\'s Restaurant & Brewpub','Harpoon Brewery','Harringtons Brewery','Harry\'s International Pte Ltd','Hartwall Helsinki Panimo','Harvey & Son Ltd.','Haymarket Pub & Brewery','Hazel Dell Brewpub','Heads Up Brewing','Heartland Brewery Union Square','Heineken Nederland B.V.','Heiner Brau','Hermann Brewing Company','Hermitage Brewing','Herslev Bryghus','Hesket Newmarket Brewery','High House Farm Brewery','High Water Brewing','Hite Brewery Company LTD','Hochstiftliches Brauhaus','Hoeksche Waard Bierbrouwerij','Hofbräuhaus Traunstein Josef Sailer KG','Hogshead Brew Pub','Hood Canal Brewing','Hook & Ladder Brewing Company (No. 2)','Hop Back Brewery plc','Hopdaemon Brewery Company','Hoppin\' Frog Brewery','Hoptown Brewing Company','Huisbrouwerij Boelens','Huisbrouwerij Old Bailey','Huntington Beach Beer Company','Hurricane Brewing Company','Ibbl Ashkelon / Tank Beer','Iceni Brewery','III Dachshunds/City Lounge','Illinois Brewing Company','Inchant Brewery / Rose and Crown Hotel','Independence Brewing Co.','Indian Wells Brewing Company','Indigo Imp Brewery','Industrial Norte Paranaense De Bebidas Ltda','Interbeer','Irkutskpisheprom','Issaquah Brewhouse','Ithaca Beer Company','J. Boag & Son Brewing','Jack\'s Abby Brewing','Jack\'s Brewing Company','Jack Russell Brewing Company','Jacob Leinenkugel Brewing Company','Janake Wine Group AB','Jarrah Jacks / Pemberton Brewing Company','Jasper Murdock’s Alehouse, Dining Room & Microbrewery','Jaxon\'s Restaurant and Brewing Company','Jennings Brothers PLC','John Harvard\'s Brewery & Ale House','John Martin\'s (John Martin SA)','Joseph James Brewing Inc.','Judge Baldwin\'s Brewing Company','Königsbacher Brauerei','Königsegger Walderbräu AG','Kaiserdom Privatbrauerei Bamberg','Karlsberg Brauerei','Kauzen Bräu','Keegan Ales','Kelburn Brewing Company','Keltic Brewing Company','Kichesippi Beer Co.','Kiuchi Brewery','Kláterní pivovar Želiv s.r.o.','Klinskiy Pivokombinat','Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH','Knee Deep Brewing Company','Kolos OAO/ Ledyanoy Stakanchik','Kombolcha Brewery','Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)','Krönleins Bryggeri AB','Krasniy Vostok','Krasnyj Vostok','La Tour A Bières','Lake Superior Brewing Company','Lakeport Brewing Company','Lan Kwai Fong Beer','Latrobe Brewing Co.','Lazy Boy Brewing','Le Brasse-Temps (Mons) / Microbrasserie Le Brasse-Temps','Le Grimoire','Lead Feather Brewing Company','Leek Brewing Company Ltd','Lefty\'s Brewing Company','Les Brasseurs de Gayant','Les Brasseurs du Hameau','Les Frères Houblon Microbrasserie','Liberty Steakhouse & Brewery','Lillehammer Bryggeri AS','Lindenbräu','Little Valley Brewing Ltd','Lone Peak Brewery','Lovely Valley Beverage Factory','Mahogany Ridge Brewery & Grill','Mahou S.A.','Mahrs-Bräu','Malbera S.A. (Brau-Union Romania)','Mano\'s Grill & Brewhouse','Maribo Bryghus (Royal Unibrew)','Mariposa Brewing Company','Market Street Brewing Co. and Restaurant','Mash','Masthead Brewery','Matt Brewing Company','McCallum Brewery','McMenamins','Methow Valley Brewing Company/Twisp River Pub','Micro-Brasserie Breughel','Micro-brasserie Saint-Arnould','Micro Cervejaria Bamberg','Microbrasserie du Lièvre','Microbrasserie Le Corsaire','Mikkeller ApS','Minakuchi Shuzo, K.K.','Minhas Craft Brewery','Minneapolis Town Hall Brewery','Minnesota Brewing Company','Mishawaka Brewing Company','Moffat Station Brewery','Mohrenbrauerei August Huber','Molson Coors Canada','Monte Carlo Casino Pub & Brewery','Monteith\'s Brewing Co.','Montgomery Brewing Company','Moosehead Breweries Ltd.','Motor City Brewing Works','Moulin Hotel & Brewery','Muskoka Brewery','Namibia Breweries Limited','New England Brewing Co.','Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery','Nordbräu Ingolstadt GmbH & Co.','O\'Fallon Brewery','O\'Griff\'s Irish Pub & Brewhouse','O\'so Brewing Company','Oakland Brewing Company','Oakshire Brewing','Obolon Brewery','Ochakovo','Oderland Brauerei GmbH','Oettinger International Getränke-Vertriebs GmbH','Officina Della Birra','Oggi\'s Pizza & Brewing Co.','Ohio Brewing Company','Old Dominion Brewing Company','Old European Brewing Company','Old Hat Brewery & Grill','Old World Brewery','Oldenberg Brewing Company','Olvi Oyj','Orlando Brewing Partners','Ostankinskiy Pivovarinniy Zavod','Otro Mundo Brewing Company','Oy Sinebrychoff Ab','P&DJ Goacher','Pécsi Sörfözde','Pabst Brewing Company','Pacific Western Brewing Company','Paddock Wood Brewing Co.','Palos De Moguer - 82','Papago Brewing','Paper City Brewery Co., Inc.','Parkbrauerei / Park & Bellheimer AG','People\'s Brewing Company','Perla Browary Lubelskie S.A.','Peschl Bräu','Pfungstädter Brauerei','Phoenix Beverages Group','Picobrouwerij Alvinne / Den Bierzolder','Pig\'s Eye Brewing Company','Pints Brewery & Sports Bar','Pints Pub and Brewery and Freehouse','Pioneer Brewing Company','Pittsburgh Brewing Co.','Pivobezalkogolniy Zavod Severskovo Pischekombinata','Pivovar &#268;erná Hora','Pivovar a Sodovkárna Jihlava','Pivovar Breznak','Pivovar Eggenberg & Restaurant Eggenberg','Pivovar Janá&#269;ek','Pivovar Radegast a.s.','Pivovar Rohozec','Pivovar Vykov','Pivovara Li&#269;anka','Pivovaren Zavod Varensko Pivo','Pivovariya Ivana Taranova','Pivovarna Laško','Pivovarna Union','Pivovary Staropramen','Pivzavod AO Rosar','Pivzavod AO Yantar','Poltavpivo','Portland Brewing Company','Postbrauerei Weiler u. Siebersquelle Anton Zinth KG','Pott\'s Naturpark-Brauerei / Pott\'s Brau und Backhaus','Potters Hotel & Brewery (Hunter Beer Co)','Powerhouse Restaurant And Brewery','Privatbrauerei Ernst Barre GmbH','Privatbrauerei Franz Inselkammer KG / Brauerei Aying','Privatbrauerei Gaffel Becker & Co.','Privatbrauerei Hofmühl GmbH','Privatbrauerei Jacob Stauder GmbH & Co. KG','Privatbrauerei Kesselring Gmbh & Co. KG','Privatbrauerei M. Ketterer GmbH & Co.','Q Beer','Quarry Brewing Company','Ram International / Humperdinks Restaurant and Big Horn Brewing','Red Lion Ales','Ringnes Bryggeri (Carlsberg)','Rinkuškiai Alaus Darykloje','Rivergate Brewing Company / North End Pub','Riverside Brewing Company','Rockslide Brewery & Pub','Rogan Brewery','Rogue Ales','Rooster\'s Brewing Company Ltd.','Roslyn Brewing','Roth Brewing Company','Round Barn Brewery','Royal Unibrew A/S','Russkaya Pivovarennaya Kompaniya "Chmelyoff"','Ryburn Brewery','S. C. Martens S. A.','Sacramento Alehouse (Pyramid Breweries)','Sacramento Brewing Company\'s Oasis','Saigon Beer Company','Sail and Anchor Pub Brewery','Saku Brewery LTD','Samarqand 1-Son Pivo Zavodi Pulsar','Samba Brewing Co. & Winery','San Francisco Brewing Company','San Miguel Corporation','Sancolodi','SandLot Brewery @ Coors Field','Sapporo Breweries Ltd.','Sarmat','Sauris AgriBeer S.a.s','Scattor Rock','Schlossbrauerei Stein Wiskott GmbH & Co. KG','Schlossbrauerei Stelzer','Scottish Chief\'s Tavern Brewery','Sea Dog Brewing Company','Seven Brides Brewing','Severnaya Zvezda','Shaftebury Brewing Company','Shenandoah Brewing Co.','Shepherd Neame Ltd','Shoreline Brewery And Restaurant','SIA Piebalga Alus','Sierra Madre Brewing Co.','Sierra Nevada Brewing Co.','Silverton Brewery','Simonds Farsons Cisk Plc.','Skagit River Brewery','Skyscraper Brewing Company','Slavutych Brewery','Smoky Mountain Brewery & Restaurant','Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company','Société Des Brasseries De L\'Ouest Africain (S.O.B.O.A.)','Sonoma Springs Brewing Co.','South African Breweries plc','South Australia Brewing Co.','Southend Brewery & Smokehouse','Specklebelly\'s Brew Pub','Spendrups Bryggeri AB','Sprecher Brewing Company','St. Croix Brewing Company, LLC','Steamworks Brewing Co.','Steelback Brewery','Steelhead Brewing Co.','Stillwater Artisanal Ales','Stockholm\'s','Stoudts Brewing Co.','Sun King Brewing Company','Swan Brewery','Sweetwater Tavern & Brewery','Syktyvkarpivo','Syracuse Suds Factory','Tallgrass Brewing Company','Tarricone S.p.A.','Taylor Brewing Company','Tenaya Creek Brewery','Tennent Caledonian Breweries','The Brew Kettle Taproom & Smokehouse / Production Works','The Bruery','The Fat Cat Beer Company','The Grey Parrot','The Livery','the Nils Oscar Company','The Olde Heidelberg Tavern and Brew Pub','The Phoenix Ale Brewery','The Seven Barrel Brewery','The Stable','The Tap Brewing Co. & Eatery Inc.','The Tap Brewing Company','The Two Metre Tall Company Pty Ltd','The Vermont Pub & Brewery','Thirsty Dog Brewing Company','Thisted Bryghus','Thunder Canyon Brewery','Tinkoff','Titanic Brewery','Tommyknocker Brewery','TOMP Beer & Spirits','TOO Kompaniya Ak-Nar ("Derbes")','Topvar Brewery','Townsville Brewing Co.','Tröegs Brewing Company','Tracks Brewing Company','Trafalgar Ales & Meads','Trailhead Brewing Company','Trebjesa Brewery','Tuborg Deutschland GmbH','Tuborgs Bryggerier A/S','Tunbridge Brewing','Tustin Brewing Company','Två Bryggare - Österlenbryggarna (Ysta Bryggeri)','Two Rows Restaurant & Brewery','Two Rows Restaurant And Brewery','UAB Švyturys','Uinta Brewing Company','Uncle Buck\'s Brewery & Steakhouse','Uncle Stuart\'s Brewery','Uncommon Brewers','UNICER União Cervejeira S.A.','Union De Cervecerias Peruanas Backus y Johnston','United Breweries - UB Group','Utah Brewers Cooperative','Valkyrie Brewing','Van Der Bönerbosch Brewing Company, LLC','Vecchio Birraio','Vena Brewery','Vereinigte Kärntner Brauereien AG','Vityaz','Von Jakob Brewery','Waimea Brewing Company','Wallace Brewing / Orehouse Tasting Room','Wallhall Brauhaus Im Lamm','Warsteiner Brauerei','Wasatch Brew Pub','Weissbierbrauerei Andorfer','Weissbierbrauerei Hopf','Weisses Bräuhaus G. Schneider & Sohn GmbH','Wentworth Brewery Limited','West Coast Brewery','West Virginia Brewing Company','Weyermann Brauerei GmbH','White Birch Brewing','Whitstran Brewing Company','Wild Rose Brewery & Taproom','Wildwood Brewing Co.','Willimantic Brewing Co.','Windsor Castle Brewery (Sadler\'s Ales)','Wooden Hand Brewery','Woolshed Brewery','World Brews','Wychwood Brewery Company Ltd','Yantar Brewery','Yazoo Brewing Company','Yumeminatobeer Co. Ltd.','Zeos Brewing Company S.A.','Zhigulovskiy Pivo-Byezalkogolniy Kombinat/U Vakano'}
+@attribute X1187375037 numeric
+@attribute X2 numeric
+@attribute X2.1 numeric
+@attribute X3 numeric
+@attribute bark {'','2Stout4u','77ships','aasher','adamette','AdamVCU','ADZA','AEK','aeolianshredhead','aforbes10','AgentZero','aidanskinner','ALESwhatCURESya','alexgash','alexhahn82','allergictomacros','alleykatking','AMo','Andreji','andrenaline','antilogic','Arbitrator','armock','arturorg','Asgeirr','assurbanipaul','atis','AtLagerHeads','AtrumAnimus','avaldivia','babaracas','bark','barleywinefiend','BasementBer','BayerischBier','BDJake','BDTyre','beckje01','BeerAdvocate','Beerandraiderfan','BeerBelcher','beerdrifter','beerguy101','beerhobo22','BeerLover99','BeerManDan','beernut7','beersabound','beersensei305','beerthulhu','beerwolf77','benfons','benito','benmiliron','Bfarr','biboergosum','bigbelcher','BigBry','Bighuge','bigkingken','biglobo8971','BlackHaddock','blitheringidiot','BlurryVisi0n','BoitSansSoif','boss302','Boto','Brabander','brdc','brendan13','Brent','breweryaprntc13','BrewnZ','britbrew10','Bryson','BSF','BucBasil','BuckeyeNation','buschbeer','busternuggz','CAMRAhardliner','CamuMahubah','canucklehead','carl','catrone','CBFanWish','ccrida','cdkrenz','ChainGangGuy','champ103','CharlesDarwin','Chinook','ChokeHold','chrisrose30','codewarrior','codysjb','ColForbinBC','connecticutpoet','Converge','cpolking','cptierney','crankset','craytonic','CrazyDavros','CrazyMike','cretemixer','crnipeter','crossovert','crusian','ctdfalconer','CuriousMonk','CurtisLoew','cyrenaica','dansmcd','DaPeculierDane','Daredevil','DarkDryad','DarthKostrizer','dasenebler','DCon','Deconstructionis','Dentist666','depechemode1983','DerBayer','Derek','dfitch81','diablo14','dirtylou','Dithyramb','divineaudio','djeucalyptus','djura','DmanGTR','Dmitri','Dogbrick','Dogshirt','DoubleJ','drabmuh','DrinkSlurm','drpimento','DrunkMcDermott','Durge','dyan','eduardolinhalis','EdWort','ElCommodoro','ElGuapo','elmocoso','elNopalero','emerge077','emmasdad','ernie','eschuber','ExtraStout','Fabric8r','fattyre','femALEist','Finite','fizzy','flyingpig','ForWhatAlesYou','FosterJM','freed','Frijolyqueso','froghop','Frozensoul327','GabesAles','garuda','GCBrewingCo','Gehrig','gfreed','Globetrotter','gnoff','goblue3509','Goldorak','GONZALOYANNA','GooberMcNutly','goschool','GossageBrewery','granger10','GRG1313','grub','grumpy','Guinness4me','Gusler','Halcyondays','HalfFull','happygnome','HappyHourHero','harrymel','hbridgers','hedonist91','hermes01','hidk09','Higravity','hoegaardenhero','homebrew311','hoobaga','hopdog','HopsAreOverrated','htomsirveaux','hu5om','HugePlume','Huhzubendah','hunteraw','iceball585','iDrinknewglarus','ikats','ILikeGoodCider','ILJAY','illidurit','IMPERALEVERYTHIN','indiapaleale','IronDjinn','ixodus','jale','JanM','janubio','jarmby1711','Jason','JayS2629','JayTheFinn','jazzyjeff13','jbonapar','jcalabre','jdhilt','JDV','jeranbrews','jeremyd365','Jesse13713','jimbus','jmarsh123','jneiswender','joecast','johnfurbock','johnnnniee','JohnnyBarman','johnwarne','Jonte','joshuacavett','jpm30','jsh420','jsouza','jsprain1','jtrockchalk','JuicesFlowing','juju7','jwc215','JWU','jzeilinger','KarlHungus','kbub6f','kenito799','Kevuas','keytown','khuygie88','kjc51478','KlausKinski','kmacphail','kmperkin','Knapp85','KnutAlbert','kojevergas','KTCamm','ktrillionaire','Kulrak','kunzbrew','lacqueredmouse','laituegonflable','Lakes','lakevalley','LambicKing','LanceW','largadeer','Lexluthor33','likestoswallow','LilBeerDoctor','listenatjoes','LittleCreature','LordofTime25','lstokes','LucaBrasi','Macca','madjr80','madtappers','Magerstraat','malmquna','ManekiNeko','ManforallSaisons','Mar02x','MasterSki','match1112','MattyV','mauricioduque','maxpower','Mdog','Mike22','mikesgroove','MississaugaMatt','MisterClean','MNTom','Mora2000','Morris729','mostpoetsdo','MrKennedy','mrmanning','MrOH','MTNboy','mulder1010','Murrhey','mustolense','MWP','Naerhu','nick76','nickd717','nickhiller','Nickls','NOOGIE','northyorksammy','Noxious26','ocelot2500','ohmybock','olimpia84','OMGTheyKilkenny','ONUMello','optimator13','oracle','ORM1','Overlord','OWSLEY069','Padron4KM','papat444','paterlodie','patto1ro','Pegasus','PEIBeerGuy','Pencible','philbertk','Phyl21ca','pinkano','plaid75','PLANETBUSTERRAVE','pollox87','pootz','popery','powerss13','properhops','psiweaver','pwent','Rapax','rarbring','Rastacouere','rastaman','RBorsato','rbowser','Realale','RedDiamond','redjameskidd','Redrover','Reidrover','renegadeburger','ricke49','Rifrafboy','Rifugium','rinhaak','ritzkiss','rodenbach99','RonBeerBox','RonfromJersey','rowew','RoyalT','Ryan011235','rye726','samie85','scottfrie','Seanibus','seanyfo','secondtooth','sfprint','Shadman','Shaw','Shiloh','shivtim','Sigmund','silentjay','silentnoiz','skypup','slitherySOB','sloejams','smcolw','sound67','spinrsx','ssbeer','stcules','stephendr','stjaernstoft','stjarnflikka','Suds','SunDevilBeer','Sunnanek','sunrisesolara','SurlyDuff','sweemzander','sweett3k','t0rin0','TAMU99','TastyTaste','tavernjef','tbeckett','tempest','TerryW','tesguino','tewaris','tgbljb','ThaCreep','TheBrewo','TheCorkStopsHere','THECPJ','TheDeuce','TheGordianKnot','TheHoppiest','Thehuntmaster','thehyperduck','TheLongBeachBum','theotherone87','thesilverhand','thierrynantes','ThirstyBird','Thorpe429','tigg924','Tim','tj4288','TMoney2591','TobiasGoth','Tone','tone77','toolbrew','Travlr','travolta','trentley87','treque','trevorwideman','Truh','TubaManJack','TurdFurgison','txbrewer','uabigdaz','UnionMade','Urbancaver','vette2006c5r','Viggo','vw73182','walleye','walshclimb','Wasatch','watermelonman','wcintula','weatherdog','weeare138','Weissenheimer','WesWes','whatthehull','wisrarebeer','wl0307','womencantsail','WoodBrew','woodychandler','wordemupg','xoqx','xuehua','ZorPrime','Zorro','zsk'}
+@attribute Euro.Pale.Lager {'Altbier','American Adjunct Lager','American Amber / Red Ale','American Amber / Red Lager','American Barleywine','American Blonde Ale','American Brown Ale','American Double / Imperial IPA','American Double / Imperial Stout','American IPA','American Malt Liquor','American Pale Ale (APA)','American Pale Lager','American Pale Wheat Ale','American Porter','American Stout','American Strong Ale','American Wild Ale','Baltic Porter','Belgian Dark Ale','Belgian IPA','Belgian Pale Ale','Belgian Strong Dark Ale','Belgian Strong Pale Ale','Berliner Weissbier','Bière de Garde','Black & Tan','Bock','California Common / Steam Beer','Chile Beer','Cream Ale','Czech Pilsener','Doppelbock','Dortmunder / Export Lager','Dubbel','Dunkelweizen','English Barleywine','English Bitter','English Brown Ale','English Dark Mild Ale','English India Pale Ale (IPA)','English Pale Ale','English Pale Mild Ale','English Porter','English Stout','English Strong Ale','Euro Dark Lager','Euro Pale Lager','Euro Strong Lager','Extra Special / Strong Bitter (ESB)','Flanders Oud Bruin','Foreign / Export Stout','Fruit / Vegetable Beer','German Pilsener','Gueuze','Happoshu','Hefeweizen','Herbed / Spiced Beer','Irish Dry Stout','Irish Red Ale','Japanese Rice Lager','Kölsch','Keller Bier / Zwickel Bier','Kristalweizen','Lambic - Fruit','Light Lager','Low Alcohol Beer','Märzen / Oktoberfest','Maibock / Helles Bock','Milk / Sweet Stout','Munich Dunkel Lager','Munich Helles Lager','Oatmeal Stout','Old Ale','Pumpkin Ale','Quadrupel (Quad)','Russian Imperial Stout','Rye Beer','Saison / Farmhouse Ale','Schwarzbier','Scotch Ale / Wee Heavy','Scottish Ale','Smoked Beer','Tripel','Vienna Lager','Weizenbock','Winter Warmer','Witbier'}
+@attribute X2.2 numeric
+@attribute X2.3 numeric
+@attribute Harboe.Sommarbrygg {'&#268;erná Hora Páter','110K+OT Batch #3 - The Other West Coast IPA - Cedar Aged (Humidor Series)','26°','3 Coins Malt Lager','333 Premium Export Beer','3B','4.1 Täyteläinen Kevyt Olut','8 String Ale','A. Le Coq Double Bock','A. Le Coq Pilsener','A.K. Damm','Økologisk Thy Pilsner','Åbro Arton56 5,2%','Åbro Export','Åbro Julöl','Åbro Kung 5,2%','Åbro Original 3,5%','Åbro Sigill','Åbro Sjukommatvåan','Åbro Småland 3,5%','Åbro Svensk Starköl','Éli','Érable Rouge','Évasion','Abbaye De Valmagne Ambree','Abbaye Du Park Blonde','Abeelsen Tripel','Abt Andreas Traditionstrunk','Adelskronen Pils','Adler Bock','Adriaen Brouwer Audenaerds Bruyn','Afanasy Gold Premium','Afanasy Ultra Premium','Agent 99','Airship Light','Akashi Roman Beer','Alcatraz Weiss Guy Wheat','Ale Of Atholl','Ale Of The 2 TUN','Ale Of The Hermit','Alehouse Amber Ale','All American Lager','Allegheny Cream Ale','Allgäuer Ökobier','Alt Porter','Alt Pott\'s Landbier','Altbayerisch Dunkles','Altenbräu Spezial','Altitude Amber Ale','Amalgamated IPA','Amarillo Hops (Single Hop Series)','Amazon Ale','Amber Cereza Style','Amber Dry Lager','American Light','Amnesia Brown','Amstel (Pure Filtered)','Amstel Oud Bruin','Amsterdam Natural Light','Amur Pivo Svetloye','Andelot Cuvee Angelique','Anderssons 5,2%','Andorfer Weizen','Apin&#299;tis Gaiais Alus (Apinitis Pale Beer)','Apricot Fred','Ar-Men Blonde','Arboga 5,6','Arboga 7,3','Arboga Ekologisk','ArchAngel','Aristokrat Svetloye','Arsenalnoye Krepkoye (Strong)','Asahi Super Dry','Asahi Super Yeast Kokukoku No Nama Beer','Aspargesøl','Aspen Edge','Atwater Rost','Augusti Månens Premium','Auld Humdinger','Authentique Ambrée','Ayinger Bräu Hell','Želiv Gottschalk','Azumino Dunkel','Bächla Leicht','Böner Sun-Kissed Wheat','Back Bay Bitter','Bad Monkey Chimp Chiller Ale','Baden Baden Red Ale Especial','Bagge Bocköl','Baja Blond','Balea','Ballards Foxy','Ballistic Brewing Co. - Gorgon Red Ale','Balmain Original Pale Ale','Baltika #10 Jubilee','Bamberg Alt','Bambino Ale','Barada','Barbeau L\'Audacieuse','Barefoot Radler','Barking Fish Porter','Barley Gold','Barre Maibock','Battin Extra','Bavaria Blues','Bavaria Cerveza Premium','Bavaria Light','Bayerisch Zunftherrn Kristall-Weizen','Bayern Dunkel','Beckers Lager','Beer Svetloye Klassik','Beethoven','Belgian Brown Bier','Belgian Style Dark','Belgian Triple','Bell\'s Cherry Stout (Reserve, 2001)','Bell\'s Eccentric Ale 2004 (Released 2005)','Bell\'s Homegrown Ale','Belzebuth','Belzebuth 8,4','Benediction Ale','Bennett Dominion Ale','Berghoff Original Lager Beer','Berliner Bürgerbräu Bernauer Schwarzbier','Berliner Kindl Weisse Mit Schuß Waldmeister','Berliner Weisse','Bière Blonde D\'Alsace','Bière Du Désert','Bière Rouge','Biere Noel','Big Bear Malt Liquor','Big Dave\'s Jamaican Lager','Big Horn Chocolate Cream Stout','Big Horn Light','Big Red One','Big Worster (Experimental Edition)','Bighorn Bitter Ale','Bios Hop & Mout','Birie&#269;iu','BirkeBryg','Birra Morena Standard','Birra Venezia Bionda','Black Hole (Red Wine Edition)','Black Hole (Rum Edition)','Black Star Double Hopped Golden Lager','Black Tail Stout','Blackhorse','Blackwater Gold Ale','Blanche De Ste Waudru','Blanche Des Trois-Rivières','Blew Kilt','Blonde Bomb','Blonde Pilsner','BluCreek Herbal Ale','Blue Ice','Blue Marlin','Blue Moon Spring Blonde Wheat Ale','Blueberry Wheat Ale','Blues Strong Ale','Bluetongue Premium Light','Boag\'s Draught Light','Boag\'s Strongarm Bitter','Bock Damm','Boerke Blond','Bofferding Lager Pils','Bogemskoye','Bommen & Granaten','Bootleg Amber Light','Borbecker Helles Dampfbier','Borg Pilsener','Boscos Famous Flaming Stone Beer','Bourbon Barrel-Aged Baltic Porter','Bourbon Barrel Brown','Boxer Ice','Brahma','Brahma Extra','Brahma Light','Brandy Barrel-Aged Baltic Porter','Braustolz Kappler Festbier','Brewer\'s Gold','Brewer\'s Oar Cream Ale','Brewer\'s Special Stout','Breznak Bernstein','Briarpatch Amber Ale','British Pale Mild','Bruch Zwickel','Brush Fire Summer Ale','Bucegi','Buckenham Woods','Bullant Bitter','Bullant Bock Bier','Bulldozer Honeyweizen','Bullrush Barleywine','C Street Wheat Ale','Cañón Del Huajuco','Cable Car Small Batch Lager','Camelback IPA','Camo Black Extra','Camo Silver ICE','Canyon Cream Ale','Cariboo Genuine Draft','Carl Theodor Lager','Carling Chrome','Carling Draft','Carlsberg Beer 3,5%','Carlsberg Lager (UK)','Carlton LJ','Carlton Midstrength','Carnegie Porter 3,5%','Cascade Lager','Casta Premium','Castegna','Castle Lite','Cellar Door','Celtika 8.8','Celtika Blonde (Rohane Blonde)','Cerberus Tripel','Ceres Royal Export','Ceres Royal Selection (Ceres Strong Ale Export)','Ceres Weiss','Ceres Wheat','Cerveza Jerome Andean Red Ale','Cerveza Jerome Rubia','Cerveza Leona','Chapeau Apricot Lambic','Chapeau X\'mas Gueuze','Cherokee Red Ale','Cherry Hefeweizen','Cherry Rail Fruit Beer','Chili-Smoked Hefe','Chiller\'s SOB Light','Chinook Indian Pale Ale','Chocolate Oatmeal Stout','Chocolate Porter','Christian Firtal','Christian Firtal Guldøl','Cinco Estrellas','Cisk Lager','Classic Bitter','Clipper Light','Cnudde Bruin','CO-OP Gold Premium Light Lager','Coach House Dick Turpin','Coal Porter','Codys Super Strong','Coedo Beniaka','Coedo Kyara','Colônia Pilsen ','Colón Mestiza','Cold Shivers Pale Ale','Colonel Harrington\'s IPA','Colt 45 Malt Liquor','Colt Ice Beer','Comenius','Complice 2009','Coopers Clear','Copper Legend','Copperhead','Cornish Buccaneer','Cranberry Special Ale','Cream Of Porter','Creemore Springs Kellerbier','Crikak','Cristal','Crop Circle','Crown Gold','Crown Lager','Cubanero Fuerte','Cucapá Honey','Cuvée Des Hauts Voués De L\'Avouerie D\'Anthisnes','Cuvée Romedenne "Spelziale" 2007','Czechmate Pilser','Déesse Étoilée','Dahls Pils','Dama Bier Weiss','Damburger Royal Pils','Damm Lemon','Danbryg 2,8%','Dansk Pilsner','Dark Bock','Dark Construct Stout','Dark Horse','Dark Moor','Dark Star Lager','DB Draught','Death Valley Pale Ale','Deep Creek Gold','Der Postillon Hefe Weizen','Desperados','Desperados Mas','Desperados Red','Diamond Draft','Die Weisse Hell','Diekirch Grand Cru Ambrée','Dim Sum Beer Winter','Divine Harvest Dunkelweiss','Dogo Stout','Dominion Irish Cream Ale','Don\'t Panic ESB','Don Southern Lager','Donatus','Donauer Gold','Doppel Caramel','Dopple Weizen','Dorée','Downtown Nutbrown Ale','Dragonmead Kaiser\'s Kölsch','Dreher Köbányai','Drive Beer','Dubbel','Duff Extra','Duke\'s Dodgerhator','Dukes Big Ass Beer (Hefeweizen)','Dumb Luck Special Winter Porter','Dundee India Pale Ale','Dundee Stout','Dunedin Nitro Stout','Dunham Castle Limited London Nutty Brown Ale','E.T.A. (Ernst Theodor Amadeus) Hoffmann','Ebony Porter','Ed Hardy Death Or Light Beer','Efes Light','Eggenberg Helles Bier','Ein Stein Pilsner','Einbecker Brauherren Premium Pils','El Dorado Premium Pilsener','El Rey Mexican Style Ale','EleganT Winterprinses','Eliksir','Elk Rock Bugling Bull Hefeweisen','Elk Rock Velvet Antler','Elm City Lager','Elora ESB','Emily\'s Ember','EMU Draft Midstrength','Encino Pale Ale Manzana','Engel Tyrolian Bräu WRONG BREWERY SEE SCHWABISCH GMUND','Engelburg Original','English Stout','Erdinger Weissbier Leicht','Eriksberg','Erstes Pschennichnoye','Esser\'s Best Original','Ettaler Weißbier Hell','Euradort Export Lager','Eureka Red','Export Pils','Fürst Wallerstein Hell','Fairtrade Ginger Pale Ale','Falcon Ale 5,0%','Falcon Bayerskt 2,8%','Falcon Juöl 3,5%','Falcon Little Big 3,5%','Farm Hand','Farny Kristall-Weizen','Fat Cat Lager Beer','Fattigauer Pilsener','Faxe Fad','Faxe Strong','Feldschlosschen Cardinal Lager','FFFado','Fiddler\'s Finest','Fiend Red Rye Ale','Fiji Bitter','Filibuster Pils','Fish King','Fistful Of Hops','Flag Spéciale Bière De Luxe','Fleurieu Sparkling Ale','Flodder','Fohrenburger Stiftle','Folie Douce','Forester Pale Ale','Fosters Special Bitter','Founders Homegrown Spite (Mild)','Founders Noble Lager','Founders Oatmeal Stout','Frederick Scholz Ice','Frederick Scholz Lager','Freestyle Wheat Beer','Fruitesse Framboos-Framboise','Frydenlund Pilsener','Gale\'s Prize Old Ale','Genesee Ice Beer','German Dunkel','German Hefeweizen','German Premium Beer Cool & Crush','Ginger Beard','Glenk Pils','Glutenberg','Goachers Fine Light Ale','Golden Gate Amber Ale','Golden Leaf','Golden Lion','Golden Pilsner','Golden Zhujiang','Golding\'s Session Ale','Goliath','Good Bastard\'s Dark Ale','Gordon Finest Platinum 12-12','Gordon Five','Gordon Halloween','Goth','Grain Belt Premium (old)','Grain D\'Orge Cuvée 1898','Gran Riserva','Grans Bare Jul','Grans Bright Beer','Great Lakes Engine 20 Smoked Pale Ale','Great Western Gold Strong','Great Western Original 16','Grizzly Bock','Grizzly Peak White Ale','Grumpy\'s Oatmeal Stout','Grumpy Tonk\'s Green Death','Grunn Goudhaantje','Gubernatorskoye','Gueze','Gulf Lager','Gunslinger Double IPA','Gusta','Gustav Werner Alt Amber Ale','Hacienda Bueno Blanco','Hacienda Negra Noche','Haerlemsch Herfst-Bock','Hahn Premium','Hairy Weasel Hefeweizen','Hal\'s Pale Ale','Halmstad Sommar Lager (2010)','Harboe Den Glada Danskens Lättöl','Harborside Lager','Harpoon 2009 Chocolate Stout Brewed With Brettanomyces','Harrington\'s Lazy Summer Lager','Harry\'s Premium Lager (HPL)','Hartmann Edelpils','Harveys Elizabethan Ale','Harveys India Pale Ale','Hauenstein','Hazelnut Brown Ale','HB Blonde','Heartland Brewery Summertime Apricot Ale','Hell Hound Brown','Henry Weinhard\'s Blue Boar Ale','Heritage Blackcurrant Rye Lager','Heritage Premium Lager','Hermann Muller Premium Lager','Heroes Bitter','Hidalgo','High Country Hefeweizen','Hik Bier Bruin','Hiroyuki Espresso Porter','Hite Stout','Hive','Hodag Wheat Ale','Hoeksch Bokbier','Hofbrau Oktoberfest','Hofmühl Dunkel','Holidaze','Hominy Pot E.S.B.','Honey Brown Lager','Honey Light Ale','Honey Wheat Beer','Honeymoon Wheat','Hook & Ladder Grassfire Wheat','Hopback Halcyon Daze','Hopdaemon Bewitched','Hopf Die Leichtere','Hopfenkopf','Hopfenmandli Zuger Lager Dunkel','Hopleaf Pale Ale','Hoppin\' Dog','HopStar IPA','House Ales Mid Day Mild','Hunter Kolsch','I\'m So Lonely Belgian Single','I.C. Light Mango','I.P.A.','Ian Kinross & Co Highland Stout','Ice Pick Ale','Iguana','Iguazu','Imperial Ale','Imperial Black Night Wonder Whammer','Imperial Pale','Independence Rood','Indian River Amberjack Alt','Industrial Belgain Blonde Ho','Irbis Golden','Irlbacher Premium Exzellent','Ironhorse','IrreAle','Isekadoya Pale Ale','J Absinthe','Jacks Mango Wheat','Jacob Rosenberger & Son Germanic Style Dark','Jagged Little Pilsner','Jalepeño Ale','Jarrah Jacks Honey Porter','Jaxon\'s Borderland Lager','Jihlavsky Grand','Jimbo & The Technicolor Hop Sack','Johann Baptist Weissbier','Jubiler','Julöl 3.5%','Kürzer Pils','Kaiser Dunkel','Kalnapilis In Ice','Kameleon Ginseng','Kampai','Kanterbräu Gold','Karjala Export IV B','Karlsberg Black Baron','Karlsberg Export','Karlsberg Pils','Karlsberg Weizen Dunkel','Kauzen Winter Weisse','Kemphaan Extra','Ketterer Schützen-Bock','Ketterer Zwickel Pils','Keystone Lager','Keystone Light','Kilted Elk','Kingfisher Draught','Kingfisher Light Lager','Kitaro Alt','Klinskoye Samurai','Klinskoye Wow','Kneewalker Double IPA','Koch\'s Golden Anniversary Beer','Koff IV A','Komanda Krepkoye','Konig Lemon','Kopernik','Kopparbergs Special Brew X-strong','Korsakovskoye Svetloye','Krasniy Vostok Originalnoye','Krasny Vostok Classic Beer','Krystal Weis','Kul Light','La Binchoise Triple','La Bionda Dell\'Officina','La Birlouette','La Blanche Des Anges','La Brasse-Temps Des Cerises','La Fabuleuse','La Perruche','La Petite Munich','La Playa','La Rossa Dell\'Officina','La Saint-Hubert Cuvée De La Chasse','La Salamandre','La Scottish','La Tour-Menthe','La Tropical','Lacto Traditional Stout Beer','Lake Louise Lager','Lakeport Pilsener','Lakeport Premium Lager','Lakeport Wee Willy Dark Scottish Style','Lambrate','Latitude 48 Deconstructed IPA - Ahtanum','Latvijas Sevi&#311;ais','Laupheimer Edelbräu','Lav Twist','Layla Dirty Blonde Lager','Lazy Boy Dry Hop IPA','Leffe Radieuse','Leinenkugel\'s Oktoberfest','Li Berwette','Libra Mais','Licorice Stout','Lil\' Lyddie\'s IPA','Lillehammer Brewery Pilsner','Lobster Lovers Beer (Blue Label)','Lone Peak IPA','Lost Lake','LPA (Lauren\'s Pale Ale)','Lubelska','Lucky Number High Gravity Lager','Lupulin Fresh Hop Ale','Lupus Ale','Lysée Dorée','Lysée Noire','Märzen Madness','Maduro Nut Brown Ale','Magnolia Star Malt Liquor','Magnum Daisy','Mandrin Au Sapin','Maribo Slots Classic','Maribo Slots Pilsner 2,8%','Mariestads Continental','Mariestads Julebrygd 3,5%','Market Street Wrought Iron Red','Mash Wheat','Masthead Storm Brew','Mastra Negra','Mazarol','McCeol\'s Irish Red Ale','Medalla Light','Meister Max','Melbourne Bitter','Melby Dick\'s Great White Porter','Mellis','Mentirosa Light','Meteor Pils','Metolius Hare\'s Ear Hefeweisen','Mexicali Special Dark Beer','Mike\'s Own IPA','Milwaukee Premium Brewing Company Classic Ice','Milwaukee Premium Brewing Company Classic Light','Minhas Creek Lime','Minhauzen','Moeder Lambik Amber','Mohren Spezial','Molson Kick','Monasyrske Svitle','Monte Carlo Jackpot Pale','Monte Carlo Winner\'s Wheat','Monteith\'s Original Ale','Moosehead Dry Ice','Moosehead Premium Dry','Morgane','Motor City Motown Lager','Motor City Summer Brew','Mound Builder IPA','Mountain Creek Classic Lager','Mt. Takhoma Blonde Ale','Mystic Au Citron','NACHWIRKUNGEN-FEST','Nashville Steamer Golden Ale','Natural Draft','Nette Edel Pils','Nettle Beer','Nevskoye ICE','Nevskoye Light','Nevskoye Original','Newport Storm - Mark (Cyclone Series)','Nikolai III','Niksicko Tamno (Dark)','Nils Oscar Lundgrens Lager','Ninkasi Bier','No Fault Line','Noël Christmas Weihnacht','Nordbräu Edel Weiße','Norrlands Guld Export','Norrlands Guld Ljus','Numpty Bitter','Nuthouse Brown','O\'Fallon Spring Ale','O\'Turley\'s Lyte','Oasi','Obolon 2000','Obolon Premium','Ochakovo Izumrud','Ochakovo Premium','Ochakovo Svetloye','Odin Pilsener 2,8','Of Love & Regret (Import Series Vol. #1)','Offwidth','Okocim Jasne Pelne','Okocim Premium Pils','Old Courthouse Stout','Old Goat','Old Habit','Old Hat Oatmeal Stout','Old Milwaukee Ice','Old Skool','Old Slipperyskin India Pale Ale','Old World Peg Leg','Olvi Tumma','Olvi Tuplapukki IV B','Olympia Ice','One Eared Monkey','Onward Stout Aged On Cherries','Open Pit Porter','Orange Blossom','Organic Amber','Original Oettinger Leichte Weisse','Original Oettinger Malz','Oskar Farny Premium Pils','Oso De Oro','Ostankinskoye','Otro Mundo Nut Brown Ale','Out Of Sight','Outrage Ale','Over The Edge Dry Hopped Pale Ale','Pécsi Mühlentor Sör','Pabst Blue Ribbon (PBR)','Page 24 Réserve Hildegarde Ambrée','Pagoa Red Ale - Gorria','Pale Ale Miel Et Houblons','PaleFace Pale Ale','Palo Alto Brewing Syrah Barrel Aged Porter','Pan Lager','Papa\'s Porter','Paris-Roubaix Pale Ale','Patagogonia','Pats Lite','Peach Ale','Perfect Storm Double IPA','Peschl Bräu Altbairisches Weissbier','Pfungstädter Festbier','Phoenix Beer','Pietro Piegari','Pig\'s Eye Lean','Pilsen','Pimiento','Pints Premium Golden Ale','Pints Wildcard Hefeweizen','PIT Acapulco','Polymer Pilsner','Poperings Nunnebier (for Nevejan Of Krombeke)','Poretti','Poretti Bock 1877 Chiara','Poretti Originale Chiara 4 Luppoli','Porky\'s Porter','Port Republic Light','Post Weizen Dunkel','Powdercat Porter','Powerhouse India Pale Ale','Prairie Pilsner','Prickly Pear Grizz','Prima','Prinsesken','Pripps Blå 2,8%','Pripps Blå Lättöl','Pripps Julöl','Pumpkin','Q Red','Quara Frutas Y Cebada','Quarrgnan Stout','Queechee Cream Ale','Queen Mum','Queue De Charrue Ambree','Queue De Charrue Blonde','R&#299;gas Alus Ori&#291;in&#257;lais (Riga Original Beer)','R.J. King Wingwalker Light Lager','Radegast Birell','Rainier Light','Red Barn Amber Ale','Red Cream','Red Emma Amber Ale','Red Horse Ale','Red Light Honey Wheat','Reissdorf Kölsch','Rescousse Pilsner','Rheinbacher Premium Pils','Rhinelander Thumper American IPA','Richmond Lager','Rickard\'s India Pale Ale','Rickard\'s Red','Riebedebie','Ringneck India Pale Ale','Ringnes Classic','Ringnes Extra Gold','Ringnes Pilsener','Risingsbo 1856 2,8%','Risingsbo 1856 Lättöl','Rivergate IPA','Rock Green Light','Rock Ice Golden Monkey','Rock Island Rail Ale','Rocket\'s Red Ale','Rockies Brewing Sulleys Light Lager','Rohozec Skalák Sv&#283;tlý Leák 11°','Rommehed Dalaöl','Rooster\'s - Rooster\'s','Rosita D\'ivori','Rosita Picant','Roslyn Beer','Rousse Whisky','Route 56 Ale','Royal Club 8.0','Royal Export','Royal Guard','Rubber Chicken Red','Ruby Bruin','Rugbrød Barrel Aged','Rur\'Ale','Rusky','Ryely','S.W.B.','Sörfözde Pannon Gold','Saint-Denis','Sainte Paix Cherry','Saku Hele','Salt Spring Porter','Salva Vida','Samuel Adams Imperial White','San Gabriel Hefe Weizen','San Miguel Pale Pilsen','San Miguel Premium Lager','San Miguel Super Dry','Sancolodi Rossa','Sant Gwenole','Sarachi Slam','Saranac Stout','Sarmat Lehke','Sarmat Mitzne','Saskaberry','Sausa Weizen','Scarecrow Ale','Schleppe Märzen','Schlossmühle','Schmidt\'s Light','Schneider Lager','Schneider Weisse Leicht','Schonberger Ur-pils','Schooner Porter','Schwarz Bier (5.2%)','Scratch Beer 3 - 2007','Sea Dog IPA','Sea Of Hands','Seniorken','Serendipity Sour Ale','Serrano Pepper Ale','Session Ale #07: American Wheat Hop','Seven Kings','Severskoye Svetloye','Show Dog Vanilla Stout','Sibirskaya Korona Originalnoye','Side Pocket High Gravity Ale','Sierra Nevada Double DeBockEl','Silver Lager','Silver Pulsar','Silver Stallion Draft Beer','Skull Valley Stout','Skyland Red Ale','Sladkuv Mestan','Slalom Ale','Slavutich ICE','Slavutich Red','Slavutych Pivo (Slavutich Premium)','Smashin\' Berry Dark','SOB','Sofiero Original','Sokol Ice','Sol Light','Sour Black Mamba','South Africa Lager','South Bass Stout','Southend Blonde Light','Southpoint Porter','Southwark Bitter','Spartan Wheat','Special Belgian Ale','Specijalno Kasačko Pivo Vilinbor','Specklebelly\'s Honey Brown','Spendrups 2,8','Spendrups Bayerskt Lättöl','Spendrups Fifty Fifty','Spendrups Julbrygd 2,1','Spendrups Lättöl','Spendrups Premium Gold 5,9%','Spendrups Premium Lager Alkoholfri','Spendrups Röd Lager 3,5%','Spiced Winter Ale','Spindrift Stout','Spitzkrug Pils','Spoller Pilsen','Spring Migration (2011 Rum Barrel Golden Ale)','Squatters Bobsled Brown Ale','St. Cloud Belgian White','St. George Beer','St. Honoré Blond','St. Honoré Lo\'is Amber','St. Nick\'s Weizenbock','St.Galler Klosterbräu','Staffordshire Gold','Staropramen 3.5%','Ste. Mathilde','Steam Engine Lager','Steiner Export Hell','Steinie^2 Das Geniale Bier','Steininger Premium Pils','Steinweizen','Stella','Stella Export','Sterling Premium','Stoaner Zwerg','Stockholm Fine Festival Beer 5,3%','Stockholm Fine Festival Beer 7,2%','Stolichnoye Premium','Stone Mill Organic Pale Ale','Stone Strong Lager','Stoudt\'s McGillin\'s Real Ale','Strong Blonde','Sturgis Beer','Summer Ale Wheat','Summer Sizzler','Summer Solstice Wheat','Super Des Fagnes Four Cereals','Super Des Fagnes Griottes','Svitle Traditziyne','Syktyvkarskoye','Sympony Ale','T Svetloye','Taj Mahal Indian Brown Ale','Talco','Taller Beer','Taller Ice','Tallgrass Wheat','TCT Pale Ale','Tekiza','Tenaya Creek Belgian Triple','Tennent\'s Strong Lager','Tesco Bière Blonde','Texas Tornado','The Brethren','The Gospel','Thin Ice','Thisted Julefnug','Three Hearts Julöl','Three Hearts X-Strong','Thunder Bolt','Thunder Canyon Not Your Mother\'s Witbier','Thunder Horse Nitro Stout','Thuya Occidental','Tiger Crystal Light','Tipo Lager','Tipsy','Titanic Nautical Mild','Tolstyak Khmelnoye','TOMP Guldkällan 4,8%','TOMP Guldkällan 5,7%','Topvar Premium Lager','Torrey Pines IPA','Townsville Diggers','Townsville Neds Red','Trafalgar Cherry Ale','Tripel Oktoberfest','Triple 777','Trompe Souris Blonde','Tsarry Night','Tuborg Juleøl 4.5% (Norwegian Version)','Tuborg Pilsner','Tundrabeary Ale','Two Palms High Desert Hefeweisen','Two Palms Oasis Amber Ale','Two Rivers Lager','Two Rows Steamroller Lager','UFO Pumpkin','Ultramour','Uncle Otto\'s Weiss Beer','Union','Union Radler Lemon','Utica Club','Vai Zen','Vakula','Valstar','Van Pur Strong 18','Varnensko','Vermont Pride Ale','Vertigo','Veseliy Monakh Mitzne','Violette Du Mont Blanc','Vitale Aux Framboises','Vitale Aux Pêches','Vityaz Ulyanovskoye Svetloye','Von Jakob Stout','Voodoo Doughnut Maple Bacon Ale','Wäls Gioia','Wai\'ale\'ale Ale','Walder Dunkel','Wallhall Weizen','Warsteiner Premium HiLight','Warsteiner Premium Radler Grapefruit','Wee Willy\'s Wheat Ale','Weetamoo Raspberry Wheat','Weizenland Weisbier Hefetrüb','Western Centennial Lager 1905-2005','Westhighland','What\'s Brewing? Porter','Wheatopia','White Birch Barrel Aged Night Falls','White Frog','White Knuckle IPA','White Oak Weissbier','Wierquer Bier','Wild Boar Amber','Wild Boar Pale Ale','Wild Rose WRaspberry Ale','Wildbräu Hefe Weisse','Wildbrau','Wildcat Wheat','Will-Brau Pils','Willimantic Six Shooter Stout','Windhoek Light','Winter\'s Street Strawberry Ale','Winter Beer','Winter Lightning','Winter Nights Black & Tan','Winter Pale Bock','Winter Park','Wisby Stout','Wolfsblood Scotch','Wood Duck Wheat','Worthington\'s Creamflow Draught Bitter','Wuhrer','Xtra Malt','XXXX Export Gold','Yabun Kitsune (Night Fox)','Yankee Jim Honey Ice','Yankee Jim Ice Bock','Yantar Pale','Yantarnoye','Yebisu Asaka Cruise','Yebisu Kohaku','Yes I','Ysta Färsköl','Zahre Canapa','Zea Category 5 Pale Ale','Zeos Pilsner','Zeunerts Bajen Fans Bärs','Zhigulovskoye Unfiltered','Zhiguly Beer','Zhujiang Beer','Zingaro','Zoller-Hof Fürsten-Pils','Zoller-Hof Hefe-Weizen','Zorg','ZZ Lager'}
+@attribute X2.8 numeric
+@attribute X38233 numeric
+@data
+395,'Bluegrass Brewing Co. - East St. Matthew\'s',1264431226,2,2,3,'Brent','American Porter',2,2,'Melby Dick\'s Great White Porter',?,55655
+670,'Riverside Brewing Company',1067014999,2,2,3,'Gusler','German Pilsener',2,2,'Golden Pilsner',?,1951
+16319,'Brasserie Nationale (Bofferding)',1190760413,2,2,3,'jdhilt','Maibock / Helles Bock',2,2,'Battin Extra',6.6,38807
+15943,'Crow Peak Brewing',1312908648,2,2,3,'MNTom','Cream Ale',2,2,'Canyon Cream Ale',5,69131
+2564,'Inchant Brewery / Rose and Crown Hotel',1043027694,2,2,3,'rastaman','English Bitter',2,2,'Bullant Bitter',5.5,8147
+2416,'Kichesippi Beer Co.',1196389058,2,2,3,'TerryW','Fruit / Vegetable Beer',2,2,'Heritage Blackcurrant Rye Lager',4.5,26551
+18393,'Micro Cervejaria Bamberg',1259724520,2,2,3,'DoubleJ','Altbier',2,2,'Bamberg Alt',4.8,54485
+2298,'Hop Back Brewery plc',1064449951,2,2,3,'rastaman','Herbed / Spiced Beer',2,2,'Crop Circle',4.2,11344
+783,'Royal Unibrew A/S',1318109257,2,2,3,'Sunnanek','Euro Pale Lager',2,2,'Royal Export',5.6,60678
+2553,'Bootleg Brewery',1052288951,2,2,3,'rastaman','English Pale Mild Ale',2,2,'Bootleg Amber Light',2.7,9741
+11032,'EleganT Brouwerij',1236719430,2,2,3,'stcules','Belgian Strong Dark Ale',2,2,'EleganT Winterprinses',8.5,27572
+10560,'Illinois Brewing Company',1121439463,2,2,3,'DrunkMcDermott','American Pale Wheat Ale',2,2,'Wee Willy\'s Wheat Ale',?,24787
+1115,'Two Rows Restaurant & Brewery',1248204512,2,2,3,'armock','American Amber / Red Lager',2,2,'Dark Star Lager',5,41102
+10004,'Brasserie Distillerie Du Mont Blanc',1282295112,2,2,3,'catrone','Fruit / Vegetable Beer',2,2,'Violette Du Mont Blanc',4.7,30177
+3593,'Beowulf Brewing Company',1311964560,2,2,3,'BlackHaddock','Extra Special / Strong Bitter (ESB)',2,2,'Heroes Bitter',4.7,28783
+1879,'Garrison Brewing Company',1156877099,2,2,3,'pootz','Chile Beer',2,2,'Jalepeño Ale',4.6,18663
+14916,'Les Brasseurs du Hameau',1294628906,2,2,3,'Phyl21ca','Herbed / Spiced Beer',2,2,'Thuya Occidental',5,64382
+433,'Molson Coors Canada',1147213408,2,2,3,'allergictomacros','American IPA',2,2,'Rickard\'s India Pale Ale',6,15908
+23269,'Cerveceria Hacienda',1281120711,2,2,3,'Frijolyqueso','American Stout',2,2,'Hidalgo',7,60490
+3551,'Coedo Brewery (Kyodo Shoji Koedo Brewery)',1319858163,2,2,3,'xuehua','Vienna Lager',2,2,'Coedo Kyara',5,46591
+22319,'Figure 8 Brewing',1312083913,2,2,3,'aasher','American Double / Imperial IPA',2,2,'Offwidth',8.3,63713
+14319,'AMB - Maître Brasseur',1241146233,2,2,3,'Phyl21ca','Herbed / Spiced Beer',2,2,'Pimiento',5,49506
+12516,'Thirsty Dog Brewing Company',1297910728,2,2,3,'Jesse13713','American Pale Ale (APA)',2,2,'Hoppin\' Dog',?,66357
+132,'Rogue Ales',1325977197,2,2,3,'largadeer','Smoked Beer',2,2,'Voodoo Doughnut Maple Bacon Ale',5.6,72720
+1939,'Ibbl Ashkelon / Tank Beer',1211126760,2,2,3,'blitheringidiot','Euro Dark Lager',2,2,'Layla Dirty Blonde Lager',?,12687
+750,'Lake Superior Brewing Company',1218626712,2,2,3,'beckje01','Vienna Lager',2,2,'Hacienda Negra Noche',?,32168
+3219,'Brasserie La Saint-Pierre',1309125891,2,2,3,'kojevergas','Belgian Pale Ale',2,2,'Bière Blonde D\'Alsace',5.6,70447
+401,'Baltika Breweries',1209482973,2,2,3,'northyorksammy','Euro Pale Lager',2,2,'Don Southern Lager',6,33872
+10897,'Carlsberg Sverige AB',1102951718,2,2,3,'bark','Euro Pale Lager',2,2,'Danbryg 2,8%',2.8,21121
+1722,'Namibia Breweries Limited',1309200866,2,2,3,'WoodBrew','Light Lager',2,2,'Windhoek Light',2,5500
+1536,'Privatbrauerei Gaffel Becker & Co.',1227503416,2,2,3,'pwent','German Pilsener',2,2,'Beckers Lager',4.5,10647
+13302,'Butternuts Beer & Ale',1239416213,2,2,3,'kenito799','American IPA',2,2,'Outrage Ale',?,46076
+5058,'Rooster\'s Brewing Company Ltd.',1253314711,2,2,3,'DerBayer','English Bitter',2,2,'Rooster\'s - Rooster\'s',4.7,17545
+9741,'Artebirraia',1165266496,2,2,3,'stcules','Euro Pale Lager',2,2,'Mazarol',4.7,34119
+3825,'Åbro Bryggeri',1289052062,2,2,3,'Sunnanek','Dortmunder / Export Lager',2,2,'Åbro Export',5.3,61892
+14577,'Lazy Boy Brewing',1303705407,2,2,3,'philbertk','American IPA',2,2,'Lazy Boy Dry Hop IPA',5.5,68375
+1252,'Cervecería y Maltería Quilmes / Grupo Bemberg',1205669947,2,2,3,'thierrynantes','American Adjunct Lager',2,2,'Iguazu',5.2,41598
+725,'Brouwerij Haacht NV',1263726668,2,2,3,'ThaCreep','Belgian Pale Ale',2,2,'Abbaye Du Park Blonde',5.6,49613
+13882,'Galatea Spirits',1303841732,2,2,3,'Sunnanek','Euro Pale Lager',2,2,'Arboga Ekologisk',4.7,67051
+26534,'Brasseurs Sans Gluten',1314990149,2,2,3,'Phyl21ca','American Blonde Ale',2,2,'Glutenberg',4.5,71605
+4087,'Spendrups Bryggeri AB',1133896084,2,2,3,'JanM','Vienna Lager',2,2,'Mariestads Julebrygd 3,5%',3.5,27228
+420,'Oldenberg Brewing Company',997953212,2,2,3,'Brent','German Pilsener',2,2,'Blonde Pilsner',?,1218
+22916,'Rivergate Brewing Company / North End Pub',1274838983,2,2,3,'RedDiamond','English India Pale Ale (IPA)',2,2,'Rivergate IPA',?,58668
+2891,'Karlsberg Brauerei',1057130384,2,2,3,'kbub6f','Low Alcohol Beer',2,2,'Beethoven',0.5,11182
+284,'Sapporo Breweries Ltd.',1286555729,2,2,3,'jeranbrews','Czech Pilsener',2,2,'Yebisu Asaka Cruise',5.5,62434
+435,'Minhas Craft Brewery',1291853575,2,2,3,'secondtooth','American Pale Lager',2,2,'Berghoff Original Lager Beer',5.4,1378
+435,'Minhas Craft Brewery',1308094319,2,2,3,'biboergosum','American Adjunct Lager',2,2,'Minhas Creek Lime',4,53147
+23459,'Hermitage Brewing',1312507613,2,2,3,'alexhahn82','American Double / Imperial Stout',2,2,'Ale Of The 2 TUN',8,66708
+1463,'Harboes Bryggeri A/S',1157920873,2.5,2,3,'bark','Euro Pale Lager',2,2,'Christian Firtal Guldøl',5.7,32179
+1463,'Harboes Bryggeri A/S',1102108212,2,2,2.5,'bark','Euro Pale Lager',2,2,'Christian Firtal',5.3,20986
+5476,'Bootleggers Restaurant & Brewery',1274138661,2,2,3,'Tone','Bock',2.5,2,'Dark Bock',?,58409
+3207,'San Francisco Brewing Company',1096654066,2,2,3,'rastaman','Weizenbock',2,1.5,'Dopple Weizen',6,20112
+453,'Pivovarna Laško',1151687668,2,2.5,3,'ernie','German Pilsener',2,2,'Export Pils',4,31426
+16386,'O\'so Brewing Company',1300405848,2,2,3.5,'dirtylou','Belgian Strong Dark Ale',2,2,'Belgian Style Dark',9,43108
+1604,'Roslyn Brewing',1308886860,2,2,3,'HugePlume','Munich Dunkel Lager',1.5,2,'Roslyn Beer',?,4486
+4103,'Pivovar Breznak',1307363553,2.5,2,3,'kojevergas','Märzen / Oktoberfest',2,2,'Breznak Bernstein',5.1,61696
+3351,'Coors Brewers Ltd',1319671294,2,2,3,'flyingpig','Euro Pale Lager',2.5,2,'Carling Chrome',4.8,74556
+5816,'Brauerei Laupheimer Günz',1104787316,2,2.5,3,'stcules','Munich Helles Lager',2,2,'Laupheimer Edelbräu',?,21403
+16501,'Lan Kwai Fong Beer',1198751923,2,2,2.5,'hoegaardenhero','Euro Pale Lager',2,2,'Blonde Bomb',4.7,40249
+716,'Asahi Breweries Ltd',1313345278,2,2,3,'match1112','Japanese Rice Lager',2.5,2,'Asahi Super Dry',5,2779
+1693,'Krasnyj Vostok',1057746766,2,2.5,3,'Globetrotter','Euro Strong Lager',2,2,'Rusky',8.2,11330
+2564,'Inchant Brewery / Rose and Crown Hotel',1043027978,2,2,2.5,'rastaman','Bock',2,2,'Bullant Bock Bier',6,8148
+2416,'Kichesippi Beer Co.',1148414602,2,2.5,3,'Phyl21ca','American Adjunct Lager',2,2,'Heritage Premium Lager',4.5,12534
+302,'Genesee Brewing Co. / Dundee Brewing Co.',1246332991,2,1.5,3,'tj4288','American IPA',2,2,'Dundee India Pale Ale',6.3,25144
+509,'Haerlemsche Bierbrouwerij B.V.',1101645560,1.5,2,3,'stcules','Bock',2,2,'Haerlemsch Herfst-Bock',9.3,20933
+3444,'Ginga Kogen Beer',1122045670,2,2,2.5,'Naerhu','American Pale Lager',2,2,'German Premium Beer Cool & Crush',5,24918
+1901,'West Virginia Brewing Company',1124768657,2,2.5,3,'LucaBrasi','American Porter',2,2,'Coal Porter',?,16044
+503,'Dreher Brewery',1305478265,2,2,2.5,'djura','Euro Pale Lager',2,2,'Dreher Köbányai',4.5,28931
+11103,'Maribo Bryghus (Royal Unibrew)',1298114563,1.5,2,3,'rarbring','Vienna Lager',2,2,'Maribo Slots Classic',4.6,66458
+475,'Pivovarna Union',1274124433,2,2,3,'sfprint','Euro Pale Lager',1.5,2,'Union',4.9,27863
+24827,'High Water Brewing',1321856174,2,2,2.5,'Arbitrator','Baltic Porter',2,2,'Brandy Barrel-Aged Baltic Porter',9.3,75586
+782,'City Brewing Company, LLC',1074557876,2,2,3,'Shiloh','American Malt Liquor',2.5,2,'Lucky Number High Gravity Lager',8.2,11956
+17290,'Brasserie d\'Oc',1309204930,2,2,3,'illidurit','Dubbel',2.5,2,'Abbaye De Valmagne Ambree',6.5,70502
+11327,'Hesket Newmarket Brewery',1324169420,2,2,3,'crusian','Russian Imperial Stout',2.5,2,'Tsarry Night',8.3,76442
+10560,'Illinois Brewing Company',1121439303,2,2,3,'DrunkMcDermott','Light Lager',2,2.5,'O\'Turley\'s Lyte',?,24786
+23701,'Ben Middlemiss Brewing',1322917414,2,2,3,'wisrarebeer','Dubbel',1.5,2,'Benediction Ale',8.7,61995
+264,'Oy Sinebrychoff Ab',1152208882,2,2,2.5,'ernie','Light Lager',2,2,'4.1 Täyteläinen Kevyt Olut',4.1,24600
+1394,'Skagit River Brewery',1325296984,2,2,3,'harrymel','American IPA',2.5,2,'The Gospel',7.4,63009
+91,'United Breweries - UB Group',1232876760,2.5,2,3,'JanM','Euro Strong Lager',2,2,'Zingaro',6,47504
+91,'United Breweries - UB Group',1290041287,2,2,3,'secondtooth','Light Lager',2,2.5,'Kingfisher Light Lager',?,26761
+2444,'Companhia Cervejaria Brahma',1144439334,2.5,2,3,'JanM','American Adjunct Lager',2,2,'Brahma',4.6,23381
+10288,'Industrial Norte Paranaense De Bebidas Ltda',1151456524,2,2,3,'jpm30','American Adjunct Lager',2.5,2,'Spoller Pilsen',4,20327
+447,'Pabst Brewing Company',1309559927,2,2,3.5,'cpolking','American Adjunct Lager',2,2,'Olympia Ice',6,16989
+1369,'Vena Brewery',1151692401,2,2.5,3,'ernie','Euro Pale Lager',2,2,'Nevskoye ICE',4.7,31429
+3690,'Peschl Bräu',1136378016,2,2,2.5,'stcules','Hefeweizen',2,2,'Peschl Bräu Altbairisches Weissbier',5.1,8176
+619,'Indian Wells Brewing Company',1300989658,2,2,2.5,'Beerandraiderfan','American Pale Ale (APA)',2,2,'Death Valley Pale Ale',?,59126
+903,'Gettysbrew Restaurant & Brewery',1090901113,2,2,2.5,'indiapaleale','Scottish Ale',2,2,'Blew Kilt',?,18958
+434,'Cervejaria Sul Brasileira',1179373483,2,2,3,'jpm30','American Adjunct Lager',2.5,2,'Colônia Pilsen ',4,36860
+7482,'Pivovar Eggenberg & Restaurant Eggenberg',1308512417,2,1.5,3,'Brabander','Czech Pilsener',2,2,'Eggenberg Helles Bier',4,70175
+1548,'John Harvard\'s Brewery & Ale House',1157059966,2,2,2.5,'Dogbrick','English Bitter',2,2,'British Pale Mild',?,32559
+1384,'Afanasy Pivo (Brau Service)',1213380111,2,2.5,3,'ILJAY','Euro Pale Lager',2,2,'Afanasy Ultra Premium',5,25182
+1349,'AS Tartu Õlletehas',1151340890,2,2,3,'ernie','Doppelbock',2,2.5,'A. Le Coq Double Bock',7,18187
+20417,'White Birch Brewing',1305111325,2,2,3.5,'Thorpe429','American Wild Ale',2,2,'White Birch Barrel Aged Night Falls',8,66489
+955,'Rockslide Brewery & Pub',1209935460,2.5,2,3,'toolbrew','American Pale Ale (APA)',2,2,'Cold Shivers Pale Ale',?,6738
+19868,'Whitstran Brewing Company',1320536243,2,2,3.5,'Beerandraiderfan','American Pale Ale (APA)',2,2,'Over The Edge Dry Hopped Pale Ale',?,74935
+11882,'Round Barn Brewery',1310164548,2,2.5,3,'jale','Scotch Ale / Wee Heavy',2,2,'Westhighland',7.5,70853
+5420,'Klinskiy Pivokombinat',1150016863,2,2,3,'ernie','Euro Pale Lager',2,1.5,'Klinskoye Samurai',4.9,12273
+571,'Pivovar Radegast a.s.',1149020776,2,2,2.5,'gnoff','Low Alcohol Beer',2,2,'Radegast Birell',0.5,30800
+73,'Great Lakes Brewing Company',1309144567,2,2.5,3,'DmanGTR','American Pale Ale (APA)',2,2,'Great Lakes Engine 20 Smoked Pale Ale',6,28446
+697,'Kiuchi Brewery',1114148548,2,2.5,3,'Naerhu','English Porter',2,2,'Hiroyuki Espresso Porter',?,10487
+36,'Brasserie Grain d\' Orge (Brasserie Jeanne d\'Arc SA)',1180394012,1.5,2,3,'ohmybock','Belgian Strong Pale Ale',2,2,'Belzebuth',13,114
+21092,'World Brews',1312735378,2,2.5,3,'buschbeer','Light Lager',2,2,'Port Republic Light',3.9,71690
+21092,'World Brews',1313477168,2,2,3,'popery','Witbier',2,1.5,'St. Cloud Belgian White',?,70008
+1535,'Brasseurs R.J.',1287462415,2,2.5,3,'MattyV','Fruit / Vegetable Beer',2,2,'Folie Douce',5,14800
+14319,'AMB - Maître Brasseur',1267406208,2,2,3.5,'ZorPrime','English Stout',2,2,'Complice 2009',5,55263
+1539,'Oettinger International Getränke-Vertriebs GmbH',1283647495,2.5,2,3,'JWU','Light Lager',2,2,'Original Oettinger Leichte Weisse',2.8,4288
+350,'Coeur d\'Alene Brewing Co.',1291145197,2,2,3,'Thorpe429','American Pale Wheat Ale',2,1.5,'Honeymoon Wheat',?,1179
+2593,'Wild Rose Brewery & Taproom',1319056897,2.5,2,3,'GabesAles','English Bitter',2,2,'SOB',4.1,35514
+1498,'Brasseries Kronenbourg',1227953877,2,2,3,'thierrynantes','Euro Pale Lager',2,2.5,'Kanterbräu Gold',?,15801
+1498,'Brasseries Kronenbourg',1228669180,2,2,2.5,'thierrynantes','Euro Pale Lager',2,2,'Valstar',3.7,26452
+1866,'Southend Brewery & Smokehouse',1087741689,2,2,2.5,'GCBrewingCo','American Blonde Ale',2,2,'Southend Blonde Light',3.5,18160
+1646,'Davidson Brothers Restaurant & Brewery',1312698851,2.5,2,3,'lacqueredmouse','Rye Beer',2,2,'Ryely',?,70108
+1291,'Motor City Brewing Works',1322073734,2.5,2,3,'CharlesDarwin','American Pale Wheat Ale',2,2,'Motor City Summer Brew',7.5,75653
+11528,'Le Grimoire',1231646680,2.5,2,3,'Phyl21ca','Herbed / Spiced Beer',2,2,'Goliath',7,47209
+12516,'Thirsty Dog Brewing Company',1084200813,2,1.5,3,'Dogbrick','English Dark Mild Ale',2,2,'Golding\'s Session Ale',2,17459
+1602,'Big Hole Brewing Company',1295053799,2,2,3,'biboergosum','American Adjunct Lager',2.5,2,'Yankee Jim Honey Ice',5.5,40079
+1635,'Chelsea Brewing Company',1310491210,2.5,2,3,'listenatjoes','American Pale Wheat Ale',2,2,'Summer Solstice Wheat',5.75,12904
+21274,'Wallace Brewing / Orehouse Tasting Room',1278221796,1.5,2,3,'Lakes','American Amber / Red Lager',2,2,'Red Light Honey Wheat',4.1,59777
+3193,'Edelweissbrauerei Farny',1168289768,2,2,2.5,'stcules','German Pilsener',2,2,'Oskar Farny Premium Pils',4.9,34673
+821,'Monte Carlo Casino Pub & Brewery',1162323850,2,2,2.5,'Phyl21ca','American Pale Ale (APA)',2,2,'Monte Carlo Jackpot Pale',5.6,8391
+3342,'Tuborg Deutschland GmbH',1319944396,1.5,2,3,'TheDeuce','German Pilsener',2,2,'Tuborg Pilsner',4.9,34432
+7087,'Braustolz GmbH',1262879720,1.5,2,3,'beerdrifter','German Pilsener',2,2,'Braustolz Kappler Festbier',5.5,55273
+269,'Ceres Brewery (Royal Unibrew)',1043641163,2,2,2.5,'rastaman','Euro Strong Lager',2,2,'Ceres Royal Selection (Ceres Strong Ale Export)',7.7,8259
+1293,'Great Grains Brewery, Inc.',1108834552,2,2,3.5,'Pegasus','Schwarzbier',2,2,'Blackhorse',?,7698
+6980,'Keegan Ales',1324924755,2,2,3.5,'ixodus','American Pale Ale (APA)',2,2,'Sarachi Slam',?,76697
+6044,'Weyermann Brauerei GmbH',1307662255,2,2,3,'kojevergas','Kristalweizen',2,2.5,'Johann Baptist Weissbier',5.6,69892
+5428,'Severnaya Zvezda',1071952871,2,2,2.5,'Globetrotter','Euro Pale Lager',2,2,'Korsakovskoye Svetloye',4,14967
+10068,'Brasserie Artisanale Du Trégor',1145276237,2,2.5,3,'stcules','Belgian Pale Ale',2,2,'Sant Gwenole',6,29965
+477,'Willimantic Brewing Co.',1320506481,2,2.5,3,'codysjb','Oatmeal Stout',2,2,'Willimantic Six Shooter Stout',5.9,62029
+477,'Willimantic Brewing Co.',1250046015,2,2,3.5,'ExtraStout','English Barleywine',2,2,'Imperial Black Night Wonder Whammer',10.4,51669
+2549,'Ringnes Bryggeri (Carlsberg)',1246297196,2,2,3.5,'drpimento','German Pilsener',2,2,'Ringnes Classic',4.6,50789
+4110,'Fire Station 5 Brewing Company',1150828199,2.5,2,3,'Reidrover','American Blonde Ale',2,2,'Brush Fire Summer Ale',?,31220
+6018,'Freiherr Von Poschinger Braysche Schlossbrauerei Irlbach GmbH',1270679075,2,2,3,'sfprint','Munich Helles Lager',2,2.5,'Irlbacher Premium Exzellent',5.6,55509
+2195,'Huntington Beach Beer Company',1301187761,1.5,2,3,'womencantsail','American Blonde Ale',2,2,'HB Blonde',?,58616
+10097,'Harpoon Brewery',1326042709,2,2,2.5,'TheCorkStopsHere','Pumpkin Ale',2,2,'UFO Pumpkin',5.9,71325
+7214,'Mahogany Ridge Brewery & Grill',1291618411,2,2,3,'codewarrior','English Porter',1.5,2,'Powdercat Porter',?,64171
+457,'Lakeport Brewing Company',1258481008,2,2,2.5,'mrmanning','Euro Dark Lager',2,2,'Lakeport Wee Willy Dark Scottish Style',5,11595
+796,'Eureka Brewing Co.',1047393373,2,2,3,'Morris729','American Amber / Red Ale',2.5,2,'Eureka Red',?,8912
+16983,'Carlsberg Croatia',1307048686,2,2,3,'tbeckett','Euro Pale Lager',2,2.5,'Pan Lager',5.2,42821
+1719,'Sarmat',1183436400,2,2,2.5,'trentley87','Euro Strong Lager',2,2,'Sarmat Mitzne',7.5,28918
+1332,'Simonds Farsons Cisk Plc.',1325877711,2,2,3,'bark','American Adjunct Lager',2.5,2,'Cisk Lager',4.2,7364
+1401,'Berliner Kindl Brauerei',1281493615,2,2.5,3,'jneiswender','Berliner Weissbier',2,2,'Berliner Kindl Weisse Mit Schuß Waldmeister',3,52500
+371,'Montgomery Brewing Company',1269980958,2,2.5,3,'Huhzubendah','American Brown Ale',2,2,'Taj Mahal Indian Brown Ale',?,57201
+2014,'Great Western Brewing',1136659737,2,2,3,'BigBry','American Adjunct Lager',2,2.5,'Western Centennial Lager 1905-2005',5,26673
+771,'Ferme Brasserie Schoune',1316371731,2,2,3,'crankset','American Amber / Red Ale',2,1.5,'Érable Rouge',5,45284
+9343,'Beer Works',1299507076,2,2,3.5,'tigg924','Belgian Strong Dark Ale',2,2,'Special Belgian Ale',9,66974
+5381,'Yantar Brewery',1151848218,2,2.5,3,'ernie','Euro Pale Lager',2,2,'Taller Ice',5.6,31461
+4089,'Krönleins Bryggeri AB',1277835618,2,2,3,'bark','Euro Pale Lager',2.5,2,'Halmstad Sommar Lager (2010)',4.7,57079
+3825,'Åbro Bryggeri',1304534223,2,1.5,3,'Sunnanek','Euro Strong Lager',2,2,'Åbro Sjukommatvåan',7.2,21943
+3825,'Åbro Bryggeri',1293646371,2,2,3,'Sunnanek','Vienna Lager',2.5,2,'Åbro Julöl',5.2,21187
+4669,'Masthead Brewery',1054144534,2,2,3,'rastaman','Bock',2,2.5,'Masthead Storm Brew',7,10069
+3521,'De Proefbrouwerij (bvba Andelot)',1217970493,2,2,3,'Dogshirt','Dubbel',2,2.5,'Andelot Cuvee Angelique',7,19257
+1385,'Hood Canal Brewing',1228697927,2,2.5,3,'froghop','American Porter',2,2,'Southpoint Porter',6,24117
+437,'Pivovary Staropramen',1321743148,2,2.5,3,'Mar02x','Light Lager',2,2,'Sladkuv Mestan',3.2,19100
+797,'Old European Brewing Company',1046794176,2,2,2.5,'Rifrafboy','American Adjunct Lager',2,2,'Frederick Scholz Ice',5.8,6003
+797,'Old European Brewing Company',1049488357,2,2,2.5,'Pegasus','Cream Ale',2,2,'Allegheny Cream Ale',?,7548
+3778,'Browar Van Pur S.A. (Brau Union Polska)',1206738847,2,2.5,3,'thierrynantes','Euro Strong Lager',2,2,'Van Pur Strong 18',8.3,41841
+1252,'Cervecería y Maltería Quilmes / Grupo Bemberg',1314132182,2,2,3,'wordemupg','American Adjunct Lager',2.5,2,'Iguana',4.9,48380
+758,'Uncle Buck\'s Brewery & Steakhouse',1257199849,2,2.5,3,'Mora2000','Oatmeal Stout',2,2,'Black Tail Stout',5.5,49168
+9685,'Amnesia Brewing',1101253556,2,2,3,'RedDiamond','American Brown Ale',1.5,2,'Amnesia Brown',?,20890
+13137,'Elmar\'s In The Valley',1250335678,2,2,3,'ADZA','German Pilsener',2,2.5,'Ein Stein Pilsner',4.6,39745
+4553,'Fürst Wallerstein Brauhaus',1199630304,2.5,2,3,'stcules','Munich Helles Lager',2,2,'Fürst Wallerstein Hell',4.8,40462
+23700,'Auchan Production',1285953136,2,2,3,'BoitSansSoif','Euro Pale Lager',2,1.5,'Sterling Premium',5.5,62241
+4087,'Spendrups Bryggeri AB',1267365366,2,1.5,3,'rarbring','Vienna Lager',2,2,'Spendrups Bayerskt Lättöl',2.1,22256
+4087,'Spendrups Bryggeri AB',1319645665,2,2,3.5,'Sunnanek','Euro Pale Lager',2,2,'Mariestads Continental',4.2,72622
+3557,'Steelhead Brewing Co.',1220227349,2,1.5,3,'Overlord','American Pale Wheat Ale',2,2,'Hairy Weasel Hefeweizen',?,22523
+26890,'Lillehammer Bryggeri AS',1324754716,2,2.5,3,'TheDeuce','American Adjunct Lager',2,2,'Lillehammer Brewery Pilsner',5,76656
+9282,'Boscos Restaurant & Brewing Co. - Memphis',1295201987,2.5,2,3,'jsprain1','American Pale Ale (APA)',2,2,'Boscos Famous Flaming Stone Beer',?,21852
+3695,'Weissbierbrauerei Andorfer',1136392965,2,2,2.5,'stcules','Hefeweizen',2,2,'Andorfer Weizen',4.8,9740
+2085,'Dragonmead Microbrewery',1111896611,2.5,2,3,'walleye','Kölsch',2,2,'Dragonmead Kaiser\'s Kölsch',5.4,6686
+2891,'Karlsberg Brauerei',1325852492,2,2.5,3,'stcules','Schwarzbier',2,2,'Karlsberg Black Baron',4.9,17858
+9350,'Pivovar Vykov',1250496608,2,2,3,'stcules','Euro Strong Lager',2,2.5,'Jubiler',7,51927
+1590,'Diamond Knot Brewery',1292110946,2,2.5,3,'barleywinefiend','American Strong Ale',2,2,'Industrial Belgain Blonde Ho',?,64317
+569,'Anadolu Efes Brewery',1311619968,2,1.5,3,'lstokes','Light Lager',2,2,'Efes Light',3,48240
+11984,'Shoreline Brewery And Restaurant',1310268027,2,2.5,3,'WoodBrew','Extra Special / Strong Bitter (ESB)',2,2,'Don\'t Panic ESB',4.7,31040
+19832,'Crown Valley Brewing & Distilling Co.',1326237366,2,2,2.5,'garuda','American Double / Imperial IPA',2,2,'Gunslinger Double IPA',8.3,75599
+435,'Minhas Craft Brewery',1321675410,2,2,3,'biboergosum','American Adjunct Lager',2,1.5,'Silver Lager',5,75476
+435,'Minhas Craft Brewery',1325206486,2.5,2,3,'powerss13','American IPA',2,2,'Rhinelander Thumper American IPA',6.8,73643
+440,'Ochakovo',1078471832,2,2,3,'TheLongBeachBum','Euro Pale Lager',2,2.5,'Stolichnoye Premium',4.7,12561
+1416,'Uinta Brewing Company',1307488140,2,1.5,3,'OMGTheyKilkenny','Light Lager',2,2,'Hive',4,48574
+1741,'Vityaz',1070823926,2,2,2.5,'Globetrotter','Euro Pale Lager',2,2,'Vityaz Ulyanovskoye Svetloye',4,14661
+22994,'Roth Brewing Company',1325624278,2,2.5,3,'Bryson','Milk / Sweet Stout',2,2,'Dark Construct Stout',7.3,62977
+2429,'Brasserie Des Fagnes',1262451049,2,2,3.5,'ThaCreep','Fruit / Vegetable Beer',2,2,'Super Des Fagnes Griottes',4.8,25205
+15314,'Skyscraper Brewing Company',1315165918,2,2,3,'womencantsail','American Pale Wheat Ale',2.5,2,'Bulldozer Honeyweizen',5,37652
+1639,'Gallaghers\' U-Brew',1262650235,2,2.5,3,'RedDiamond','American Double / Imperial IPA',2,2,'White Knuckle IPA',8.2,55228
+2222,'Kaiserdom Privatbrauerei Bamberg',1278712755,2,2.5,3,'BlackHaddock','Hefeweizen',2,2,'Weizenland Weisbier Hefetrüb',4.8,23348
+1639,'Gallaghers\' U-Brew',1262649854,2,2.5,3,'RedDiamond','American Pale Ale (APA)',2,2,'Hal\'s Pale Ale',?,55226
+3718,'Microbrasserie du Lièvre',1309985441,2.5,2,3,'Phyl21ca','American Blonde Ale',2,2,'Évasion',5.4,70788
+710,'Jacob Leinenkugel Brewing Company',1253764203,2,2,2.5,'secondtooth','Märzen / Oktoberfest',2,2,'Leinenkugel\'s Oktoberfest',5.1,5757
+1463,'Harboes Bryggeri A/S',1147377686,2,2.5,2.5,'gnoff','Low Alcohol Beer',2,2,'Harboe Den Glada Danskens Lättöl',2.2,22808
+1463,'Harboes Bryggeri A/S',1312129559,2,2,3,'kojevergas','Euro Pale Lager',2.5,2.5,'Dansk Pilsner',4.6,70647
+17293,'The Stable',1312769066,2,2,2.5,'GossageBrewery','English India Pale Ale (IPA)',2,1.5,'Amalgamated IPA',?,71830
+19380,'Mariposa Brewing Company',1247768067,1.5,2.5,3,'cptierney','Hefeweizen',2,2,'High Country Hefeweizen',?,50343
+3282,'Brasserie La Binchoise (Malterie des Remparts)',1305402279,2,2.5,2.5,'BlackHaddock','Tripel',2,2,'La Binchoise Triple',8.5,61003
+3965,'Anacapa Brewing Company',1233541020,2,2.5,3,'ILikeGoodCider','American Pale Wheat Ale',2,2.5,'C Street Wheat Ale',4.8,41492
+1381,'Amstar',1061230050,2,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Sokol Ice',4.7,12143
+2906,'Wildwood Brewing Co.',1127349559,2,2.5,3,'northyorksammy','American Adjunct Lager',2.5,2,'Lake Louise Lager',5,14397
+6272,'CANOE Brewpub',1184120776,2,2.5,3,'canucklehead','American Pale Wheat Ale',2.5,2,'Honey Wheat Beer',4.7,31790
+2906,'Wildwood Brewing Co.',1127351114,2.5,2.5,3,'northyorksammy','American Amber / Red Ale',2,2,'Altitude Amber Ale',5,11896
+2312,'Tenaya Creek Brewery',1205609938,1.5,2,3,'JDV','Tripel',2,1.5,'Tenaya Creek Belgian Triple',8.3,39707
+161,'Florida Beer Company',1235272684,2,2,2.5,'northyorksammy','Altbier',2,2.5,'Indian River Amberjack Alt',5,5374
+12623,'Guangzhou Zhujiang Brewery Co. Ltd.',1296423826,2,2,2.5,'jazzyjeff13','Euro Pale Lager',2.5,2,'Golden Zhujiang',5.3,27047
+12623,'Guangzhou Zhujiang Brewery Co. Ltd.',1276213683,2,2,2.5,'pootz','Japanese Rice Lager',1.5,2,'Zhujiang Beer',4.3,31132
+18591,'Blue Tractor BBQ & Brewery',1236558684,2,2.5,3,'jeremyd365','American Amber / Red Ale',2.5,2,'Red Barn Amber Ale',?,48367
+1472,'Hite Brewery Company LTD',1160553012,2,2,3,'goschool','Foreign / Export Stout',1.5,2.5,'Hite Stout',5,14269
+466,'South African Breweries plc',1224329837,1.5,2,3,'bark','Light Lager',2,1.5,'Castle Lite',4,5354
+140,'Sierra Nevada Brewing Co.',1230070570,2,2.5,3.5,'LilBeerDoctor','Doppelbock',2,2,'Sierra Nevada Double DeBockEl',9.4,44221
+954,'Thisted Bryghus',1317719906,2.5,2,2.5,'kojevergas','Euro Pale Lager',2,2,'Økologisk Thy Pilsner',4.6,23105
+11061,'Herslev Bryghus',1280514162,2,2.5,3,'Sunnanek','Fruit / Vegetable Beer',2.5,2,'Aspargesøl',5.2,58425
+11038,'Keltic Brewing Company',1188782224,2.5,2,3,'Derek','Irish Red Ale',2.5,2,'McCeol\'s Irish Red Ale',5,37063
+620,'Der HirschBrau/Privatbrauerei Höss',1148593786,2,2.5,3,'KlausKinski','Dortmunder / Export Lager',2,2.5,'Allgäuer Ökobier',5.2,13723
+7928,'Russkaya Pivovarennaya Kompaniya "Chmelyoff"',1069589800,2,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Aristokrat Svetloye',4.5,14346
+934,'Topvar Brewery',1241553811,2.5,2,3,'connecticutpoet','American Adjunct Lager',2.5,2,'Topvar Premium Lager',5,15817
+5074,'Steamworks Brewing Co.',1157183036,2,1.5,3,'Padron4KM','California Common / Steam Beer',2,1.5,'Steam Engine Lager',5.5,10730
+1793,'Capitol City Brewing Company',1095176749,2,2.5,3,'ManekiNeko','Altbier',2.5,2,'Sympony Ale',?,19865
+18990,'Joseph James Brewing Inc.',1315624462,2.5,2,3,'THECPJ','Japanese Rice Lager',2.5,2,'Yabun Kitsune (Night Fox)',5.2,65511
+3517,'Brouwerij Martens NV',1242568107,2,2,2.5,'Suds','Euro Pale Lager',2,2.5,'Wildbrau',4.7,49843
+2230,'Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)',1294079032,2,1.5,3,'Sunnanek','Euro Strong Lager',1.5,2,'Kopparbergs Special Brew X-strong',7.5,22123
+2230,'Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)',1311079715,2,2.5,3,'rarbring','Euro Pale Lager',2.5,2,'Sofiero Original',5.2,22134
+19608,'West Coast Brewery',1245315414,2.5,2,3,'TubaManJack','English Dark Mild Ale',2,2.5,'Good Bastard\'s Dark Ale',4,50540
+582,'Trailhead Brewing Company',1312770359,2,2,2.5,'GossageBrewery','American Stout',2.5,2,'Old Courthouse Stout',?,6732
+783,'Royal Unibrew A/S',1264907458,2,2,3.5,'IronDjinn','Euro Strong Lager',2.5,2,'Faxe Strong',8.6,15615
+783,'Royal Unibrew A/S',1202758693,2,2.5,2.5,'bark','Low Alcohol Beer',2,2,'Odin Pilsener 2,8',2.8,23444
+1183,'Southend Brewery & Smokehouse',1232505970,2,2,3,'mikesgroove','American Porter',1.5,1.5,'Chocolate Porter',?,35366
+2078,'Sweetwater Tavern & Brewery',1291994912,2,2,2.5,'drabmuh','Weizenbock',2,1.5,'St. Nick\'s Weizenbock',6.8,18078
+15912,'Privatbrauerei Jacob Stauder GmbH & Co. KG',1260721686,2,2,2.5,'sound67','Dortmunder / Export Lager',2.5,2,'Borbecker Helles Dampfbier',4.8,54732
+715,'Brauerei Fohrenburg GmbH & Co',1094911779,2.5,2,3,'stcules','Euro Pale Lager',1.5,2,'Fohrenburger Stiftle',5.1,2103
+475,'Pivovarna Union',1315248540,2,1.5,2.5,'djura','Fruit / Vegetable Beer',2,2,'Union Radler Lemon',2.5,72854
+5055,'Nikenjayamochi Kadoya Honten Co. / Ise Kadoya Brewery',1305166008,2,2,3.5,'AgentZero','American Pale Ale (APA)',1.5,2,'Isekadoya Pale Ale',5.1,45373
+782,'City Brewing Company, LLC',1255734291,2,2,3,'cdkrenz','American Adjunct Lager',2.5,1.5,'Sturgis Beer',?,52124
+782,'City Brewing Company, LLC',1317446560,2.5,2,3,'djeucalyptus','American Adjunct Lager',2.5,2,'Silver Stallion Draft Beer',?,73046
+782,'City Brewing Company, LLC',1308183867,2.5,2,3,'iDrinknewglarus','Light Lager',2,2.5,'Milwaukee Premium Brewing Company Classic Light',?,25013
+782,'City Brewing Company, LLC',1279841012,2.5,2,2.5,'hu5om','Light Lager',2,2,'Kul Light',?,6898
+782,'City Brewing Company, LLC',1323655122,2,2.5,2.5,'emerge077','American Adjunct Lager',2,2,'Milwaukee Premium Brewing Company Classic Ice',6,32756
+6879,'P&DJ Goacher',1064282584,1.5,1.5,3,'rastaman','English Bitter',2,2,'Goachers Fine Light Ale',3.7,12866
+11753,'Brasserie Artisanale Millevertus De Toernich',1228770665,1.5,2,2.5,'stcules','Tripel',2,2,'Saint-Denis',7.5,24669
+11753,'Brasserie Artisanale Millevertus De Toernich',1228498829,2,2.5,2.5,'stcules','Belgian Pale Ale',2,2,'Cuvée Romedenne "Spelziale" 2007',?,46371
+2303,'Birrificio Lambrate',1053351079,2,2.5,3,'stcules','Belgian Strong Pale Ale',2,2.5,'Lambrate',7,9944
+264,'Oy Sinebrychoff Ab',1152297995,2,2,3.5,'ernie','Euro Pale Lager',2.5,2,'Nikolai III',4.5,24598
+264,'Oy Sinebrychoff Ab',1261942289,2,2.5,3,'Dentist666','Euro Pale Lager',2.5,2,'Koff IV A',5.2,24596
+357,'New England Brewing Co.',1251334901,2,2,2.5,'LilBeerDoctor','German Pilsener',2,2.5,'Elm City Lager',5,16106
+23953,'Dama Bier',1286813925,2,2.5,3,'DoubleJ','Hefeweizen',2.5,2,'Dama Bier Weiss',5,62515
+13989,'Stockholm\'s',1245633551,2,2,2.5,'emerge077','English Bitter',2.5,2,'S.W.B.',?,50625
+1869,'Micro-Brasserie Breughel',1274068579,2.5,2,3,'Kevuas','Belgian Strong Pale Ale',2.5,2,'Ste. Mathilde',8,32317
+24014,'Balmain Brewing Company',1315835873,2,2,3.5,'mulder1010','American Pale Ale (APA)',2.5,2,'Balmain Original Pale Ale',4.9,62627
+881,'Camo Brewing Company',1322805898,2,2,3,'AMo','American Malt Liquor',2.5,1.5,'Camo Black Extra',12.2,57931
+21597,'Officina Della Birra',1261476451,1.5,2,3.5,'stcules','Euro Dark Lager',2,2,'La Rossa Dell\'Officina',6,54936
+8213,'The Tap Brewing Co. & Eatery Inc.',1140331833,2,2,2.5,'Noxious26','Light Lager',2,1.5,'Pats Lite',4,28443
+447,'Pabst Brewing Company',1198631901,2,2,2.5,'happygnome','Light Lager',2.5,2,'Schmidt\'s Light',?,3284
+25251,'Woolshed Brewery',1320554434,2,1.5,3,'lacqueredmouse','American Pale Ale (APA)',2,1.5,'Amazon Ale',4.7,74944
+447,'Pabst Brewing Company',1107992988,2,2,2.5,'Frozensoul327','American Adjunct Lager',2,1.5,'Colt Ice Beer',5.9,4543
+447,'Pabst Brewing Company',1318610573,2,2,2.5,'spinrsx','American Adjunct Lager',2.5,2,'Old Milwaukee Ice',5.9,7484
+4934,'Pivzavod AO Rosar',1151238091,2.5,2,3,'ernie','Euro Pale Lager',2.5,2,'Sibirskaya Korona Originalnoye',?,10534
+17243,'Cerveses La Gardènia',1309928148,2.5,2,2.5,'CrazyDavros','American Pale Wheat Ale',2,2,'Rosita D\'ivori',4.5,65235
+903,'Gettysbrew Restaurant & Brewery',1090900631,2.5,2,2.5,'indiapaleale','American Amber / Red Ale',2,2,'Big Red One',?,3117
+9820,'Elk Head Brewing Company',1185168761,2,2,2.5,'RedDiamond','Scotch Ale / Wee Heavy',2.5,2,'Kilted Elk',7.5,37863
+619,'Indian Wells Brewing Company',1321566246,2.5,2.5,3,'Mora2000','American Amber / Red Lager',2,2,'Orange Blossom',?,20496
+619,'Indian Wells Brewing Company',1324771968,2,2,3,'Murrhey','American Amber / Red Ale',2.5,1.5,'Ballistic Brewing Co. - Gorgon Red Ale',5.5,75896
+9534,'John Martin\'s (John Martin SA)',1298295236,2.5,2,3.5,'benfons','Euro Pale Lager',2,2,'Gordon Five',5,50217
+9534,'John Martin\'s (John Martin SA)',1302292398,2,2,2.5,'ThaCreep','Belgian Strong Pale Ale',2.5,2,'Gordon Finest Platinum 12-12',12,24375
+9534,'John Martin\'s (John Martin SA)',1299934350,2.5,2,2.5,'77ships','Belgian Dark Ale',2,2,'Gordon Halloween',6.6,34944
+1384,'Afanasy Pivo (Brau Service)',1246360287,2,2,3.5,'atis','Euro Pale Lager',2.5,2,'Afanasy Gold Premium',5,25266
+13010,'Bruveris - SIA Alus Tirdzniecibas Grupa',1263660355,1.5,2,2.5,'atis','Euro Pale Lager',2,2,'R&#299;gas Alus Ori&#291;in&#257;lais (Riga Original Beer)',4.2,55430
+1349,'AS Tartu Õlletehas',1238609423,2.5,2.5,3,'atis','German Pilsener',2,2,'A. Le Coq Pilsener',4.2,48884
+433,'Molson Coors Canada',1281975452,2,2.5,3,'spinrsx','American Pale Ale (APA)',2.5,2,'Bennett Dominion Ale',5,19381
+943,'Smoky Mountain Brewery & Restaurant',1083592838,2,2.5,3,'cretemixer','American Amber / Red Ale',2.5,2,'Cherokee Red Ale',5.5,3024
+1297,'Grand Rapids Brewing Co',1095560690,2,2,2.5,'granger10','Belgian Dark Ale',1.5,2,'Belgian Brown Bier',?,19917
+22772,'Birrificio Rurale',1300639653,2,2,3.5,'stcules','Belgian Pale Ale',2,2.5,'Oasi',5,67377
+3185,'The Tap Brewing Company',1300133626,2,2.5,3.5,'Thorpe429','Flanders Oud Bruin',2,2,'Ruby Bruin',5.3,63756
+4151,'Schlossbrauerei Stein Wiskott GmbH & Co. KG',1150145310,2.5,2,3,'stcules','Dortmunder / Export Lager',2,2.5,'Steiner Export Hell',5.3,8802
+7710,'Brauhaus Torgau AG',1312307617,2,1.5,3.5,'Sunnanek','Low Alcohol Beer',2,2,'Doppel Caramel',1.5,33673
+5420,'Klinskiy Pivokombinat',1136778787,2,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Klinskoye Wow',5.2,27738
+16301,'Bryggeri Skovlyst',1268596383,2,2,2.5,'bark','Euro Pale Lager',2.5,2,'BirkeBryg',5.2,54232
+379,'Moosehead Breweries Ltd.',1293253578,2,1.5,3.5,'JayS2629','American Adjunct Lager',2,2,'Moosehead Dry Ice',6,9332
+14855,'Bad Monkey Brewing Company, LLC',1266711123,2.5,2,3,'goblue3509','American Blonde Ale',2.5,2,'Bad Monkey Chimp Chiller Ale',?,61243
+694,'Tröegs Brewing Company',1321425504,2,2,2.5,'homebrew311','Tripel',2,1.5,'Scratch Beer 3 - 2007',10.1,37280
+9374,'UAB Švyturys',1324762109,2,2.5,3.5,'BlackHaddock','Bock',2,2,'Adler Bock',7,70958
+36,'Brasserie Grain d\' Orge (Brasserie Jeanne d\'Arc SA)',1311163811,1.5,2,2.5,'ThaCreep','Bière de Garde',2,2,'Grain D\'Orge Cuvée 1898',8.5,42341
+21092,'World Brews',1298073725,2,2,3,'sweett3k','American Adjunct Lager',2.5,2.5,'Seven Kings',4.5,61710
+21092,'World Brews',1322038279,2,2.5,2.5,'elNopalero','American Adjunct Lager',2,2,'Cable Car Small Batch Lager',4.8,37934
+6840,'Privatbrauerei M. Ketterer GmbH & Co.',1179347760,2,2.5,2.5,'stcules','Bock',2,2,'Ketterer Schützen-Bock',7.5,36847
+23200,'Knee Deep Brewing Company',1325781242,2.5,2,3,'chrisrose30','American IPA',2,1.5,'HopStar IPA',7.6,60852
+14319,'AMB - Maître Brasseur',1231127222,2,2.5,3,'Phyl21ca','Dubbel',1.5,2,'Déesse Étoilée',8.5,47064
+14319,'AMB - Maître Brasseur',1206420102,2.5,2,3,'DarkDryad','English Porter',2.5,2,'Lysée Noire',5,40901
+1539,'Oettinger International Getränke-Vertriebs GmbH',1218740189,2,2.5,3.5,'stcules','Euro Strong Lager',2,2,'Codys Super Strong',8.9,44323
+197,'Brasserie Fischer / Fischer Biere d\' Alsace',1308088133,2.5,2,3,'kojevergas','Fruit / Vegetable Beer',2.5,2,'Desperados Red',5.9,53375
+1638,'Heads Up Brewing',1156817745,2,2.5,2.5,'RedDiamond','American Porter',2,2,'Cream Of Porter',4.5,32526
+4928,'Liberty Steakhouse & Brewery',1319579253,2.5,2,3,'jzeilinger','American Amber / Red Ale',2.5,2,'Rocket\'s Red Ale',?,31933
+16333,'Tallgrass Brewing Company',1228353640,2,2,2.5,'HopsAreOverrated','Witbier',2,1.5,'Tallgrass Wheat',4.4,44189
+9775,'Brasserie De Saint Omer',1214330042,2,1.5,2.5,'hunteraw','Euro Pale Lager',2,2,'Tesco Bière Blonde',2.8,43370
+9775,'Brasserie De Saint Omer',1166133052,2,2.5,3.5,'BlackHaddock','Belgian Dark Ale',2,2,'Biere Noel',5.9,34320
+1291,'Motor City Brewing Works',1267408950,1.5,2,2.5,'divineaudio','Czech Pilsener',2,2,'Motor City Motown Lager',5.2,47301
+1602,'Big Hole Brewing Company',1294966545,2,2,3.5,'biboergosum','Euro Strong Lager',2,1.5,'Yankee Jim Ice Bock',6.5,39966
+4724,'Gulf Islands Brewing',1287940021,2,2.5,3,'ritzkiss','American Porter',2,1.5,'Salt Spring Porter',5.5,12507
+11065,'Olvi Oyj',1223759655,2,2.5,2.5,'Magerstraat','Euro Strong Lager',2,2,'Olvi Tuplapukki IV B',8.5,24610
+1581,'Broue Chope',1024254597,2,1.5,2.5,'MississaugaMatt','American Pale Ale (APA)',2,2,'Barbeau L\'Audacieuse',5,4398
+5368,'Carlsberg Sverige',1100264145,2.5,2,2.5,'bark','English Pale Ale',2,2,'Falcon Ale 5,0%',5,20727
+3193,'Edelweissbrauerei Farny',1177017841,2,2.5,2.5,'stcules','Kristalweizen',2,2,'Farny Kristall-Weizen',5.3,36413
+732,'Brauerei Schützengarten AG',1309298264,2,2,2.5,'kojevergas','Euro Pale Lager',2,1.5,'St.Galler Klosterbräu',5.2,8098
+283,'Brouwerij Liefmans',1211648296,2,1.5,3.5,'MWP','Fruit / Vegetable Beer',2,2,'Fruitesse Framboos-Framboise',3.5,29120
+14444,'Azumino Brewery',1156217222,2,2,2.5,'Naerhu','Munich Dunkel Lager',2,1.5,'Azumino Dunkel',5,32404
+727,'Asia Pacific Breweries Ltd.',1309437365,2,2,2.5,'hoobaga','Light Lager',2.5,2,'Tiger Crystal Light',4.1,67537
+11492,'Methow Valley Brewing Company/Twisp River Pub',1255199719,2,2,2.5,'RedDiamond','American Pale Wheat Ale',2.5,2,'Cherry Hefeweizen',?,53275
+2084,'Thunder Canyon Brewery',1294790972,1.5,2,3,'busternuggz','Witbier',2,1.5,'Thunder Canyon Not Your Mother\'s Witbier',7.8,62635
+401,'Baltika Breweries',1065634573,2,2,3,'Globetrotter','Winter Warmer',2.5,2.5,'Baltika #10 Jubilee',5.2,4698
+12581,'Baikalskaya Pivovarenniya Kompaniya',1132428547,2,2,2.5,'Globetrotter','Euro Strong Lager',2.5,2,'Komanda Krepkoye',7,26997
+2790,'Harper\'s Restaurant & Brewpub',1265397638,2,2.5,3,'bigkingken','American Pale Wheat Ale',2.5,2,'Spartan Wheat',?,6576
+386,'Broken Tooth Brewing',1194067615,2,2.5,3.5,'beersabound','American Pale Ale (APA)',2,2,'8 String Ale',5.4,39444
+11174,'Cervecera Mexicana S.A. De C.V.',1302474422,2.5,2,3,'jsprain1','American Adjunct Lager',2,2.5,'Ed Hardy Death Or Light Beer',?,52819
+10897,'Carlsberg Sverige AB',1112030825,2.5,2,3,'bark','Euro Pale Lager',2.5,2,'Rommehed Dalaöl',5.5,22816
+10897,'Carlsberg Sverige AB',1292617949,1.5,2,3,'Sunnanek','Vienna Lager',1.5,2,'Pripps Julöl',5,21097
+10897,'Carlsberg Sverige AB',1268483981,2.5,2,2.5,'rarbring','Euro Pale Lager',2,2,'Pripps Blå 2,8%',2.8,56763
+15098,'Font Salem',1168892344,2.5,2,2.5,'bark','American Adjunct Lager',2,2,'Wierquer Bier',4.5,34765
+21936,'Brauhaus Rheinbach',1303520388,2.5,1.5,3,'kojevergas','German Pilsener',2,2,'Rheinbacher Premium Pils',4.9,68319
+1425,'Union De Cervecerias Peruanas Backus y Johnston',1312471770,2,2,2.5,'wordemupg','Fruit / Vegetable Beer',2.5,2,'Quara Frutas Y Cebada',5,71695
+473,'Pacific Western Brewing Company',1185409983,2,2,2.5,'pootz','American Adjunct Lager',2.5,2,'Ironhorse',6.4,7979
+473,'Pacific Western Brewing Company',1296262754,2.5,2,3,'biboergosum','American Pale Lager',2.5,2,'Cariboo Genuine Draft',5.5,52131
+20360,'Phoenix Beverages Group',1324119831,2,2.5,3,'dansmcd','American Pale Lager',2.5,2,'Phoenix Beer',5,50441
+1549,'Goose Island Beer Co.',1072659952,2,2.5,2.5,'Weissenheimer','American Pale Wheat Ale',2,2,'Ceres Wheat',4.1,15112
+2549,'Ringnes Bryggeri (Carlsberg)',1151351320,2,2.5,3,'wl0307','Czech Pilsener',2.5,2,'Dahls Pils',4.5,31349
+2549,'Ringnes Bryggeri (Carlsberg)',1316226606,1.5,2,3,'TheDeuce','German Pilsener',2.5,2,'Ringnes Pilsener',4.5,9541
+25208,'Oakland Brewing Company',1315549229,1.5,2,2.5,'Arbitrator','American IPA',2,2,'Sea Of Hands',7,72965
+258,'Birra Peroni Industriale S.p.A.',1167033337,2.5,2,3,'','Euro Pale Lager',2,2.5,'Gran Riserva',6.6,4549
+355,'San Miguel Corporation',1217337503,2,2,2.5,'PLANETBUSTERRAVE','American Adjunct Lager',2,2.5,'San Miguel Super Dry',4.8,5365
+10097,'Harpoon Brewery',1306840032,2,2.5,3.5,'Thorpe429','English Pale Mild Ale',2,2,'Jimbo & The Technicolor Hop Sack',3.5,69587
+12328,'III Dachshunds/City Lounge',1174067498,2.5,2,3.5,'BeerBelcher','Milk / Sweet Stout',2,2,'Show Dog Vanilla Stout',?,26182
+4897,'Jaxon\'s Restaurant and Brewing Company',1279759118,2,2,2.5,'wisrarebeer','Vienna Lager',2,2.5,'Jaxon\'s Borderland Lager',4.38,23501
+30,'Avery Brewing Company',1282809594,2,2,3,'nickhiller','American Stout',1.5,1.5,'Out Of Sight',6.3,60834
+57,'Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.',1216059510,2.5,2,2.5,'HalfFull','Light Lager',2,2,'Sol Light',3.9,33830
+2335,'Beba',1256966818,2.5,2.5,3,'GRG1313','American Pale Lager',2,2,'Talco',4.5,53802
+10284,'Independence Brewing Co.',1310390191,1.5,2,3,'EdWort','American Amber / Red Ale',2,1.5,'Independence Rood',?,68344
+1719,'Sarmat',1152127007,2,2,3,'ernie','Euro Pale Lager',2.5,2.5,'Sarmat Lehke',4,31544
+10298,'Akashi Brewery K.K.',1105455845,2,2.5,3.5,'thesilverhand','Altbier',2,2,'Akashi Roman Beer',?,20390
+849,'Rogan Brewery',1151860428,2,2,3,'ernie','Euro Pale Lager',2.5,2.5,'Monasyrske Svitle',5.7,31465
+849,'Rogan Brewery',1151860739,2,2.5,3,'ernie','American Adjunct Lager',2.5,2,'Svitle Traditziyne',5.1,15544
+6627,'Pfungstädter Brauerei',1325507214,2,2.5,3,'rinhaak','German Pilsener',2.5,2,'Schonberger Ur-pils',4.9,51724
+130,'Boulder Beer / Wilderness Pub',1094345872,2,2.5,3.5,'Guinness4me','Light Lager',2,2,'Rockies Brewing Sulleys Light Lager',4.45,9254
+24678,'Brewery Vivant',1307330831,2,2,3.5,'britbrew10','Saison / Farmhouse Ale',2,1.5,'Farm Hand',5.5,65534
+2014,'Great Western Brewing',1323047940,2,2,3,'Converge','Euro Strong Lager',2.5,1.5,'Great Western Gold Strong',6.3,67921
+11068,'Carlsberg Italia S.p.A.',1322686432,2,2,3.5,'stcules','Euro Pale Lager',1.5,2,'Poretti Originale Chiara 4 Luppoli',5.5,75855
+9771,'Harringtons Brewery',1269539898,2,2.5,3.5,'femALEist','Euro Pale Lager',2,2,'Harrington\'s Lazy Summer Lager',5,57069
+771,'Ferme Brasserie Schoune',1285719568,2,2.5,2.5,'spinrsx','American Blonde Ale',2,2,'Rur\'Ale',5,50138
+17962,'Uncommon Brewers',1270172694,1.5,2,3,'illidurit','American Wild Ale',2,1.5,'Serendipity Sour Ale',6.5,57254
+9343,'Beer Works',1111149958,2,2.5,3,'Truh','American Stout',2.5,2,'Licorice Stout',?,22409
+2478,'Hösl & Co. Brauhaus GmbH',1295805524,2,1.5,3.5,'dasenebler','Munich Dunkel Lager',2,2,'Abt Andreas Traditionstrunk',4.9,65542
+16789,'Barefoot Brewers',1277028354,2,2.5,3,'Kulrak','Light Lager',1.5,2,'Barefoot Radler',4.2,42967
+1505,'Ostankinskiy Pivovarinniy Zavod',1024904113,2.5,2.5,3,'ORM1','Euro Pale Lager',2,2,'Ostankinskoye',4,4015
+4089,'Krönleins Bryggeri AB',1251491395,2,2.5,2.5,'Sunnanek','Euro Pale Lager',2,2,'Augusti Månens Premium',4.6,51566
+4089,'Krönleins Bryggeri AB',1261072622,2.5,2.5,3,'rarbring','Vienna Lager',2,2,'Three Hearts Julöl',5.3,21221
+4089,'Krönleins Bryggeri AB',1321311296,2.5,2.5,3,'stcules','Euro Pale Lager',2,2,'Stockholm Fine Festival Beer 5,3%',5.3,22301
+9741,'Artebirraia',1319832036,1.5,2,2.5,'stcules','Euro Pale Lager',2,2,'Libra Mais',5.8,74619
+3825,'Åbro Bryggeri',1249336059,2,2,3,'Sunnanek','Euro Pale Lager',2.5,1.5,'Åbro Sigill',5.2,32883
+883,'Tunbridge Brewing',1028372473,2,2.5,3,'Jason','American Pale Ale (APA)',2.5,2,'Vermont Pride Ale',?,2792
+18899,'Cervejaria Wäls',1312673858,2.5,2,3,'Halcyondays','Czech Pilsener',2,2.5,'Wäls Gioia',4,71785
+3957,'Grebbestad Bryggeri',1325883719,2,2,3,'rarbring','Vienna Lager',2.5,2.5,'Julöl 3.5%',3.5,77132
+612,'Flossmoor Station Restaurant & Brewery',1308693824,2,2.5,3,'alleykatking','American Malt Liquor',2,1.5,'Magnolia Star Malt Liquor',8.6,60729
+12959,'Captain Lawrence Brewing Co.',1309739008,2,2,3,'renegadeburger','Gueuze',2.5,1.5,'Gueze',?,69391
+12354,'Brauerei Hebendanz',1176409886,2,2.5,3,'HappyHourHero','Light Lager',2.5,2,'Bächla Leicht',2.8,36332
+437,'Pivovary Staropramen',1226089376,2,2.5,3,'HopsAreOverrated','Light Lager',2.5,2,'Staropramen 3.5%',3.5,28740
+25432,'Cosmic Ales',1311301692,2,2,3.5,'pollox87','American Brown Ale',2,1.5,'Hell Hound Brown',5.3,68594
+797,'Old European Brewing Company',1049647474,1.5,2,3,'AtrumAnimus','Munich Dunkel Lager',1.5,2,'Jacob Rosenberger & Son Germanic Style Dark',?,7551
+797,'Old European Brewing Company',1048401887,2,2,2.5,'Pegasus','Altbier',2.5,2,'Gustav Werner Alt Amber Ale',?,7553
+190,'Brouwerij De Troch',1316384900,2,1.5,3,'Mora2000','Lambic - Fruit',2,2.5,'Chapeau Apricot Lambic',3,1957
+190,'Brouwerij De Troch',1294799017,2,2.5,3,'johnwarne','Gueuze',2.5,2,'Chapeau X\'mas Gueuze',5.6,23132
+26772,'Baja Brewing Company',1319939458,2.5,2,3,'joshuacavett','American Blonde Ale',2,2.5,'Baja Blond',5,74696
+12225,'Société Des Brasseries De L\'Ouest Africain (S.O.B.O.A.)',1305215925,2,2.5,3,'BoitSansSoif','Euro Pale Lager',2.5,2,'Flag Spéciale Bière De Luxe',5.2,26213
+20998,'Battered Boar Brewing Company',1300714424,2,2.5,3,'carl','American Amber / Red Ale',2.5,2,'Briarpatch Amber Ale',7,52648
+17020,'Microbrasserie Le Corsaire',1320887210,2,2,3,'ZorPrime','Fruit / Vegetable Beer',2.5,2.5,'La Perruche',4.6,73560
+8923,'The Olde Heidelberg Tavern and Brew Pub',1258078833,2,2.5,2.5,'mrmanning','Light Lager',2,2,'Amber Dry Lager',5.2,18439
+13882,'Galatea Spirits',1282668954,2.5,2,3,'rarbring','Euro Pale Lager',2,2.5,'Arboga 5,6',5.6,22116
+703,'Erdinger Weissbräu',1052661304,2,2,3,'johnfurbock','Hefeweizen',2.5,2.5,'Erdinger Weissbier Leicht',2.9,9823
+537,'Groningse Stadsbrouwerij',1115747695,1.5,2,3.5,'paterlodie','Kölsch',2,2,'Grunn Goudhaantje',5,23593
+9095,'Deschutes Brewery & Public House',1097536363,2,2.5,2.5,'RedDiamond','American Stout',2,2,'Spindrift Stout',5.5,20287
+5287,'Cherryland Brewing, LTD.',1068355184,2,2,2.5,'Bighuge','Fruit / Vegetable Beer',2.5,2,'Cherry Rail Fruit Beer',4.2,11484
+417,'August Schell Brewing Company',1322979174,2,2,2.5,'mikesgroove','American Adjunct Lager',2.5,2,'Hauenstein',?,16108
+13307,'Mikkeller ApS',1318099483,2,2.5,3.5,'Urbancaver','Russian Imperial Stout',2,2,'Black Hole (Rum Edition)',13.1,58635
+2547,'Jack Russell Brewing Company',1213935426,1.5,2.5,3,'sloejams','Weizenbock',2,2,'Duke\'s Dodgerhator',6.8,21384
+127,'Portland Brewing Company',1183703426,2.5,2,2.5,'TAMU99','American Amber / Red Ale',2,2,'Elk Rock Velvet Antler',5.5,12009
+4087,'Spendrups Bryggeri AB',1264535105,2,2,3.5,'Sunnanek','Dortmunder / Export Lager',2.5,2,'Norrlands Guld Export',5.3,22009
+4087,'Spendrups Bryggeri AB',1173027828,2.5,2,3,'JanM','Euro Dark Lager',2.5,2,'Spendrups Röd Lager 3,5%',3.5,35709
+4087,'Spendrups Bryggeri AB',1320527412,2.5,2,3,'TobiasGoth','Euro Pale Lager',2.5,2,'Spendrups Premium Gold 5,9%',5.9,20985
+160,'Wychwood Brewery Company Ltd',1039079578,2,1.5,3,'Dogbrick','English Pale Ale',2,2.5,'Scarecrow Ale',4.7,4079
+4087,'Spendrups Bryggeri AB',1267104397,2,2,2.5,'rarbring','Euro Pale Lager',2.5,2,'Spendrups Lättöl',2.2,9145
+9351,'Pivovar a Sodovkárna Jihlava',1256587996,1.5,2.5,3,'stcules','Euro Strong Lager',2,2,'Jihlavsky Grand',8,22982
+5278,'Sacramento Alehouse (Pyramid Breweries)',1312254747,2,2.5,3.5,'scottfrie','American Amber / Red Ale',2,2,'Alehouse Amber Ale',4.9,71614
+10165,'Tarricone S.p.A.',1194697407,2,2,2.5,'stcules','Low Alcohol Beer',1.5,2,'Drive Beer',2.5,28064
+5129,'Arkell\'s Brewery Limited',1116801348,2,2.5,3.5,'TheLongBeachBum','English Bitter',2,2,'3B',4,14149
+309,'Brasserie Duyck',1149359895,2,2.5,3,'trevorwideman','Bière de Garde',2.5,2,'J Absinthe',7.5,17684
+2976,'Pints Pub and Brewery and Freehouse',1221167045,1.5,2,3,'Seanibus','German Pilsener',1.5,2,'Czechmate Pilser',?,44825
+5904,'Brewery At The Bay / Put-In-Bay Brewing Co.',1279897022,1.5,2,3,'OWSLEY069','Oatmeal Stout',2,1.5,'South Bass Stout',?,44428
+287,'Bell\'s Brewery, Inc.',1287028931,2.5,2,3,'jimbus','American Pale Wheat Ale',2,1.5,'Bell\'s Homegrown Ale',?,61993
+287,'Bell\'s Brewery, Inc.',1249962284,2.5,2,3,'2Stout4u','American Stout',2.5,2,'Bell\'s Cherry Stout (Reserve, 2001)',?,35778
+1595,'Cascade Brewery Company Ltd.',1325675611,2,2.5,3,'mulder1010','American Adjunct Lager',2,2.5,'Cascade Lager',4.8,16618
+2891,'Karlsberg Brauerei',1305666560,2,2,2.5,'stcules','Dortmunder / Export Lager',1.5,2,'Karlsberg Export',5.4,46932
+2891,'Karlsberg Brauerei',1305667024,2.5,2,2.5,'stcules','German Pilsener',2,2,'Karlsberg Pils',4.8,47127
+3363,'Iceni Brewery',1137089261,2,2.5,3,'wl0307','American Blonde Ale',2,2.5,'Winter Lightning',5,27789
+319,'Brau Union Österreich AG',1136733489,2,2,2.5,'stcules','Munich Dunkel Lager',2,2.5,'Kaiser Dunkel',?,27726
+569,'Anadolu Efes Brewery',1296430466,2,2,2.5,'breweryaprntc13','Hefeweizen',1.5,2,'Gusta',5,46876
+601,'Obolon Brewery',1086544764,2,2,3.5,'Globetrotter','Euro Strong Lager',2.5,2,'Obolon 2000',8,17814
+15237,'De Struise Brouwers',1276896981,2,2,3,'BlackHaddock','Belgian Dark Ale',2.5,2.5,'Moeder Lambik Amber',5,59359
+435,'Minhas Craft Brewery',1297553824,1.5,2,3,'biboergosum','American Adjunct Lager',1.5,2,'Boxer Ice',7.1,66197
+435,'Minhas Craft Brewery',1296694197,1.5,2,3,'optimator13','American Pale Lager',2,1.5,'Mountain Creek Classic Lager',5.5,19529
+435,'Minhas Craft Brewery',1296618945,1.5,2,3,'biboergosum','Euro Strong Lager',1.5,2,'Triple 777',7,59481
+66,'Einbecker Brauhaus AG',1278978266,2,2,2.5,'madjr80','German Pilsener',2.5,2,'Einbecker Brauherren Premium Pils',4.9,1872
+9574,'Red Lion Ales',1096385645,2,2.5,3,'Rastacouere','English Pale Ale',2,1.5,'Golden Lion',4.5,17423
+3413,'Moulin Hotel & Brewery',1321035862,2,2.5,3,'BDTyre','Scottish Ale',2,2.5,'Ale Of Atholl',4.5,25843
+440,'Ochakovo',1277326615,2,2,2.5,'pootz','Euro Pale Lager',2.5,2,'Ochakovo Premium',5,8405
+573,'Hahn Brewing Co. Pty. Ltd.',1119153242,2,2,3.5,'jarmby1711','American Adjunct Lager',2,2.5,'Hahn Premium',5,1532
+12547,'The Livery',1304791741,2,2.5,3.5,'Thorpe429','American Pale Ale (APA)',2,2,'Paris-Roubaix Pale Ale',5.5,33371
+12547,'The Livery',1304791184,2,2.5,3.5,'Thorpe429','Munich Dunkel Lager',2,2,'German Dunkel',5,68791
+1382,'Aldaris',1241971069,2,2,2.5,'atis','Euro Pale Lager',1.5,2,'Apin&#299;tis Gaiais Alus (Apinitis Pale Beer)',4.7,49705
+1382,'Aldaris',1219598268,2,2,3,'atis','Euro Pale Lager',2.5,2.5,'Latvijas Sevi&#311;ais',5,44518
+353,'Carlton & United Breweries, Ltd.',1227696612,2.5,2,3.5,'Macca','American Adjunct Lager',2,2,'Richmond Lager',4.5,45186
+353,'Carlton & United Breweries, Ltd.',1303629625,2,1.5,3.5,'JohnnyBarman','American Adjunct Lager',2,2,'Melbourne Bitter',4.6,3998
+4102,'Hartwall Helsinki Panimo',1261940067,2,2,2.5,'Dentist666','Dortmunder / Export Lager',2.5,2,'Karjala Export IV B',5.2,19386
+2429,'Brasserie Des Fagnes',1153102185,1.5,2.5,3,'TheLongBeachBum','Belgian Pale Ale',2,2,'Super Des Fagnes Four Cereals',7,31746
+1639,'Gallaghers\' U-Brew',1262650054,2,1.5,3.5,'RedDiamond','American Brown Ale',2,2,'Nuthouse Brown',7,55227
+6371,'Jack\'s Brewing Company',1290659899,1.5,2,3,'largadeer','Fruit / Vegetable Beer',1.5,2,'Jacks Mango Wheat',3.5,12315
+39,'Privatbrauerei Franz Inselkammer KG / Brauerei Aying',1324855779,2,2,2.5,'theotherone87','Munich Helles Lager',1.5,2,'Ayinger Bräu Hell',4.9,8995
+23459,'Hermitage Brewing',1300592374,2,2,3,'ocelot2500','American Double / Imperial IPA',2.5,2.5,'Ale Of The Hermit',8,61459
+4707,'Choc Beer Co. / Pete\'s Place',1318812468,2,2.5,2.5,'KarlHungus','American Amber / Red Ale',2,2,'Pietro Piegari',5,44985
+3300,'Brasserie Saint-Monon',1133801636,2,2,3.5,'paterlodie','Fruit / Vegetable Beer',2,2.5,'La Saint-Hubert Cuvée De La Chasse',6.5,17639
+163,'Amstel Brouwerij B. V.',1129129727,2.5,2.5,3,'patto1ro','Euro Dark Lager',1.5,2,'Amstel Oud Bruin',?,1419
+163,'Amstel Brouwerij B. V.',1314210055,2.5,2.5,3,'djura','Euro Pale Lager',1.5,2,'Amstel (Pure Filtered)',4.7,33584
+421,'Formosa Brewing Co.',1031134683,1.5,2.5,3,'MississaugaMatt','American Amber / Red Lager',2,1.5,'Honey Brown Lager',?,5843
+1487,'Accra Brewery Limited',1258916255,2,2,2.5,'Nickls','Euro Pale Lager',2.5,1.5,'Stone Strong Lager',5.7,54295
+16791,'Otro Mundo Brewing Company',1236532682,1.5,2,3,'drpimento','English Brown Ale',2.5,1.5,'Otro Mundo Nut Brown Ale',6,40767
+2430,'Al Ahram Beverages Company',1186651794,1.5,2,3.5,'lacqueredmouse','German Pilsener',2,1.5,'El Dorado Premium Pilsener',5.2,38082
+2430,'Al Ahram Beverages Company',1150549392,2.5,2.5,2.5,'ernie','Dortmunder / Export Lager',2,2,'Stella Export',5.2,27588
+8775,'O\'Griff\'s Irish Pub & Brewhouse',1234146716,2.5,2.5,3.5,'Tone','American Pale Wheat Ale',2,2,'Winter\'s Street Strawberry Ale',5.2,30182
+3354,'Dostal Alley Brewpub',1285539800,2,2.5,3,'emmasdad','American Pale Wheat Ale',2.5,1.5,'Summer Ale Wheat',?,43603
+2723,'Brauerei Gasthof Hartmann',1307618104,2.5,2,2.5,'kojevergas','German Pilsener',2,1.5,'Hartmann Edelpils',4.9,6441
+12224,'Rinkuškiai Alaus Darykloje',1127179564,2,2,2.5,'TastyTaste','Euro Strong Lager',2.5,2.5,'Birie&#269;iu',8,25918
+1413,'Desert Edge Brewery',1030197598,2.5,2.5,3,'beernut7','Kristalweizen',2.5,2,'Krystal Weis',4,5652
+10541,'Cucapá Brewing Company',1326146441,2.5,2.5,3,'elNopalero','American Blonde Ale',2,2.5,'Cucapá Honey',4.5,36270
+13905,'Brasserie Dunham',1282525786,1.5,2,3.5,'rodenbach99','American Pale Lager',2,1.5,'Éli',4,61140
+3351,'Coors Brewers Ltd',1275602995,2.5,2.5,3,'AEK','English Bitter',2,2.5,'Worthington\'s Creamflow Draught Bitter',3.6,31063
+394,'Stoudts Brewing Co.',1309654627,2.5,2,3,'Rifugium','American Pale Ale (APA)',2.5,2.5,'Stoudt\'s McGillin\'s Real Ale',?,7730
+161,'Florida Beer Company',1210043559,1.5,2,2.5,'babaracas','American Adjunct Lager',2.5,2,'Yes I',?,37462
+10446,'Two Rows Restaurant And Brewery',1187476510,1.5,2,3.5,'hermes01','American Porter',2,1.5,'Barking Fish Porter',?,29877
+10790,'Beck\'s Sports Brewery',1234845430,2.5,2,3,'LordofTime25','Bock',2.5,2.5,'Grizzly Bock',?,25651
+2299,'Brouwerij Strubbe',1262086736,2.5,2,3,'BlackHaddock','Tripel',2.5,2.5,'Abeelsen Tripel',7.8,55073
+9645,'Halifax Steam Brewing Company Ltd',1098990541,2,2.5,2.5,'BSF','English Dark Mild Ale',2.5,2,'Goth',3.6,20529
+675,'Brouwerij Roman N.V.',1317974530,2,1.5,3.5,'Mar02x','Flanders Oud Bruin',2.5,2,'Adriaen Brouwer Audenaerds Bruyn',5,17810
+455,'Creemore Springs Brewery Limited',1273394083,2.5,2,3,'hidk09','Keller Bier / Zwickel Bier',2.5,1.5,'Creemore Springs Kellerbier',5,50647
+5419,'Irkutskpisheprom',1112527709,2,2,2.5,'Globetrotter','Euro Strong Lager',2.5,2.5,'Gubernatorskoye',9.4,22934
+22150,'Stillwater Artisanal Ales',1325444504,2,1.5,2.5,'DrinkSlurm','Herbed / Spiced Beer',2,1.5,'Of Love & Regret (Import Series Vol. #1)',7.2,60791
+11941,'Pécsi Sörfözde',1149885414,2,2.5,3.5,'bark','Euro Pale Lager',1.5,2,'Pécsi Mühlentor Sör',3,31001
+11941,'Pécsi Sörfözde',1320685552,2.5,2,2.5,'djura','Fruit / Vegetable Beer',2,2.5,'Konig Lemon',2,74992
+15185,'Cerveza Jerome',1251633191,2.5,2.5,3,'gfreed','Belgian Pale Ale',2.5,2,'Cerveza Jerome Rubia',6,34243
+4500,'Brasserie Vanuxeem',1284331360,2,2.5,3.5,'BlackHaddock','Belgian Strong Pale Ale',2.5,2,'Queue De Charrue Blonde',9,16740
+641,'Brouwerij Verhaeghe',1153171812,1.5,2,2.5,'janubio','Belgian Strong Pale Ale',2,1.5,'Noël Christmas Weihnacht',7.2,9208
+24250,'High House Farm Brewery',1317842638,2.5,2.5,3,'Mar02x','English Pale Ale',2.5,2,'Nettle Beer',4.5,73810
+10116,'Steelback Brewery',1205684980,2,2.5,2.5,'jwc215','American Adjunct Lager',1.5,2,'Copperhead',5.5,28670
+2230,'Kopparbergs Bryggeri AB (Sofiero - Banco - Zeunerts)',1105563189,2.5,2,2.5,'stjarnflikka','Euro Pale Lager',2.5,2,'Zeunerts Bajen Fans Bärs',5.3,21540
+11746,'Le Brasse-Temps (Mons) / Microbrasserie Le Brasse-Temps',1147158073,2.5,2,2.5,'TheLongBeachBum','Witbier',1.5,2,'Blanche De Ste Waudru',4.5,24631
+6663,'Brauerei G.A. Bruch',1296684387,2.5,2,3,'stcules','Keller Bier / Zwickel Bier',2.5,2.5,'Bruch Zwickel',5,42145
+782,'City Brewing Company, LLC',1317183874,1.5,1.5,3,'crossovert','American Malt Liquor',1.5,2,'Side Pocket High Gravity Ale',8.5,51915
+11489,'Interbeer',1117474327,2,1.5,2.5,'Globetrotter','American Adjunct Lager',2.5,2,'T Svetloye',4,24001
+3392,'Ballard\'s Brewery Limited',1065495293,2.5,2,2.5,'rastaman','American Barleywine',2,2.5,'Ballards Foxy',9.3,13300
+6875,'Hopdaemon Brewery Company',1064192912,1.5,1.5,3,'rastaman','Herbed / Spiced Beer',2,1.5,'Hopdaemon Bewitched',3.7,12825
+1685,'Cerveceria Bucanero S.A.',1287929350,2.5,2.5,2.5,'stcules','American Adjunct Lager',2,2,'Cubanero Fuerte',5.4,40619
+1690,'Shenandoah Brewing Co.',1296331987,2,2.5,2.5,'CuriousMonk','American Amber / Red Ale',2,2.5,'Skyland Red Ale',?,6520
+4933,'Beermann\'s Beerwerks',1236145468,1.5,2,2.5,'MisterClean','American Strong Ale',1.5,2,'Strong Blonde',?,48270
+8535,'Carlsberg-Tetley Brewing Ltd',1315710233,2.5,2,3,'ElCommodoro','Euro Pale Lager',2.5,2.5,'Carlsberg Lager (UK)',3.8,64973
+3291,'Hochstiftliches Brauhaus',1070681295,2,2.5,2.5,'RoyalT','German Pilsener',2,2.5,'Will-Brau Pils',?,14621
+23934,'Janake Wine Group AB',1294437698,2,1.5,2.5,'Asgeirr','Bock',2,1.5,'Bagge Bocköl',6,62277
+1491,'Cerveceria Costa Rica',1294259386,2,2,2.5,'Phyl21ca','Fruit / Vegetable Beer',1.5,1.5,'Rock Ice Golden Monkey',5,65070
+8508,'McCallum Brewery',1193344180,1.5,2,3,'likestoswallow','American Adjunct Lager',2.5,1.5,'3 Coins Malt Lager',5,15047
+4090,'Två Bryggare - Österlenbryggarna (Ysta Bryggeri)',1317562725,2,2.5,2.5,'rarbring','Euro Pale Lager',2.5,2,'Ysta Färsköl',4.8,21581
+13189,'Little Valley Brewing Ltd',1305852023,2.5,2,3.5,'kojevergas','English Pale Ale',2,2.5,'Fairtrade Ginger Pale Ale',4,53555
+14822,'Lindenbräu',1160845539,2,1.5,3,'stcules','German Pilsener',1.5,1.5,'Adelskronen Pils',4.9,33213
+48,'Brouwerij Van Steenberge N.V.',1156343452,2.5,2.5,3,'paterlodie','Czech Pilsener',2,2.5,'Filibuster Pils',5,29150
+572,'Castlemaine Perkins',1206313722,2,1.5,3.5,'CAMRAhardliner','American Adjunct Lager',2,1.5,'XXXX Export Gold',4.5,41773
+9863,'Brewsters Brewing Company & Restaurant - Eleventh Avenue',1248054919,2,2.5,2.5,'northyorksammy','English Bitter',2,2.5,'Bighorn Bitter Ale',5,30872
+780,'Granville Island Brewery',1120103265,2,1.5,2.5,'Noxious26','American Adjunct Lager',2,1.5,'Natural Draft',5,24423
+5895,'Judge Baldwin\'s Brewing Company',1210621121,2.5,2,2.5,'rye726','American Adjunct Lager',2.5,2,'ZZ Lager',5,16498
+215,'Bières de Chimay S.A.',1275014698,1.5,2,3.5,'craytonic','Belgian Pale Ale',2.5,2,'Dorée',4.8,1811
+778,'Pioneer Brewing Company',1119491518,1.5,2,3,'TastyTaste','Fruit / Vegetable Beer',1.5,1.5,'Cranberry Special Ale',?,3238
+778,'Pioneer Brewing Company',1119756344,2,2.5,3.5,'TastyTaste','American Pale Wheat Ale',2.5,2,'Wood Duck Wheat',?,5362
+6795,'Brauerei Zoller-Hof',1168289384,2.5,2.5,3,'stcules','Hefeweizen',2,2.5,'Zoller-Hof Hefe-Weizen',5.1,34672
+21597,'Officina Della Birra',1261473875,2.5,2.5,3.5,'stcules','Euro Pale Lager',2,2,'La Bionda Dell\'Officina',5,54934
+2444,'Companhia Cervejaria Brahma',1067656824,2.5,2,2.5,'fattyre','American Adjunct Lager',2,2.5,'Brahma Extra',5.5,7366
+35,'Boston Beer Company (Samuel Adams)',1237416177,2,2.5,3,'zsk','Witbier',2.5,2.5,'Samuel Adams Imperial White',10.3,47317
+6571,'Brasserie Du Chant Du Loup',1248207392,2.5,2.5,3,'malmquna','Belgian Pale Ale',2,2.5,'Lupus Ale',4.9,14330
+9726,'Les Frères Houblon Microbrasserie',1119622934,2.5,2,2.5,'Phyl21ca','Witbier',2.5,2,'Blanche Des Trois-Rivières',5,17981
+894,'the Nils Oscar Company',1146308441,2.5,2.5,2.5,'stcules','German Pilsener',2,2,'Nils Oscar Lundgrens Lager',4.9,6775
+14916,'Les Brasseurs du Hameau',1297483261,2.5,2,2.5,'Phyl21ca','Herbed / Spiced Beer',2,2.5,'Rousse Whisky',6.5,66162
+447,'Pabst Brewing Company',1301018226,2.5,2.5,3,'biboergosum','Light Lager',2,2.5,'Rainier Light',3.88,1721
+2933,'Huisbrouwerij Old Bailey',1133376762,1.5,2,3.5,'paterlodie','Belgian Pale Ale',2.5,2,'St. Honoré Blond',8.5,14029
+2933,'Huisbrouwerij Old Bailey',1116042646,2,2.5,2.5,'TheLongBeachBum','Belgian Pale Ale',2.5,2,'St. Honoré Lo\'is Amber',7,14031
+1369,'Vena Brewery',1062039391,2,2.5,2.5,'Globetrotter','Light Lager',2.5,2,'Nevskoye Light',3.2,12333
+8202,'Specklebelly\'s Brew Pub',1151467972,2,2,3.5,'Noxious26','American Amber / Red Lager',1.5,1.5,'Specklebelly\'s Honey Brown',5,31378
+709,'Slavutych Brewery',1152129865,2.5,2.5,3,'ernie','Euro Pale Lager',2,2.5,'Slavutich ICE',5,31554
+709,'Slavutych Brewery',1320775694,2,2.5,2.5,'spinrsx','Euro Pale Lager',2.5,2,'Slavutych Pivo (Slavutich Premium)',5,2917
+3073,'Oggi\'s Pizza & Brewing Co.',1318917615,2.5,2,3,'Murrhey','American IPA',2.5,2.5,'Torrey Pines IPA',6.9,6962
+2635,'Brauerei Gasthof Hotel Post',1199370568,2.5,2.5,3,'stcules','Hefeweizen',2,2.5,'Der Postillon Hefe Weizen',?,40382
+306,'Coors Brewing Company',1321932577,2,2.5,2.5,'weatherdog','American Pale Wheat Ale',2,1.5,'Blue Moon Spring Blonde Wheat Ale',5.4,65085
+1177,'Minneapolis Town Hall Brewery',1322710288,2,2.5,3,'DCon','Hefeweizen',2.5,2.5,'Chili-Smoked Hefe',5.2,75865
+6372,'Fort Collins Brewing',1298276425,1.5,2.5,2.5,'ktrillionaire','American Brown Ale',2,2,'Hazelnut Brown Ale',?,66531
+433,'Molson Coors Canada',1322487848,2.5,2.5,3,'spinrsx','Light Lager',2.5,2,'Keystone Lager',4.9,63584
+622,'Shaftebury Brewing Company',1169323795,2,2.5,3,'Viggo','Black & Tan',2.5,2.5,'Winter Nights Black & Tan',6.5,26739
+4151,'Schlossbrauerei Stein Wiskott GmbH & Co. KG',1316516753,2,2.5,2.5,'sunrisesolara','German Pilsener',2,2.5,'Stoaner Zwerg',4.8,29907
+3721,'Chez Gambrinus',1211082347,2.5,2,3.5,'northyorksammy','American Pale Wheat Ale',2.5,2,'La Petite Munich',5,29768
+1001,'Firehouse Brewing Co.',1294109728,2,2.5,3.5,'ForWhatAlesYou','American Pale Lager',2,1.5,'Brewer\'s Gold',?,65024
+3409,'Fox And Hounds / Houston Brewery Company',1226922316,2,1.5,3.5,'kmacphail','Scottish Ale',1.5,2,'Auld Humdinger',4,45963
+36,'Brasserie Grain d\' Orge (Brasserie Jeanne d\'Arc SA)',1311163279,2.5,2,3,'ThaCreep','Euro Strong Lager',1.5,2.5,'Belzebuth 8,4',8.4,52428
+156,'Tommyknocker Brewery',1325315459,2,2.5,3.5,'BlurryVisi0n','Fruit / Vegetable Beer',2.5,2,'Tundrabeary Ale',4.7,6845
+1620,'Dunedin Brewery',1316240084,2,2,3.5,'olimpia84','Irish Dry Stout',2.5,1.5,'Dunedin Nitro Stout',3.9,42371
+410,'Pittsburgh Brewing Co.',1316008357,1.5,2,2.5,'OWSLEY069','Light Lager',1.5,2,'I.C. Light Mango',?,70642
+591,'Hoptown Brewing Company',1042973833,2.5,2.5,3,'BeerManDan','American Pale Ale (APA)',2.5,2,'PaleFace Pale Ale',5.3,8133
+14319,'AMB - Maître Brasseur',1249559330,2.5,2,3,'mrmanning','American Blonde Ale',2.5,2.5,'Lysée Dorée',5,40713
+2593,'Wild Rose Brewery & Taproom',1305933468,2,2,3.5,'jbonapar','Fruit / Vegetable Beer',1.5,1.5,'Wild Rose WRaspberry Ale',4.5,11939
+197,'Brasserie Fischer / Fischer Biere d\' Alsace',1314493843,2,2,3.5,'GONZALOYANNA','Euro Pale Lager',1.5,1.5,'Desperados',5.9,15804
+197,'Brasserie Fischer / Fischer Biere d\' Alsace',1324919029,2,2,2.5,'TheBrewo','Euro Pale Lager',2.5,1.5,'Desperados Mas',3,66058
+4113,'Mohrenbrauerei August Huber',1105907104,2.5,2,2.5,'stcules','Euro Pale Lager',2.5,2,'Mohren Spezial',5.6,21600
+22349,'Lefty\'s Brewing Company',1310796255,1.5,1.5,3,'silentjay','Oatmeal Stout',2,1.5,'Chocolate Oatmeal Stout',7.2,61407
+10523,'Gotlands Bryggeri',1305761639,2.5,2.5,3,'Rapax','Irish Dry Stout',2,2.5,'Wisby Stout',?,66979
+1135,'Franklin\'s Restaurant, Brewery & General Store',1324157218,2,2.5,3.5,'Thorpe429','American Amber / Red Ale',1.5,2,'Rubber Chicken Red',5.5,54258
+9057,'Samarqand 1-Son Pivo Zavodi Pulsar',1076959721,2.5,2,2.5,'Globetrotter','Light Lager',2.5,2,'Silver Pulsar',3.6,15945
+11065,'Olvi Oyj',1262625903,2.5,2,2.5,'Dentist666','Euro Dark Lager',2.5,2,'Olvi Tumma',4.3,24697
+14289,'Poltavpivo',1155584145,2.5,1.5,3.5,'ernie','Euro Pale Lager',2,2,'Vakula',4.1,32280
+769,'Amsterdam Brewing Company',1107666733,2,2.5,2.5,'northyorksammy','Light Lager',2,2.5,'Amsterdam Natural Light',4,21823
+132,'Rogue Ales',1159224399,2.5,2.5,3,'Goldorak','American Amber / Red Ale',2.5,2,'No Fault Line',8,30819
+5339,'Cerveceria Argentina S.A. Isenbeck',1200549068,2.5,2.5,3,'Shadman','American Adjunct Lager',2.5,2,'Patagogonia',4.9,40590
+3410,'Kelburn Brewing Company',1299542806,2.5,2.5,3,'kojevergas','English Dark Mild Ale',2.5,2,'Dark Moor',4.5,15875
+11819,'Brauerei Baar AG',1309001033,2.5,2.5,3.5,'kojevergas','Dunkelweizen',2,2,'Hopfenmandli Zuger Lager Dunkel',4.8,70373
+13412,'Syktyvkarpivo',1142359207,2,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2.5,'Syktyvkarskoye',4.5,28976
+750,'Lake Superior Brewing Company',1218626373,2.5,2,3,'beckje01','Vienna Lager',2.5,2.5,'Hacienda Bueno Blanco',?,32169
+4739,'Moffat Station Brewery',1136999131,2.5,1.5,2.5,'benito','American Adjunct Lager',2,2,'Big Dave\'s Jamaican Lager',?,27772
+10085,'Brouwerij De Kemphaan',1093789287,2,2.5,2.5,'stcules','Belgian Strong Pale Ale',2,2.5,'Kemphaan Extra',8,19556
+2876,'Hofbräuhaus Traunstein Josef Sailer KG',1319420703,2.5,2.5,3,'keytown','Märzen / Oktoberfest',2.5,2,'Hofbrau Oktoberfest',?,63448
+837,'Golden Pacific Brewing Company',1078785047,2.5,2.5,3,'watermelonman','American Amber / Red Lager',2.5,2,'Wild Boar Amber',?,16101
+837,'Golden Pacific Brewing Company',1065797100,2,2,3.5,'RBorsato','American Amber / Red Ale',2.5,2.5,'Golden Gate Amber Ale',?,4035
+23585,'Lead Feather Brewing Company',1312004788,1.5,2.5,3,'CurtisLoew','Hefeweizen',2,1.5,'Hodag Wheat Ale',4.9,71514
+1293,'Great Grains Brewery, Inc.',1069684192,1.5,1.5,3,'Dogbrick','American Pale Ale (APA)',1.5,2,'Texas Tornado',3.9,3487
+269,'Ceres Brewery (Royal Unibrew)',1073568047,2,2,2.5,'Globetrotter','Dortmunder / Export Lager',2.5,1.5,'Ceres Royal Export',5.8,7093
+11872,'Brasserie Saint-Germain',1311613904,2,2.5,3.5,'kojevergas','Bière de Garde',2,2.5,'Page 24 Réserve Hildegarde Ambrée',6.9,42008
+269,'Ceres Brewery (Royal Unibrew)',1198517340,2.5,2,3.5,'stcules','Hefeweizen',2,2.5,'Ceres Weiss',5.1,38108
+10897,'Carlsberg Sverige AB',1191150097,2.5,2,2.5,'Jonte','Euro Pale Lager',2,1.5,'Carlsberg Beer 3,5%',3.5,22060
+11174,'Cervecera Mexicana S.A. De C.V.',1318816028,2,2,2.5,'properhops','American Pale Lager',2.5,2.5,'La Playa',4.6,58857
+10897,'Carlsberg Sverige AB',1265386263,2.5,2,3,'lstokes','Baltic Porter',2.5,2.5,'Carnegie Porter 3,5%',3.5,22322
+10897,'Carlsberg Sverige AB',1137962567,2.5,2.5,2.5,'bark','Vienna Lager',2,2,'Falcon Juöl 3,5%',3.5,27553
+11531,'Brouwerij Angerik BVBA',1182196965,2.5,2,2.5,'stcules','Belgian Pale Ale',2.5,2,'Boerke Blond',6.5,24172
+1477,'Great Northern Brewing Co. / Black Star Draught House',1325194119,2,1.5,2.5,'DarthKostrizer','American Pale Lager',2.5,2,'Black Star Double Hopped Golden Lager',4.6,3887
+680,'Bricktown Brewery',1244319749,2.5,2.5,3,'htomsirveaux','American Amber / Red Ale',2.5,2,'Rock Island Rail Ale',?,18156
+20360,'Phoenix Beverages Group',1280151157,2.5,2,3.5,'Thehuntmaster','American Pale Lager',2.5,2,'Blue Marlin',6,60446
+26572,'Birra Venezia',1323314313,2.5,2.5,3,'ikats','Euro Pale Lager',2.5,2,'Birra Venezia Bionda',4.7,76087
+355,'San Miguel Corporation',1150665054,2.5,2.5,3,'JayTheFinn','American Adjunct Lager',2,2.5,'San Miguel Premium Lager',5,922
+2549,'Ringnes Bryggeri (Carlsberg)',1316226142,2,2.5,3,'TheDeuce','Euro Pale Lager',2.5,2.5,'Frydenlund Pilsener',4.5,35053
+174,'Latrobe Brewing Co.',1048874387,2,2.5,2.5,'Shiloh','Light Lager',2.5,2,'Rock Green Light',3.7,13770
+4949,'Damm S. A.',1323220248,2.5,2,3.5,'kojevergas','Bock',1.5,2,'Bock Damm',5.4,26726
+10097,'Harpoon Brewery',1299123389,1.5,2.5,3,'wcintula','American Wild Ale',2,1.5,'Harpoon 2009 Chocolate Stout Brewed With Brettanomyces',5.9,66834
+7214,'Mahogany Ridge Brewery & Grill',1291618116,2.5,2,2.5,'codewarrior','American IPA',2.5,2,'Lil\' Lyddie\'s IPA',?,64170
+4936,'Krasniy Vostok',1295488297,1.5,2.5,3.5,'crossovert','Euro Pale Lager',2,2,'Krasny Vostok Classic Beer',5,24795
+23055,'Banff Ave. Brewing Co.',1305860149,2,2,3.5,'vette2006c5r','Extra Special / Strong Bitter (ESB)',2.5,2.5,'Brewer\'s Oar Cream Ale',?,61078
+5422,'Pivobezalkogolniy Zavod Severskovo Pischekombinata',1059070307,2,2.5,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Severskoye Svetloye',4.8,11722
+181,'George Gale & Company Ltd',1163539465,1.5,2,2.5,'GooberMcNutly','Old Ale',2,2.5,'Gale\'s Prize Old Ale',9,3732
+10284,'Independence Brewing Co.',1203659797,2.5,2.5,3,'JDV','American Pale Wheat Ale',2,2.5,'Freestyle Wheat Beer',4.7,20369
+7234,'Potters Hotel & Brewery (Hunter Beer Co)',1271045406,2.5,2,3.5,'laituegonflable','Kölsch',2.5,2,'Hunter Kolsch',4.5,32093
+16983,'Carlsberg Croatia',1311244608,2.5,2.5,2.5,'djura','Fruit / Vegetable Beer',2,2,'Lav Twist',2,71246
+1332,'Simonds Farsons Cisk Plc.',1293694684,1.5,2.5,3,'BDJake','Milk / Sweet Stout',2,1.5,'Lacto Traditional Stout Beer',3.4,9501
+827,'Brouwerij De Bie / D\'Hellekappelle',1262871553,2.5,2,3.5,'Travlr','Belgian Strong Pale Ale',2,2.5,'Riebedebie',9,28095
+1332,'Simonds Farsons Cisk Plc.',1325965214,1.5,2,3.5,'bark','English Pale Ale',2.5,2,'Hopleaf Pale Ale',3.8,7473
+1752,'Two Rows Restaurant & Brewery',1081120385,2,2,3.5,'assurbanipaul','American Adjunct Lager',2.5,1.5,'Two Rows Steamroller Lager',?,16952
+13382,'SIA Piebalga Alus',1201220050,2,2.5,3,'beerthulhu','Euro Pale Lager',2.5,2.5,'Minhauzen',4.6,28901
+1340,'Gaslight Brewery & Restaurant',1108438718,2.5,1.5,3,'TheDeuce','Cream Ale',2.5,2,'Slalom Ale',4.2,21952
+849,'Rogan Brewery',1151848674,2,2,2.5,'ernie','Japanese Rice Lager',1.5,1.5,'Kampai',5,31462
+6627,'Pfungstädter Brauerei',1288652584,2.5,2,3.5,'TurdFurgison','Märzen / Oktoberfest',2.5,2,'Pfungstädter Festbier',5.8,42064
+18997,'Captured By Porches Brewing Company',1247524630,2.5,2.5,3,'RedDiamond','American Amber / Red Ale',2,2.5,'Red Emma Amber Ale',6.1,46979
+11068,'Carlsberg Italia S.p.A.',1287929914,2.5,2,3.5,'stcules','Euro Pale Lager',2,2.5,'Poretti',5,22628
+8446,'barVolo',1309083725,2,2.5,3.5,'northyorksammy','English Dark Mild Ale',2.5,2,'House Ales Mid Day Mild',?,70411
+804,'Brasserie de Silly S.A.',1160846955,2,2,2.5,'stcules','Belgian Strong Pale Ale',1.5,1.5,'Cuvée Des Hauts Voués De L\'Avouerie D\'Anthisnes',8,33214
+948,'Waimea Brewing Company',1128958203,2,2.5,3,'xoqx','American Blonde Ale',2.5,2.5,'Wai\'ale\'ale Ale',4.8,21183
+14100,'Wooden Hand Brewery',1315253136,1.5,2,2.5,'aidanskinner','English Bitter',1.5,2,'Cornish Buccaneer',4.3,35867
+4089,'Krönleins Bryggeri AB',1297450575,2.5,2,3,'Sunnanek','Euro Strong Lager',2.5,2.5,'Three Hearts X-Strong',7.5,22304
+4089,'Krönleins Bryggeri AB',1294253039,2,2,2.5,'Sunnanek','American Adjunct Lager',2.5,1.5,'Stockholm Fine Festival Beer 7,2%',7.2,21345
+6970,'Brouwerij Den Hopperd',1209893301,2.5,2,2.5,'stcules','Belgian Dark Ale',2,2.5,'Donatus',6,42476
+12736,'Ryburn Brewery',1134024863,2,2.5,3.5,'wl0307','English Bitter',2,2.5,'Numpty Bitter',4.4,27252
+3825,'Åbro Bryggeri',1265386529,2.5,2,3,'lstokes','Euro Pale Lager',2.5,2.5,'Åbro Original 3,5%',3.5,22618
+3825,'Åbro Bryggeri',1288462180,2,2.5,3.5,'Sunnanek','Euro Pale Lager',2.5,2,'Åbro Arton56 5,2%',5.2,28986
+3825,'Åbro Bryggeri',1311359040,1.5,1.5,2.5,'rarbring','Euro Pale Lager',2,2,'Åbro Kung 5,2%',5.2,21939
+3825,'Åbro Bryggeri',1279136861,2,2.5,3.5,'Sunnanek','Euro Pale Lager',2.5,2,'Anderssons 5,2%',5.2,21935
+16422,'Frankenthaler Brauhaus',1195844905,2.5,2,2.5,'stcules','German Pilsener',2,2.5,'Steininger Premium Pils',4.8,39735
+4377,'Syracuse Suds Factory',1071491686,2.5,2,2.5,'ssbeer','American Amber / Red Ale',1.5,2,'Honey Light Ale',3.2,14887
+24751,'Von Jakob Brewery',1324524571,2.5,2.5,3,'champ103','American Stout',2,2.5,'Von Jakob Stout',?,65791
+6300,'Old Hat Brewery & Grill',1280292359,2,2.5,2.5,'alleykatking','Oatmeal Stout',2,2.5,'Old Hat Oatmeal Stout',?,60498
+99,'Matt Brewing Company',1081181872,2,2.5,3,'CBFanWish','Milk / Sweet Stout',2.5,2.5,'Saranac Stout',5.4,1465
+6558,'Coach House Brewing Company Ltd.',1063153763,2.5,2.5,3,'rastaman','English Bitter',2,2.5,'Coach House Dick Turpin',4.2,12646
+5639,'Birreria Blues',1059910414,2.5,2,3,'stcules','English Strong Ale',2.5,2.5,'Blues Strong Ale',9,11903
+6278,'Zhigulovskiy Pivo-Byezalkogolniy Kombinat/U Vakano',1061145981,2.5,2,3,'Globetrotter','Keller Bier / Zwickel Bier',2.5,2.5,'Zhigulovskoye Unfiltered',3.6,12130
+26943,'Cervecería Encino',1318620173,2.5,2.5,2.5,'treque','English Pale Ale',2,2,'Encino Pale Ale Manzana',4.5,74128
+3778,'Browar Van Pur S.A. (Brau Union Polska)',1273683168,2,2.5,3,'BucBasil','Euro Pale Lager',2.5,1.5,'Hermann Muller Premium Lager',4,58287
+725,'Brouwerij Haacht NV',1269185621,2.5,2.5,3,'ThaCreep','Fruit / Vegetable Beer',2.5,2,'Mystic Au Citron',3.5,56942
+8221,'Mano\'s Grill & Brewhouse',1259869937,2.5,2.5,3,'Viggo','English Barleywine',2.5,2,'Bullrush Barleywine',8,54209
+2835,'Big River Grille & Brewing Works',1240771608,2,2.5,3,'beerhobo22','California Common / Steam Beer',2.5,2.5,'Nashville Steamer Golden Ale',3.5,10035
+13882,'Galatea Spirits',1282676735,1.5,1.5,2.5,'rarbring','Euro Strong Lager',2,2,'Arboga 7,3',7.3,26056
+72,'Weisses Bräuhaus G. Schneider & Sohn GmbH',1308556311,2.5,2,2.5,'crossovert','Hefeweizen',2,2.5,'Schneider Weisse Leicht',3.3,8904
+1656,'South Australia Brewing Co.',1306750826,1.5,2.5,3.5,'mulder1010','American Adjunct Lager',2,2,'Southwark Bitter',4.5,16200
+13307,'Mikkeller ApS',1325565422,2.5,2.5,3,'silentnoiz','Russian Imperial Stout',2.5,2,'Black Hole (Red Wine Edition)',13.1,58675
+127,'Portland Brewing Company',1078901791,2.5,2,3,'watermelonman','Hefeweizen',2.5,2.5,'Metolius Hare\'s Ear Hefeweisen',5.3,16172
+127,'Portland Brewing Company',1022617592,2,2.5,3,'Tim','American Stout',2.5,2.5,'Brewer\'s Special Stout',6.5,3895
+127,'Portland Brewing Company',1250712877,2.5,2.5,3,'ChokeHold','Hefeweizen',2.5,2,'Uncle Otto\'s Weiss Beer',?,2971
+4087,'Spendrups Bryggeri AB',1150058610,2,1.5,2.5,'jwc215','Black & Tan',1.5,2,'Spendrups Fifty Fifty',4.6,17931
+4087,'Spendrups Bryggeri AB',1280782422,1.5,1.5,2.5,'rarbring','Euro Pale Lager',2,2,'Risingsbo 1856 Lättöl',2.1,60677
+4087,'Spendrups Bryggeri AB',1310504426,2,2,2.5,'stjaernstoft','Euro Pale Lager',1.5,1.5,'Risingsbo 1856 2,8%',2.8,49120
+4087,'Spendrups Bryggeri AB',1266152460,2.5,2.5,3.5,'rarbring','Euro Pale Lager',2,2,'Spendrups 2,8',2.8,21579
+1004,'Townsville Brewing Co.',1078133313,2.5,2.5,3,'rastaman','English Pale Ale',2,2.5,'Townsville Neds Red',4.4,16225
+10029,'Bluetongue Brewery Pty Ltd',1253918581,2,2,2.5,'lacqueredmouse','American Adjunct Lager',1.5,1.5,'Bluetongue Premium Light',2.7,49425
+8646,'Saigon Beer Company',1191834169,2.5,2,2.5,'brendan13','American Adjunct Lager',2.5,2,'333 Premium Export Beer',4.9,32972
+19571,'TOMP Beer & Spirits',1295020901,2.5,2,3,'Sunnanek','Euro Pale Lager',2.5,2.5,'TOMP Guldkällan 4,8%',4.8,48524
+19571,'TOMP Beer & Spirits',1295023717,1.5,1.5,3,'Sunnanek','Euro Pale Lager',2,1.5,'TOMP Guldkällan 5,7%',5.7,48944
+10165,'Tarricone S.p.A.',1280075524,2,2.5,2.5,'PEIBeerGuy','German Pilsener',2.5,2,'Birra Morena Standard',3.5,24486
+2329,'Pott\'s Naturpark-Brauerei / Pott\'s Brau und Backhaus',1295097497,2.5,2,3.5,'kjc51478','Munich Dunkel Lager',2,2.5,'Alt Pott\'s Landbier',4.8,31730
+287,'Bell\'s Brewery, Inc.',1271898388,1.5,2,3.5,'dyan','Herbed / Spiced Beer',2.5,2,'Bell\'s Eccentric Ale 2004 (Released 2005)',?,28832
+2891,'Karlsberg Brauerei',1305666097,2.5,2.5,3,'stcules','Dunkelweizen',2,2.5,'Karlsberg Weizen Dunkel',5.3,62174
+470,'Abbaye de Leffe S.A.',1137876744,2,2.5,3,'DaPeculierDane','Belgian Strong Dark Ale',2.5,2.5,'Leffe Radieuse',8.2,2138
+2706,'Parkbrauerei / Park & Bellheimer AG',1306787058,2.5,1.5,2.5,'kojevergas','German Pilsener',2,2,'Carl Theodor Lager',4.2,69570
+4407,'Brewery Creek Inn Restaurant & Brewery',1153712713,2.5,2.5,3,'DaPeculierDane','American Porter',1.5,2,'Ebony Porter',?,10158
+10678,'La Tour A Bières',1323624632,2.5,2,3,'Chinook','American Amber / Red Ale',2.5,2.5,'La Fabuleuse',5,25453
+284,'Sapporo Breweries Ltd.',1321969368,2,2.5,2.5,'shivtim','American Amber / Red Ale',2.5,2,'Yebisu Kohaku',5.5,45327
+2432,'Klosterbrauerei Ettal / Ettaler Klosterbetriebe GmbH',1244350301,2.5,2.5,2.5,'Lexluthor33','Hefeweizen',2,2,'Ettaler Weißbier Hell',5,24246
+1273,'Alaus Darykla Kalnapilis',1079815244,2.5,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Kalnapilis In Ice',5,16657
+435,'Minhas Craft Brewery',1307840649,1.5,2,2.5,'biboergosum','Fruit / Vegetable Beer',2.5,2,'Saskaberry',6.8,69951
+14663,'Birrificio L\'Orso Verde',1179435455,2,2.5,3.5,'stcules','Maibock / Helles Bock',2,2.5,'Vertigo',7,36865
+12957,'Brasserie Celtik',1311449964,2.5,2.5,3,'kojevergas','Belgian Strong Pale Ale',2,2.5,'Celtika 8.8',8.8,48188
+440,'Ochakovo',1146592695,2.5,2,2.5,'Globetrotter','Fruit / Vegetable Beer',2.5,2,'Ochakovo Izumrud',3.6,30244
+555,'Feldschlösschen Beverages Group',1277635481,2.5,2,3,'eduardolinhalis','Euro Pale Lager',2.5,2.5,'Feldschlosschen Cardinal Lager',4.8,15968
+1181,'Market Street Brewing Co. and Restaurant',1312670131,2.5,2,3.5,'johnnnniee','American Amber / Red Ale',2.5,2,'Market Street Wrought Iron Red',?,12125
+2470,'The Brew Kettle Taproom & Smokehouse / Production Works',1235493378,2.5,2.5,3,'weeare138','American IPA',2.5,2,'Ringneck India Pale Ale',?,48056
+13628,'TOO Kompaniya Ak-Nar ("Derbes")',1144984177,1.5,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2,'Irbis Golden',5.5,29866
+2519,'Blue & Gray Brewing Co.',1287184522,1.5,2.5,3.5,'Thorpe429','Herbed / Spiced Beer',2,2,'Spiced Winter Ale',?,21571
+353,'Carlton & United Breweries, Ltd.',1315214840,2.5,2,2.5,'aeolianshredhead','Light Lager',2.5,2,'Carlton Midstrength',3.5,4308
+16802,'Q Beer',1206222482,2,2.5,2.5,'stcules','American Amber / Red Ale',2,2.5,'Q Red',6,41740
+138,'Shepherd Neame Ltd',1319805904,2.5,2.5,3,'BlackHaddock','English Bitter',2,2.5,'Summer Sizzler',4,72782
+1357,'Weissbierbrauerei Hopf',1052020051,2.5,2,3,'johnfurbock','Hefeweizen',2.5,2.5,'Hopf Die Leichtere',3.3,9687
+23459,'Hermitage Brewing',1320436798,1.5,2.5,3,'jmarsh123','American IPA',2,1.5,'Amarillo Hops (Single Hop Series)',7,68847
+11031,'Brouwerij De Molen',1325134310,1.5,2.5,2.5,'champ103','English Barleywine',2,2,'Bommen & Granaten',15.2,45860
+16023,'Crown Beverages',1189853599,2,1.5,3,'Kulrak','American Adjunct Lager',1.5,1.5,'Crown Gold',3.5,36587
+16023,'Crown Beverages',1324605849,2,2,2.5,'mulder1010','American Adjunct Lager',1.5,1.5,'Crown Lager',4.9,1540
+3300,'Brasserie Saint-Monon',1274915186,2.5,2,2.5,'ManforallSaisons','Belgian Strong Pale Ale',2,2.5,'Li Berwette',8,17640
+1479,'J. Boag & Son Brewing',1132896769,1.5,2,3,'jarmby1711','English Bitter',2.5,1.5,'Classic Bitter',4.9,4053
+2520,'Brasserie Lancelot',1308486239,2.5,2,2.5,'kojevergas','Belgian Pale Ale',2,2.5,'Morgane',5.5,39657
+10325,'Vecchio Birraio',1234817823,1.5,2,2.5,'stcules','Hefeweizen',1.5,1.5,'Sausa Weizen',5,47986
+16994,'Ohio Brewing Company',1228066808,1.5,1.5,3,'adamette','Czech Pilsener',2.5,1.5,'Polymer Pilsner',?,46250
+1482,'The Seven Barrel Brewery',1206827129,2.5,2.5,3,'Pencible','Cream Ale',2.5,2.5,'Queechee Cream Ale',?,22054
+765,'Trafalgar Ales & Meads',1163365581,2,2,2,'TerryW','Kristalweizen',2,2,'White Oak Weissbier',5,32661
+765,'Trafalgar Ales & Meads',1215439886,2.5,2,2.5,'Phyl21ca','Extra Special / Strong Bitter (ESB)',2.5,2.5,'Elora ESB',4.7,18533
+765,'Trafalgar Ales & Meads',1309386862,2.5,2,3.5,'cyrenaica','Fruit / Vegetable Beer',2.5,2.5,'Trafalgar Cherry Ale',4.5,58540
+2647,'Brasserie Britt de Bretagne',1138653718,2.5,2.5,3,'stcules','Belgian Pale Ale',2.5,2.5,'Ar-Men Blonde',5,28096
+13670,'The Two Metre Tall Company Pty Ltd',1322992678,1.5,1.5,3,'MrKennedy','English Pale Ale',1.5,1.5,'Forester Pale Ale',5.2,30034
+16041,'Birrificio B.O.A. (Birrificio Ostiense Artigianale)',1239044680,2.5,2.5,3,'stcules','English Bitter',2.5,2.5,'IrreAle',5,48993
+4955,'Palos De Moguer - 82',1056407832,1.5,2,2.5,'Andreji','American Porter',1.5,1.5,'Colón Mestiza',?,10604
+11863,'Brasserie Artisanale De La Divatte',1207407554,2.5,2.5,3,'thierrynantes','Belgian Pale Ale',2.5,2.5,'Trompe Souris Blonde',5,41980
+24445,'Haymarket Pub & Brewery',1303760102,2,2,4,'BasementBer','Belgian Pale Ale',2,2,'I\'m So Lonely Belgian Single',4,66483
+12224,'Rinkuškiai Alaus Darykloje',1284861865,2,3,3,'jsh420','Euro Pale Lager',2,2,'Lobster Lovers Beer (Blue Label)',5.2,44704
+1199,'Founders Brewing Company',1291573822,1.5,2,3.5,'LanceW','American Pale Ale (APA)',1.5,1.5,'Founders Homegrown Spite (Mild)',5.4,51301
+1199,'Founders Brewing Company',1126274443,2.5,2.5,3,'granger10','American Pale Lager',2.5,2.5,'Founders Noble Lager',4.9,6761
+16319,'Brasserie Nationale (Bofferding)',1190760712,2,2,4,'jdhilt','Czech Pilsener',2,2,'Bofferding Lager Pils',4.8,38808
+568,'Browar Okocim S.A. (Carlsberg)',1303884387,2.5,2.5,3,'Knapp85','Light Lager',2.5,2.5,'Okocim Jasne Pelne',5.8,14014
+18012,'Seven Brides Brewing',1313881495,1.5,2,2.5,'Mike22','English Pale Ale',1.5,1.5,'LPA (Lauren\'s Pale Ale)',5.5,46238
+6764,'Königsegger Walderbräu AG',1169897663,2.5,2.5,2.5,'stcules','Munich Dunkel Lager',2,2.5,'Walder Dunkel',4.9,34960
+688,'Coastal Extreme Brewing Co.',1300728754,2,2,4,'beerwolf77','Milk / Sweet Stout',2,2,'Newport Storm - Mark (Cyclone Series)',7,54941
+161,'Florida Beer Company',1211683403,2.5,2.5,3,'Wasatch','Light Lager',2.5,2.5,'Mentirosa Light',?,42677
+483,'Grans Bryggeri AS',1228421709,2.5,2,3.5,'Sigmund','Vienna Lager',2.5,2.5,'Grans Bare Jul',4.7,46350
+466,'South African Breweries plc',1291139719,2,2,2,'Thehuntmaster','American Adjunct Lager',2,2,'South Africa Lager',5,64004
+1693,'Krasnyj Vostok',1083438946,2.5,2.5,3,'Globetrotter','Vienna Lager',2.5,2.5,'Yantarnoye',4.5,17335
+954,'Thisted Bryghus',1170540190,2.5,2.5,2.5,'bark','Euro Pale Lager',2.5,2,'Thisted Julefnug',5.8,23103
+2958,'BFM Brasserie Des Franches-Montagnes',1201887149,2.5,2.5,3,'Phyl21ca','Witbier',2.5,2.5,'La Salamandre',5.5,39659
+932,'Hale\'s Ales Brewery & Pub',1235891702,2,2,3,'RedDiamond','Tripel',3,2,'Cerberus Tripel',10.1,10360
+21449,'Sonoma Springs Brewing Co.',1296954062,1.5,1.5,3,'largadeer','Dunkelweizen',1.5,1.5,'Divine Harvest Dunkelweiss',5.8,65981
+22150,'Stillwater Artisanal Ales',1297997486,2,2.5,3.5,'craytonic','Saison / Farmhouse Ale',2.5,2.5,'Cellar Door',6.6,58523
+12585,'Chillers Brew Pub, Eatery & Offsale',1133226550,2.5,2.5,3,'BigBry','Light Lager',2.5,2.5,'Chiller\'s SOB Light',?,27135
+19611,'Falkner Cerveceria',1237833229,2.5,2.5,2.5,'drpimento','Czech Pilsener',2.5,2,'Pilsen',?,48669
+16068,'Oakshire Brewing',1316143344,2,1,3,'madtappers','American Double / Imperial IPA',2,2,'Perfect Storm Double IPA',10,37388
+491,'Coopers Brewery Limited',1288581862,2,2,2,'Finite','American Pale Lager',2,2,'Coopers Clear',4.5,55583
+3079,'Ram International / Humperdinks Restaurant and Big Horn Brewing',1227645226,2.5,2.5,2.5,'hopdog','Light Lager',2,2.5,'Big Horn Light',?,8104
+15120,'Nordbräu Ingolstadt GmbH & Co.',1199559077,2.5,2.5,3,'stcules','Hefeweizen',2.5,2.5,'Nordbräu Edel Weiße',5.6,40441
+302,'Genesee Brewing Co. / Dundee Brewing Co.',1282233465,2.5,2.5,2.5,'Phyl21ca','American Stout',2,2.5,'Dundee Stout',5.8,57048
+11524,'Pivovar Janá&#269;ek',1263669752,2.5,2.5,3,'rarbring','Czech Pilsener',2.5,2.5,'Comenius',6,53297
+783,'Royal Unibrew A/S',1280097238,2.5,2,2.5,'rarbring','Euro Pale Lager',2.5,2.5,'Faxe Fad',4.6,5793
+14551,'Green Valley Brewing Company (Crooked Creek)',1170467985,2,2,2,'AdamVCU','English Pale Ale',2,2,'Stone Mill Organic Pale Ale',5.5,32626
+660,'Huisbrouwerij Boelens',1130256318,2.5,2.5,3,'paterlodie','Belgian Strong Pale Ale',2.5,2.5,'Seniorken',8,26587
+920,'Mahou S.A.',1137383384,2.5,2.5,2.5,'Andreji','American Adjunct Lager',2.5,2,'Cinco Estrellas',5.5,17550
+610,'Bear Republic Brewing Co.',1310140521,2.5,2.5,3,'Beerandraiderfan','American Wild Ale',2.5,2.5,'Prickly Pear Grizz',?,70575
+610,'Bear Republic Brewing Co.',1324956556,2,2,2,'Beerandraiderfan','Witbier',2,2,'Sour Black Mamba',5.3,72901
+11746,'Le Brasse-Temps (Mons) / Microbrasserie Le Brasse-Temps',1147238257,1.5,2,2.5,'TheLongBeachBum','Fruit / Vegetable Beer',1.5,1.5,'La Brasse-Temps Des Cerises',5,30381
+560,'Saku Brewery LTD',1325245130,2.5,2.5,2.5,'ADZA','American Adjunct Lager',2,2.5,'Saku Hele',5.2,3655
+715,'Brauerei Fohrenburg GmbH & Co',1309160388,2,2.5,3.5,'crossovert','Euro Pale Lager',2.5,1.5,'Engelburg Original',4.2,70475
+11103,'Maribo Bryghus (Royal Unibrew)',1157831637,2,2,2,'bark','Light Lager',2,2,'Maribo Slots Pilsner 2,8%',2.8,32210
+19808,'Lovely Valley Beverage Factory',1268633361,1.5,2.5,3.5,'laituegonflable','English Bitter',2,1.5,'Grumpy Tonk\'s Green Death',4.7,56805
+19808,'Lovely Valley Beverage Factory',1262127400,2.5,2.5,3.5,'laituegonflable','English Pale Ale',1.5,2,'Fleurieu Sparkling Ale',5.6,55003
+1703,'Malbera S.A. (Brau-Union Romania)',1197401485,2,2.5,2.5,'ChainGangGuy','Euro Pale Lager',2.5,2.5,'Bucegi',4.2,40021
+24827,'High Water Brewing',1321855534,2.5,2.5,3,'Arbitrator','Baltic Porter',2.5,2.5,'Bourbon Barrel-Aged Baltic Porter',9.3,75585
+12457,'Uncle Stuart\'s Brewery',1219171937,2.5,2.5,3,'BlackHaddock','English Strong Ale',2.5,2.5,'Buckenham Woods',5.6,26702
+782,'City Brewing Company, LLC',1222289626,2,2,2,'KarlHungus','American Pale Wheat Ale',2,2,'Golden Leaf',?,32944
+5502,'Browar Amber',1318038603,2.5,2,3.5,'crossovert','Euro Pale Lager',2.5,2.5,'Kopernik',5.6,40981
+3066,'Dusters Restaurant and The Gottberg Brew Pub',1064883047,2.5,2.5,2.5,'Boto','American Adjunct Lager',2.5,2,'All American Lager',?,7322
+939,'Cross Plains Beer Company',1193325191,2,2,2,'eschuber','Munich Helles Lager',2,2,'Esser\'s Best Original',?,3014
+4471,'Vereinigte Kärntner Brauereien AG',1144866782,2,2,2,'stcules','Märzen / Oktoberfest',2,2,'Schleppe Märzen',5,29819
+18391,'Cervecería Artesanal Mastra',1237855690,2,3,3,'drpimento','American Stout',2,2,'Mastra Negra',6.2,46213
+10560,'Illinois Brewing Company',1286236938,2,2,3,'redjameskidd','English India Pale Ale (IPA)',3,2,'Colonel Harrington\'s IPA',?,30723
+11753,'Brasserie Artisanale Millevertus De Toernich',1182067394,2,2,2,'stcules','Belgian Pale Ale',2,2,'FFFado',5.5,24670
+1491,'Cerveceria Costa Rica',1170276582,2,2,3,'ctdfalconer','German Pilsener',3,2,'Bavaria Cerveza Premium',4,28124
+1491,'Cerveceria Costa Rica',1294172093,1.5,1.5,3,'Phyl21ca','American Adjunct Lager',1.5,1.5,'Bavaria Blues',4.5,65045
+1491,'Cerveceria Costa Rica',1294176552,1.5,1.5,3,'Phyl21ca','Light Lager',1.5,1.5,'Bavaria Light',3.1,26372
+10131,'BABB Srl',1146079750,2,2.5,3.5,'stcules','Belgian Pale Ale',2.5,2.5,'Mellis',?,30129
+742,'District ChopHouse & Brewery',1140366119,2,3,3,'Dithyramb','Tripel',2,2,'Belgian Triple',11,22222
+4260,'Brasserie D\'Ecaussinnes',1272927873,2,2.5,3.5,'canucklehead','Belgian Pale Ale',2.5,2.5,'Ultramour',5,9067
+2557,'Sail and Anchor Pub Brewery',1307692539,2.5,2.5,3.5,'LittleCreature','Low Alcohol Beer',2,2.5,'Clipper Light',2.7,69907
+6678,'Oderland Brauerei GmbH',1154162782,2,2,2,'stcules','German Pilsener',2,2,'Spitzkrug Pils',4.6,31946
+5798,'Kauzen Bräu',1199528188,2.5,2.5,3,'stcules','Weizenbock',2.5,2.5,'Kauzen Winter Weisse',?,40423
+572,'Castlemaine Perkins',1180515360,1.5,1.5,2.5,'Kulrak','American Adjunct Lager',2,1.5,'Gulf Lager',3.2,37057
+48,'Brouwerij Van Steenberge N.V.',1274369299,1.5,2.5,3.5,'benfons','Low Alcohol Beer',2,1.5,'Bios Hop & Mout',2,58474
+846,'Compañía Cervecera de Puerto Rico',1312396418,2.5,2.5,3,'THECPJ','Light Lager',2.5,2.5,'Medalla Light',4,8107
+5188,'Emmett\'s Brewing Company',1310676831,2.5,2.5,3,'BeerLover99','Hefeweizen',2.5,2.5,'German Hefeweizen',5.5,63302
+3042,'BJ\'s Restaurant & Brewhouse',1059321824,2,2.5,2.5,'freed','Euro Strong Lager',2.5,2.5,'Hopfenkopf',8,11780
+778,'Pioneer Brewing Company',1111161302,1.5,1.5,3,'granger10','Herbed / Spiced Beer',1.5,1.5,'BluCreek Herbal Ale',?,10093
+10485,'East End Brewing Company',1233331094,2.5,2.5,2.5,'Dogbrick','American Pale Wheat Ale',2.5,2,'Session Ale #07: American Wheat Hop',4,35902
+881,'Camo Brewing Company',1231382174,2,2,4,'NOOGIE','American Adjunct Lager',2,2,'Lost Lake',?,11765
+881,'Camo Brewing Company',1257901626,1.5,2.5,2.5,'tone77','American Malt Liquor',2,1.5,'Camo Silver ICE',9,9970
+91,'United Breweries - UB Group',1295464288,2,2,2,'tewaris','American Adjunct Lager',2,2,'Kingfisher Draught',?,65435
+6795,'Brauerei Zoller-Hof',1169884259,2.5,2,2.5,'stcules','German Pilsener',2.5,2.5,'Zoller-Hof Fürsten-Pils',4.9,34957
+1333,'St. Croix Brewing Company, LLC',1177873867,2.5,2.5,2.5,'drpimento','Chile Beer',2.5,2,'Serrano Pepper Ale',?,4900
+2444,'Companhia Cervejaria Brahma',1174114191,2,2,2,'brdc','Light Lager',2,2,'Brahma Light',4,8190
+11675,'Silverton Brewery',1304718413,2.5,2,2.5,'Beerandraiderfan','American IPA',2.5,2.5,'Ice Pick Ale',6.5,50507
+4980,'Engine House No.9',1155184702,1.5,2,3.5,'RedDiamond','American Pale Ale (APA)',2.5,1.5,'Imperial Pale',?,32176
+18927,'Bodega 1800 Import & Export Corporation',1230183282,2,2,2,'nick76','German Pilsener',2,2,'Crikak',?,46770
+15280,'Atwater Block Brewery',1190909120,2,1.5,2.5,'ChainGangGuy','American Amber / Red Ale',2.5,1.5,'Atwater Rost',5,29705
+164,'Harvey & Son Ltd.',1028268804,2,2,2,'rastaman','Old Ale',2,2,'Harveys Elizabethan Ale',8.1,2416
+306,'Coors Brewing Company',1035921902,2,2,2,'ElGuapo','Light Lager',2,2,'Keystone Light',4.2,1341
+447,'Pabst Brewing Company',998695270,2,2,2,'Brent','American Adjunct Lager',2,2,'Pabst Blue Ribbon (PBR)',4.74,1331
+447,'Pabst Brewing Company',1050005299,2.5,2.5,3,'AtLagerHeads','American Malt Liquor',2.5,2.5,'Colt 45 Malt Liquor',5.61,1334
+35,'Boston Beer Company (Samuel Adams)',1305068731,2,2,3,'MrOH','American IPA',3,2,'Latitude 48 Deconstructed IPA - Ahtanum',6,68399
+903,'Gettysbrew Restaurant & Brewery',1049455757,2.5,2.5,3.5,'Fabric8r','American Adjunct Lager',2.5,2,'Dark Horse',?,2877
+14916,'Les Brasseurs du Hameau',1321550128,1.5,1.5,3,'Phyl21ca','American Pale Ale (APA)',1.5,1.5,'Pale Ale Miel Et Houblons',6.5,72491
+447,'Pabst Brewing Company',1324941084,2.5,2.5,3,'TMoney2591','American Malt Liquor',2.5,2.5,'Big Bear Malt Liquor',7.5,3962
+627,'Monteith\'s Brewing Co.',1289007633,2.5,2.5,3,'Phyl21ca','English Pale Ale',2.5,2.5,'Monteith\'s Original Ale',4,4592
+1369,'Vena Brewery',1069445167,2.5,2.5,3,'Globetrotter','Euro Pale Lager',2.5,2.5,'Nevskoye Original',5.7,10289
+6883,'Wentworth Brewery Limited',1299022755,2.5,2.5,3.5,'jazzyjeff13','English Bitter',2.5,2,'Imperial Ale',3.8,66812
+8202,'Specklebelly\'s Brew Pub',1191798701,2,2,2,'BigBry','English India Pale Ale (IPA)',2,2,'Mike\'s Own IPA',5,31121
+709,'Slavutych Brewery',1140955167,2.5,2.5,2.5,'stcules','American Amber / Red Lager',2,2.5,'Slavutich Red',5,28602
+164,'Harvey & Son Ltd.',1028592019,2,2,2,'rastaman','English India Pale Ale (IPA)',2,2,'Harveys India Pale Ale',3.2,5299
+12311,'Sancolodi',1131205622,2.5,2,2.5,'stcules','English Pale Ale',2.5,2.5,'Sancolodi Rossa',?,26784
+17243,'Cerveses La Gardènia',1284466220,2,2,2,'arturorg','Fruit / Vegetable Beer',2,2,'Rosita Picant',4.9,61852
+942,'Berliner Bürgerbräu GmbH',1277050436,2.5,2,2.5,'stcules','Schwarzbier',2.5,2.5,'Berliner Bürgerbräu Bernauer Schwarzbier',5.2,7613
+619,'Indian Wells Brewing Company',1317757163,2,2.5,2.5,'TheGordianKnot','Märzen / Oktoberfest',2.5,2.5,'Märzen Madness',5.5,54017
+2697,'Brasserie de Luxembourg Mousel -Diekirch SA',1281456555,2,2.5,3.5,'ThaCreep','Vienna Lager',2.5,2.5,'Diekirch Grand Cru Ambrée',5.1,16942
+1548,'John Harvard\'s Brewery & Ale House',1298863360,2.5,2.5,3,'connecticutpoet','English Pale Ale',2.5,2.5,'TCT Pale Ale',5,66757
+26520,'Jack\'s Abby Brewing',1325727259,2.5,2.5,3,'SunDevilBeer','Märzen / Oktoberfest',2.5,2.5,'Copper Legend',6.2,72867
+11532,'Brasserie Authentique',1130699702,2,2.5,2.5,'paterlodie','Belgian Pale Ale',2.5,2.5,'Authentique Ambrée',5,24175
+10095,'Cervejaria Baden Baden',1313677856,2,2,4,'WoodBrew','English Barleywine',2,2,'Baden Baden Red Ale Especial',9.2,19637
+294,'Cropton Brewery',1307037764,2.5,2.5,3.5,'Sunnanek','English Strong Ale',2.5,2,'Old Goat',8,40675
+433,'Molson Coors Canada',1086809809,2,2,2,'Phyl21ca','American Amber / Red Ale',2,2,'Rickard\'s Red',5.2,2037
+306,'Coors Brewing Company',1121558584,2.5,2,2.5,'tgbljb','Light Lager',2.5,2.5,'Aspen Edge',4.13,16049
+433,'Molson Coors Canada',1151632362,2,2,2,'CAMRAhardliner','American Adjunct Lager',2,2,'Molson Kick',5,22924
+433,'Molson Coors Canada',1043856190,2,2,2,'Shiloh','American Adjunct Lager',2,2,'Carling Draft',5,8292
+6214,'Brauerei Grandauer - Wildbräu Grafing vor München',1196085896,2.5,2.5,2.5,'stcules','Hefeweizen',2,2.5,'Wildbräu Hefe Weisse',5.1,39785
+1435,'Tuborgs Bryggerier A/S',1138793078,2,2,2,'Sigmund','Euro Dark Lager',2,2,'Tuborg Juleøl 4.5% (Norwegian Version)',4.5,28119
+2382,'Brasserie Meteor',1281406463,2,2,3,'jneiswender','German Pilsener',3,2,'Meteor Pils',5,6001
+10703,'Yumeminatobeer Co. Ltd.',1119578360,2,2,4,'Naerhu','Altbier',2,2,'Kitaro Alt',5,21489
+1933,'Mishawaka Brewing Company',1270746663,2.5,2,3.5,'alleykatking','Oatmeal Stout',2.5,1.5,'Grumpy\'s Oatmeal Stout',6.1,28295
+3551,'Coedo Brewery (Kyodo Shoji Koedo Brewery)',1301099132,2,2,2,'Knapp85','Happoshu',2,2,'Coedo Beniaka',7,58111
+5420,'Klinskiy Pivokombinat',1294928372,2,2,4,'Dentist666','Euro Strong Lager',2,2,'Tolstyak Khmelnoye',7.8,65277
+6127,'Postbrauerei Weiler u. Siebersquelle Anton Zinth KG',1104785379,2,2.5,2.5,'stcules','Dunkelweizen',2.5,2.5,'Post Weizen Dunkel',5.4,21401
+16301,'Bryggeri Skovlyst',1311364550,2,2,2,'Phyl21ca','American Barleywine',2,2,'Bière Rouge',12,71291
+379,'Moosehead Breweries Ltd.',1258237185,2,2,2,'jbonapar','American Adjunct Lager',2,2,'Moosehead Premium Dry',5.5,6165
+1106,'Grizzly Peak Brewing Company',1028101744,2,2,2,'beernut7','Witbier',2,2,'Grizzly Peak White Ale',?,5156
+21092,'World Brews',1219168716,2.5,2.5,2.5,'jsouza','Light Lager',2.5,2,'R.J. King Wingwalker Light Lager',4.2,31586
+14319,'AMB - Maître Brasseur',1196303656,2,2,4,'rodenbach99','Scottish Ale',2,2,'La Scottish',5,39837
+6840,'Privatbrauerei M. Ketterer GmbH & Co.',1176109136,2.5,2.5,3,'stcules','Keller Bier / Zwickel Bier',2.5,2.5,'Ketterer Zwickel Pils',4.8,36287
+8208,'Barley Mill Brew Pub / Trifons Pizza',1140928950,2,2,2,'Noxious26','Czech Pilsener',2,2,'Prairie Pilsner',5,28598
+1781,'Perla Browary Lubelskie S.A.',1274654834,1.5,1.5,2.5,'KTCamm','Czech Pilsener',2,1.5,'Lubelska',6.2,34575
+15112,'Hurricane Brewing Company',1193000879,1.5,2,2.5,'BrewnZ','Märzen / Oktoberfest',2.5,1.5,'NACHWIRKUNGEN-FEST',?,39265
+410,'Pittsburgh Brewing Co.',1312073505,2,1,3,'woodychandler','Light Lager',2,2,'American Light',?,9210
+1535,'Brasseurs R.J.',1086623300,2,2,2,'Phyl21ca','Fruit / Vegetable Beer',2,2,'Sainte Paix Cherry',6,6376
+1535,'Brasseurs R.J.',1068503060,2.5,2.5,3,'TerryW','Czech Pilsener',2.5,2.5,'Rescousse Pilsner',5.2,14075
+1539,'Oettinger International Getränke-Vertriebs GmbH',1285959352,1.5,1.5,3.5,'Sunnanek','Low Alcohol Beer',2,1.5,'Original Oettinger Malz',?,62243
+16238,'Barada Beer Company',1187130599,1.5,2.5,3,'lacqueredmouse','American Adjunct Lager',1.5,1.5,'Barada',3.5,38193
+4614,'Orlando Brewing Partners',1228376124,2,2,2,'nick76','Herbed / Spiced Beer',2,2,'Winter Park',?,46343
+18229,'Pivovara Li&#269;anka',1317938223,2.5,2.5,3,'crnipeter','Märzen / Oktoberfest',2.5,2.5,'Specijalno Kasačko Pivo Vilinbor',5.1,73848
+1943,'Trebjesa Brewery',1160286099,2.5,2.5,3,'Padron4KM','Doppelbock',2.5,2.5,'Niksicko Tamno (Dark)',6.2,30982
+8912,'Privatbrauerei Kesselring Gmbh & Co. KG',1318697709,2.5,2.5,2.5,'LambicKing','Munich Helles Lager',2,2.5,'Steinie^2 Das Geniale Bier',5.3,74157
+4043,'Fort Garry Brewing Company Ltd.',1223504811,2,2,3,'fizzy','American Pale Lager',3,2,'Two Rivers Lager',5,25709
+11528,'Le Grimoire',1221266771,2,2.5,3.5,'rodenbach99','Fruit / Vegetable Beer',2.5,2.5,'Vitale Aux Framboises',5,44703
+11528,'Le Grimoire',1295457112,1.5,1.5,3,'Phyl21ca','Fruit / Vegetable Beer',1.5,1.5,'Vitale Aux Pêches',5,65433
+12516,'Thirsty Dog Brewing Company',1050082165,2.5,2.5,3,'AtLagerHeads','Light Lager',2.5,2.5,'Airship Light',?,6093
+468,'Minnesota Brewing Company',1039354890,2.5,2.5,3,'maxpower','American Adjunct Lager',2.5,2.5,'Grain Belt Premium (old)',?,2959
+2888,'S. C. Martens S. A.',1140358252,2.5,2.5,3.5,'BuckeyeNation','Czech Pilsener',2,2.5,'Damburger Royal Pils',5.3,23794
+719,'Blitz-Weinhard Brewing Co.',1281656823,2.5,2,3.5,'biboergosum','Cream Ale',2.5,2.5,'Henry Weinhard\'s Blue Boar Ale',4.6,2765
+1060,'Hazel Dell Brewpub',1251545317,2,1,3,'dfitch81','Hefeweizen',2,2,'Steinweizen',4.2,23209
+7637,'Privatbrauerei Ernst Barre GmbH',1320359276,2,2,4,'seanyfo','Maibock / Helles Bock',2,2,'Barre Maibock',6.9,74841
+15750,'Half Moon Restaurant & Brewery',1183581638,2.5,2,3.5,'Durge','American Pale Wheat Ale',2.5,2.5,'Wildcat Wheat',4.5,37533
+3943,'Cervecera CCU Chile Ltda',1137516840,2,2,2,'Dithyramb','Euro Pale Lager',2,2,'Royal Guard',?,27884
+8357,'Scattor Rock',1164479708,2.5,2.5,3,'BlackHaddock','English Stout',2.5,2.5,'Quarrgnan Stout',4.5,33955
+6577,'Titanic Brewery',1148488083,2.5,2.5,3,'wl0307','English Dark Mild Ale',2.5,2.5,'Titanic Nautical Mild',4.8,30690
+11784,'A Tribbiera',1127157544,2.5,2.5,3,'stcules','Herbed / Spiced Beer',2.5,2.5,'Prima',5,25915
+428,'Mahrs-Bräu',1324353703,2.5,2.5,2.5,'kojevergas','Munich Dunkel Lager',2.5,2,'E.T.A. (Ernst Theodor Amadeus) Hoffmann',5,51186
+661,'Muskoka Brewery',1163564442,2.5,2.5,3.5,'northyorksammy','American Amber / Red Lager',2.5,2,'Red Cream',5,33761
+2306,'Pints Brewery & Sports Bar',1311088545,2.5,2.5,2.5,'FosterJM','Hefeweizen',2,2.5,'Pints Wildcard Hefeweizen',?,71191
+2306,'Pints Brewery & Sports Bar',1311020449,2.5,2.5,2.5,'FosterJM','American Blonde Ale',2,2.5,'Pints Premium Golden Ale',?,71165
+821,'Monte Carlo Casino Pub & Brewery',1161019052,2.5,2.5,2.5,'Phyl21ca','Hefeweizen',2,2.5,'Monte Carlo Winner\'s Wheat',?,6555
+19150,'BirrOne',1266438343,2.5,2.5,3,'stcules','Hefeweizen',2.5,2.5,'Vai Zen',4.9,56183
+137,'Sea Dog Brewing Company',1326000286,2,2,3,'RonfromJersey','English India Pale Ale (IPA)',3,2,'Sea Dog IPA',?,64821
+11138,'Kláterní pivovar Želiv s.r.o.',1243794642,2,2,2,'stcules','Belgian Pale Ale',2,2,'Želiv Gottschalk',4.7,22955
+837,'Golden Pacific Brewing Company',1078812708,2.5,1.5,2.5,'watermelonman','American Pale Ale (APA)',2,2.5,'Wild Boar Pale Ale',?,16102
+401,'Baltika Breweries',1321676832,2.5,2.5,3,'ColForbinBC','Euro Strong Lager',2.5,2.5,'Arsenalnoye Krepkoye (Strong)',7,10841
+11530,'Leek Brewing Company Ltd',1240247519,2.5,2.5,3,'BlackHaddock','English Bitter',2.5,2.5,'Staffordshire Gold',3.8,49280
+13907,'Crabtree Brewing Company',1168913647,2,2,2,'rowew','American Brown Ale',2,2,'Downtown Nutbrown Ale',?,31093
+21952,'People\'s Brewing Company',1320021189,2,2,2,'biglobo8971','American IPA',2,2,'Mound Builder IPA',6.5,62349
+11174,'Cervecera Mexicana S.A. De C.V.',1324779627,2.5,2.5,3,'JuicesFlowing','Munich Dunkel Lager',2.5,2.5,'Mexicali Special Dark Beer',5.5,40471
+19516,'Old World Brewery',1237171394,2,2,2,'bigbelcher','American Amber / Red Ale',2,2,'Old World Peg Leg',5.5,48492
+9880,'Brasserie Artisanale Du Dauphiné',1281142917,2,2,2,'hedonist91','Bière de Garde',2,2,'Mandrin Au Sapin',8,44638
+10897,'Carlsberg Sverige AB',1311523563,2.5,2,2.5,'stjaernstoft','American Adjunct Lager',2.5,2.5,'Falcon Little Big 3,5%',3.5,71353
+10897,'Carlsberg Sverige AB',1319665776,2.5,2.5,3,'rarbring','Euro Pale Lager',2.5,2.5,'Eriksberg',5.3,22061
+10897,'Carlsberg Sverige AB',1206739482,2.5,2,2.5,'bark','Vienna Lager',2.5,2.5,'Falcon Bayerskt 2,8%',2.8,41842
+10897,'Carlsberg Sverige AB',1312926463,2.5,2,3.5,'MasterSki','Euro Pale Lager',2.5,2.5,'Pripps Blå Lättöl',2.2,22593
+766,'Heartland Brewery Union Square',1314125321,2.5,2.5,3,'Phyl21ca','Fruit / Vegetable Beer',2.5,2.5,'Heartland Brewery Summertime Apricot Ale',?,2339
+5014,'Cervecería Schneider',1313711285,2,2,3,'wordemupg','American Adjunct Lager',3,2,'Schneider Lager',5,72236
+1950,'Court Avenue Brewing Company',1141003690,2.5,2.5,2.5,'BuckeyeNation','American Brown Ale',2,2.5,'Bourbon Barrel Brown',?,28618
+5371,'Hermann Brewing Company',1131126597,1.5,2.5,3,'grumpy','English Stout',1.5,1.5,'English Stout',?,23768
+355,'San Miguel Corporation',1028854975,2,2,2,'rastaman','German Pilsener',2,2,'San Miguel Pale Pilsen',5,5366
+123,'Paper City Brewery Co., Inc.',1237945821,2.5,2.5,3.5,'iceball585','American Blonde Ale',2,2.5,'One Eared Monkey',6,16586
+360,'Warsteiner Brauerei',1259099483,2,2,3,'ChainGangGuy','Light Lager',3,2,'Warsteiner Premium HiLight',?,45322
+360,'Warsteiner Brauerei',1309957335,2,2,2,'crossovert','Fruit / Vegetable Beer',2,2,'Warsteiner Premium Radler Grapefruit',2.5,70777
+2549,'Ringnes Bryggeri (Carlsberg)',1155110479,1.5,2.5,3,'KnutAlbert','Euro Pale Lager',1.5,1.5,'Ringnes Extra Gold',6.5,25482
+15135,'Brauerei Weitnau',1172609692,2.5,2.5,3.5,'stcules','Kristalweizen',2,2.5,'Bayerisch Zunftherrn Kristall-Weizen',5,35520
+258,'Birra Peroni Industriale S.p.A.',1307819746,2,3,3,'BlackHaddock','Euro Pale Lager',2,2,'Wuhrer',4.7,24038
+2270,'Samba Brewing Co. & Winery',1322335985,2,2,2,'papat444','Low Alcohol Beer',2,2,'Xtra Malt',0.1,75714
+4949,'Damm S. A.',1323220845,2,2.5,2.5,'kojevergas','Fruit / Vegetable Beer',2.5,2.5,'Damm Lemon',3.2,45380
+4949,'Damm S. A.',1321485478,2,2,4,'grub','Euro Pale Lager',2,2,'A.K. Damm',4.8,27843
+355,'San Miguel Corporation',1308060472,2,2,2,'Mdog','American Adjunct Lager',2,2,'Blue Ice',5,34838
+5489,'Big Bear Brewing Company',1231702897,2.5,2.5,3,'ThirstyBird','Fruit / Vegetable Beer',2.5,2.5,'Peach Ale',?,47220
+20707,'The Fat Cat Beer Company',1292388512,2.5,2,3.5,'crossovert','Vienna Lager',1.5,2.5,'Fat Cat Lager Beer',4,13772
+16197,'Pivovar Rohozec',1295906895,2,3,3,'pinkano','Czech Pilsener',2,2,'Rohozec Skalák Sv&#283;tlý Leák 11°',5,65576
+12788,'Firehouse Grill & Brewery',1321244338,1,2,3,'Arbitrator','American Porter',2,2,'Palo Alto Brewing Syrah Barrel Aged Porter',?,59674
+457,'Lakeport Brewing Company',1258482432,2,2,2,'mrmanning','German Pilsener',2,2,'Lakeport Pilsener',5,7221
+457,'Lakeport Brewing Company',1258482563,2,2,2,'mrmanning','American Adjunct Lager',2,2,'Lakeport Premium Lager',5,4663
+24089,'Brauerei Kürzer',1298314152,2.5,2.5,3,'stcules','German Pilsener',2.5,2.5,'Kürzer Pils',?,66535
+1114,'Bullfrog Brewery',1250562087,2,2,2,'jtrockchalk','Scottish Ale',2,2,'Wolfsblood Scotch',7.5,36716
+53,'Tennent Caledonian Breweries',1201302753,2,2,2,'travolta','Euro Strong Lager',2,2,'Tennent\'s Strong Lager',9,6695
+987,'SandLot Brewery @ Coors Field',1287771570,1.5,1.5,3.5,'nickd717','American Double / Imperial IPA',2,1.5,'Kneewalker Double IPA',?,62813
+5141,'Brauerei Ustersbach',1216845028,2.5,2.5,3,'stcules','Munich Dunkel Lager',2.5,2.5,'Altbayerisch Dunkles',5.2,24984
+1193,'',1301022066,2,2.5,2.5,'Knapp85','Vienna Lager',1.5,1.5,'Engel Tyrolian Bräu WRONG BREWERY SEE SCHWABISCH GMUND',5,67503
+4936,'Krasniy Vostok',1068387766,2.5,2,2.5,'Globetrotter','Euro Strong Lager',2.5,2.5,'Bogemskoye',8.6,14044
+136,'Utah Brewers Cooperative',1298487585,2,2.5,3.5,'IMPERALEVERYTHIN','American Brown Ale',2.5,2.5,'Squatters Bobsled Brown Ale',4,22544
+57,'Cervecería Cuauhtémoc Moctezuma, S.A. de C.V.',1156795603,3,2,3,'mauricioduque','English Pale Ale',2,2,'Casta Premium',5.5,29392
+18849,'Brasserie Henri Monier',1230299161,2.5,2.5,3,'thierrynantes','Belgian IPA',2.5,2.5,'La Birlouette',5,46817
+19131,'Birreria San Gabriel',1235915710,2.5,2.5,3,'stcules','Hefeweizen',2.5,2.5,'San Gabriel Hefe Weizen',5,48214
+288,'Brauerei Heinrich Reissdorf',1101546540,2,2,3,'mustolense','Kölsch',2,3,'Reissdorf Kölsch',4.8,2040
+4555,'Tustin Brewing Company',1281745919,1.5,1.5,3.5,'womencantsail','Foreign / Export Stout',2.5,2,'Thunder Horse Nitro Stout',?,61009
+651,'Ithaca Beer Company',1264432975,2,3,3,'Brent','Rye Beer',2,2,'Old Habit',9,37156
+723,'Cervecería Leona, S. A.',1060300213,2,2,2,'slitherySOB','American Adjunct Lager',2,2,'Cerveza Leona',4,10212
+1391,'Issaquah Brewhouse',1318971215,2,2,3,'ccrida','Witbier',3,2,'White Frog',?,48435
+849,'Rogan Brewery',1152121633,2.5,2,2.5,'ernie','Euro Strong Lager',2.5,2.5,'Veseliy Monakh Mitzne',7.1,31534
+2014,'Great Western Brewing',1319934419,2,2,2,'CrazyMike','Light Lager',2,2,'CO-OP Gold Premium Light Lager',4,29464
+2014,'Great Western Brewing',1310879214,2,3,3,'andrenaline','American Pale Ale (APA)',2,2,'Great Western Original 16',5,69266
+11068,'Carlsberg Italia S.p.A.',1212086780,2.5,2,3.5,'stcules','Bock',2.5,2.5,'Poretti Bock 1877 Chiara',6.3,22630
+6130,'Privatbrauerei Hofmühl GmbH',1279499963,2,3,3,'sfprint','Munich Dunkel Lager',2,2,'Hofmühl Dunkel',4.9,60167
+9343,'Beer Works',1128549303,2.5,2.5,3,'RBorsato','American Blonde Ale',2.5,2.5,'Bambino Ale',4,549
+5381,'Yantar Brewery',1121296970,2.5,2.5,3,'WesWes','American Adjunct Lager',2.5,2.5,'Taller Beer',?,12351
+3490,'B.O.B.\'s House Of Brews',1135087020,2.5,2.5,3,'granger10','Maibock / Helles Bock',2.5,2.5,'Winter Pale Bock',?,11033
+2915,'Gruhlke Brewery',1218633816,2,2,4,'MTNboy','American Amber / Red Ale',2,2,'Amber Cereza Style',4,44306
+18915,'Indigo Imp Brewery',1307761722,2.5,2.5,3,'Ryan011235','Foreign / Export Stout',2.5,2.5,'26°',7.4,67576
+18915,'Indigo Imp Brewery',1307930375,2,2.5,2.5,'ONUMello','Rye Beer',1.5,1.5,'Fiend Red Rye Ale',5.2,67636
+3490,'B.O.B.\'s House Of Brews',1136494632,2,2,2,'granger10','Winter Warmer',2,2,'Winter Beer',?,27691
+6970,'Brouwerij Den Hopperd',1142763390,2.5,2.5,2.5,'stcules','Herbed / Spiced Beer',2,2.5,'Kameleon Ginseng',6.5,12939
+3825,'Åbro Bryggeri',1127768113,1.5,2.5,2.5,'bark','Czech Pilsener',2,1.5,'Åbro Småland 3,5%',3.5,26006
+3825,'Åbro Bryggeri',1294343633,2,2,2,'Sunnanek','Euro Pale Lager',2,2,'Åbro Svensk Starköl',5.1,21946
+9538,'Atomic Ale Brewpub And Eatery',1240636442,2.5,2.5,2.5,'RedDiamond','American IPA',2.5,2,'Chinook Indian Pale Ale',?,49380
+14577,'Lazy Boy Brewing',1324333838,2.5,2.5,3.5,'Bfarr','American Porter',2,2.5,'Dumb Luck Special Winter Porter',7.1,76513
+6288,'Picobrouwerij Alvinne / Den Bierzolder',1187274501,2.5,2.5,2.5,'stcules','Belgian Dark Ale',2,2.5,'Hik Bier Bruin',?,38215
+3521,'De Proefbrouwerij (bvba Andelot)',1293566488,2.5,2.5,2.5,'stcules','Belgian Strong Pale Ale',2,2.5,'Flodder',8,64811
+144,'Sprecher Brewing Company',1260231804,1.5,1.5,2.5,'sweemzander','American Adjunct Lager',2,1.5,'El Rey Mexican Style Ale',5.2,53880
+4410,'Back Street Brewery',1305840924,2,2,2,'FosterJM','Czech Pilsener',2,2,'Jagged Little Pilsner',?,33812
+4410,'Back Street Brewery',1301274589,2.5,2.5,3,'Overlord','American Porter',2.5,2.5,'Schooner Porter',?,67586
+4410,'Back Street Brewery',1245319056,2,2,2,'Overlord','American Pale Lager',2,2,'Euradort Export Lager',?,50542
+15603,'Kombolcha Brewery',1313226928,2,2,4,'BlackHaddock','Euro Pale Lager',2,2,'St. George Beer',4.5,43384
+6174,'Schlossbrauerei Stelzer',1307376823,2.5,2,2.5,'kojevergas','German Pilsener',2.5,2.5,'Fattigauer Pilsener',4.7,69772
+797,'Old European Brewing Company',1046795186,2.5,2.5,2.5,'Rifrafboy','American Adjunct Lager',2,2.5,'Frederick Scholz Lager',?,8819
+3435,'Mash',1048549465,2,2,2,'rastaman','Hefeweizen',2,2,'Mash Wheat',5.2,9120
+797,'Old European Brewing Company',1048881945,2,2,2,'Pegasus','English Stout',2,2,'Ian Kinross & Co Highland Stout',?,7573
+797,'Old European Brewing Company',1048439735,2.5,2,2.5,'AtrumAnimus','English Brown Ale',1.5,2.5,'Dunham Castle Limited London Nutty Brown Ale',?,7572
+1467,'Micro-brasserie Saint-Arnould',1314821195,2.5,2.5,3,'Phyl21ca','English Pale Ale',2.5,2.5,'Magnum Daisy',4.5,72677
+2064,'DB Breweries Ltd.',1140804095,2,1.5,2.5,'alexgash','Euro Pale Lager',1.5,1.5,'DB Draught',4,8254
+683,'Valkyrie Brewing',1078019047,2,2.5,3.5,'tavernjef','Munich Helles Lager',2.5,2.5,'Fiddler\'s Finest',?,14699
+683,'Valkyrie Brewing',1198339855,2,2.5,3.5,'tempest','Belgian Strong Pale Ale',1.5,2.5,'Tripel Oktoberfest',?,40186
+1467,'Micro-brasserie Saint-Arnould',1295823516,2.5,2.5,2.5,'TerryW','Witbier',2,2.5,'La Blanche Des Anges',4,14819
+99,'Matt Brewing Company',1314399104,2,2,2,'mostpoetsdo','American Adjunct Lager',2,2,'Utica Club',3.7,6239
+3778,'Browar Van Pur S.A. (Brau Union Polska)',1167215639,2,3,3,'BlackHaddock','Euro Pale Lager',2,2,'Barley Gold',4,34459
+1951,'Cerveceria Hondurena, S.A. / BevCo Ltd',1324612720,2,3,3,'ElCommodoro','American Adjunct Lager',2,2,'Salva Vida',?,5317
+482,'Hansa Borg Bryggerier ASA',1246460651,2,2,2,'drpimento','American Adjunct Lager',2,2,'Borg Pilsener',4.7,50825
+3462,'Brouwerij Cnudde',1282247884,2,2,2,'Phyl21ca','Flanders Oud Bruin',2,2,'Cnudde Bruin',4.7,16452
+5687,'Brauerei Locher AG',1308520757,2,2,2,'kojevergas','Light Lager',2,2,'Ninkasi Bier',2.6,70156
+5687,'Brauerei Locher AG',1311981721,2,1.5,2.5,'Daredevil','Euro Pale Lager',2.5,2.5,'Castegna',5,15993
+5316,'Full Sail Brewery & Tasting Room & Pub',1324654045,2.5,2.5,3,'barleywinefiend','American IPA',2.5,2.5,'Lupulin Fresh Hop Ale',5.8,45343
+20777,'Quarry Brewing Company',1252334355,1.5,2.5,2.5,'walshclimb','American Porter',2,1.5,'Open Pit Porter',?,52415
+11600,'Sacramento Brewing Company\'s Oasis',1230784186,1.5,2,2.5,'SurlyDuff','American Amber / Red Ale',2.5,1.5,'Red Horse Ale',6.2,35584
+2104,'McMenamins',1183130387,2,2,2,'DaPeculierDane','Dubbel',2,2,'The Brethren',?,37473
+13307,'Mikkeller ApS',1273149160,2.5,2.5,3,'juju7','Herbed / Spiced Beer',2.5,2.5,'Dim Sum Beer Winter',5,57848
+2547,'Jack Russell Brewing Company',1065324667,2,2,3,'beerguy101','Hefeweizen',3,2,'Dukes Big Ass Beer (Hefeweizen)',4.5,13221
+1788,'Flying Goose Brew Pub & Grille',1042433498,2.5,2.5,3,'kunzbrew','Extra Special / Strong Bitter (ESB)',2.5,2.5,'Hominy Pot E.S.B.',?,7182
+13307,'Mikkeller ApS',1302376687,2,2,4,'largadeer','American Barleywine',2,2,'Big Worster (Experimental Edition)',18.5,67959
+1788,'Flying Goose Brew Pub & Grille',1154301482,2,3,3,'jdhilt','American Pale Wheat Ale',2,2,'Weetamoo Raspberry Wheat',?,6958
+621,'Tinkoff',1070824401,2.5,2,2.5,'Globetrotter','Fruit / Vegetable Beer',2.5,2.5,'Tekiza',3.5,14662
+2240,'Papago Brewing',1061686837,2.5,2,2.5,'jcalabre','English Brown Ale',2.5,2.5,'Maduro Nut Brown Ale',4.5,7148
+20672,'Sun King Brewing Company',1308085968,2,2,2,'vw73182','American IPA',2,2,'Fistful Of Hops',6.5,69285
+127,'Portland Brewing Company',1151908945,2,1.5,3.5,'Padron4KM','American Pale Wheat Ale',1.5,1.5,'Two Palms High Desert Hefeweisen',5.3,20076
+127,'Portland Brewing Company',1064987398,2.5,2.5,3,'Shaw','American Pale Wheat Ale',2.5,2.5,'Elk Rock Bugling Bull Hefeweisen',?,13102
+127,'Portland Brewing Company',1150771844,2.5,2.5,2.5,'uabigdaz','American Amber / Red Ale',2,1.5,'Two Palms Oasis Amber Ale',5.5,21486
+4087,'Spendrups Bryggeri AB',1303049301,2,2,2,'rarbring','Light Lager',2,2,'Norrlands Guld Ljus',4.7,51955
+4087,'Spendrups Bryggeri AB',1285934128,1.5,1.5,2.5,'rarbring','Low Alcohol Beer',2,1.5,'Spendrups Premium Lager Alkoholfri',0.5,61335
+4087,'Spendrups Bryggeri AB',1293036594,2,2,2,'rarbring','Vienna Lager',2,2,'Spendrups Julbrygd 2,1',2.1,64645
+3557,'Steelhead Brewing Co.',1247352222,2.5,2.5,3,'Overlord','English Bitter',2.5,2.5,'Back Bay Bitter',?,35272
+9351,'Pivovar a Sodovkárna Jihlava',1227619130,1.5,2.5,2.5,'atis','Light Lager',2,1.5,'Donauer Gold',3,46119
+1004,'Townsville Brewing Co.',1091445067,2,2,2,'rastaman','English Pale Ale',2,2,'Townsville Diggers',4.6,19090
+24939,'Harry\'s International Pte Ltd',1308003539,1.5,1.5,3.5,'lacqueredmouse','American Adjunct Lager',1.5,2,'Harry\'s Premium Lager (HPL)',5,69995
+4920,'Pivovariya Ivana Taranova',1058699644,2.5,2,2.5,'Globetrotter','Euro Pale Lager',2.5,2.5,'Amur Pivo Svetloye',4,11531
+4920,'Pivovariya Ivana Taranova',1112554734,2.5,2,3.5,'Globetrotter','American Adjunct Lager',2.5,2.5,'PIT Acapulco',4.5,22941
+160,'Wychwood Brewery Company Ltd',1316458316,2.5,2.5,3,'BlackHaddock','Herbed / Spiced Beer',2.5,2.5,'Ginger Beard',4.2,71635
+3922,'Taylor Brewing Company',1289195750,2.5,2.5,2.5,'t0rin0','American Amber / Red Ale',2.5,2,'Route 56 Ale',?,63282
+3922,'Taylor Brewing Company',1204648060,2.5,2.5,3.5,'Redrover','American Porter',2.5,2,'Papa\'s Porter',?,21894
+4107,'Pivovar &#268;erná Hora',1318681642,2.5,2.5,3,'skypup','Czech Pilsener',2.5,2.5,'&#268;erná Hora Páter',4.4,50216
+17286,'Zeos Brewing Company S.A.',1295652587,2.5,2.5,3,'BeerAdvocate','Euro Pale Lager',2.5,2.5,'Zeos Pilsner',5,43466
+5406,'Hogshead Brew Pub',1062614423,2,2,2,'elmocoso','American Porter',2,2,'Porky\'s Porter',?,12474
+805,'Brasserie Du Bocq',1209893840,2.5,2.5,3,'stcules','Belgian Strong Dark Ale',2.5,2.5,'Tipsy',?,42477
+12954,'Jarrah Jacks / Pemberton Brewing Company',1245596298,1.5,2,3.5,'LittleCreature','Herbed / Spiced Beer',2.5,1.5,'Jarrah Jacks Honey Porter',5.5,50610
+539,'Hoeksche Waard Bierbrouwerij',1096311032,2.5,2.5,2.5,'stcules','Belgian Dark Ale',2,2.5,'Hoeksch Bokbier',6.6,20039
+6740,'Wallhall Brauhaus Im Lamm',1298673452,1.5,1.5,3.5,'stcules','Hefeweizen',2,1.5,'Wallhall Weizen',?,66665
+19897,'Evolution Craft Brewing Company',1319715989,2.5,2.5,3.5,'Thorpe429','American Strong Ale',2.5,2,'Spring Migration (2011 Rum Barrel Golden Ale)',10,70056
+11984,'Shoreline Brewery And Restaurant',1310268651,2.5,2,3.5,'WoodBrew','English India Pale Ale (IPA)',2.5,2.5,'Queen Mum',5.5,31038
+601,'Obolon Brewery',1253160181,2.5,2.5,3,'wordemupg','Euro Pale Lager',2.5,2.5,'Obolon Premium',5.2,1583
+10678,'La Tour A Bières',1297047215,1.5,1.5,3,'Phyl21ca','Herbed / Spiced Beer',1.5,1.5,'La Tour-Menthe',7,47973
+15032,'Powerhouse Restaurant And Brewery',1267758083,2,3,3,'barleywinefiend','American IPA',2,2,'Powerhouse India Pale Ale',6,33736
+14250,'The Grey Parrot',1160531443,2,1.5,2.5,'RedDiamond','Herbed / Spiced Beer',2.5,1.5,'Alt Porter',?,33174
+435,'Minhas Craft Brewery',1207449753,2,2,2,'Gehrig','American Adjunct Lager',2,2,'Harborside Lager',4.5,31537
+435,'Minhas Craft Brewery',1321487807,2.5,2.5,3,'biboergosum','American Malt Liquor',2.5,2.5,'Thunder Bolt',10,75381
+206,'Hook & Ladder Brewing Company (No. 2)',1061601034,3,2,3,'beerguy101','Hefeweizen',2,2,'Hook & Ladder Grassfire Wheat',?,2597
+10808,'Die Weisse Salzburger Weissbierbrauerei',1132420292,2,2,2,'stcules','Hefeweizen',2,2,'Die Weisse Hell',5.2,26994
+12957,'Brasserie Celtik',1195590617,2.5,2.5,3,'thierrynantes','Belgian Pale Ale',2.5,2.5,'Celtika Blonde (Rohane Blonde)',6,27730
+440,'Ochakovo',1078805859,2,2,2,'Globetrotter','Euro Pale Lager',2,2,'Ochakovo Svetloye',4,16412
+5107,'Pig\'s Eye Brewing Company',1318985128,2,2,2,'CamuMahubah','Light Lager',2,2,'Pig\'s Eye Lean',4.1,11294
+402,'Old Dominion Brewing Company',1206823013,2,3,3,'Pencible','Irish Red Ale',2,2,'Dominion Irish Cream Ale',?,26356
+886,'Gubernija Brewery',1017069627,2,2,2,'htomsirveaux','English Pale Ale',2,2,'Zhiguly Beer',4.3,2806
+12547,'The Livery',1304792782,1.5,1.5,3,'Thorpe429','Quadrupel (Quad)',1.5,1.5,'Agent 99',12,68794
+6009,'Exportbierbrauerei Richard Glenk OHG',1273428809,2,3,3,'BayerischBier','German Pilsener',2,2,'Glenk Pils',4.8,41985
+353,'Carlton & United Breweries, Ltd.',1171711422,1,2,3,'Kulrak','American Adjunct Lager',2,2,'Carlton LJ',4.6,5966
+353,'Carlton & United Breweries, Ltd.',1318456895,2.5,2.5,3,'mulder1010','American Adjunct Lager',2.5,2.5,'Fiji Bitter',4.6,1480
+353,'Carlton & United Breweries, Ltd.',1199509355,2,2,2,'stephendr','American Adjunct Lager',2,2,'Fosters Special Bitter',5.5,25686
+353,'Carlton & United Breweries, Ltd.',1069760687,2,2,2,'diablo14','American Adjunct Lager',2,2,'Diamond Draft',4.2,8425
+4871,'Deep Creek Brewing Company',1097525374,2,2,4,'Higravity','American Adjunct Lager',2,2,'Deep Creek Gold',4.2,10844
+26382,'The Phoenix Ale Brewery',1324182935,2,2,2,'rbowser','American IPA',2,2,'Camelback IPA',6.1,75512
+23459,'Hermitage Brewing',1318292266,2,3,3,'Zorro','Hefeweizen',2,2,'Wheatopia',8,65315
+173,'Hair of the Dog Brewing Company / Brewery and Tasting Room',1290398986,1,2,3,'psiweaver','American Strong Ale',2,2,'Apricot Fred',10,63701
+3106,'Cerveceria La Tropical Brewmasters',1296505834,2,1.5,2.5,'beersensei305','American Adjunct Lager',1.5,1.5,'La Tropical',?,7437
+1899,'Blackwater Brewing Company',1156951255,2.5,2,2.5,'Deconstructionis','American Blonde Ale',2.5,2.5,'Blackwater Gold Ale',?,12840
+1479,'J. Boag & Son Brewing',1023555433,2,2,2,'rastaman','English Bitter',2,2,'Boag\'s Strongarm Bitter',5.4,4050
+1479,'J. Boag & Son Brewing',1083193997,1.5,1.5,2.5,'joecast','Light Lager',2,1.5,'Boag\'s Draught Light',2.7,17304
+1386,'Harmon Restaurant & Brewery',1249148963,2.5,2.5,2.5,'froghop','American Blonde Ale',2.5,2.5,'Mt. Takhoma Blonde Ale',3.8,31973
+1454,'Broad Ripple Brew Pub',1289594919,2,2,3,'ktrillionaire','American IPA',3,2.5,'I.P.A.',6.2,6825
+13956,'Eastwood The Brewer (John Eastwood)',1148863217,1.5,2,2,'TheLongBeachBum','English Bitter',2,2,'Old Skool',5,30780
+14879,'Hoppin\' Frog Brewery',1306012615,2,2.5,3,'TheHoppiest','Fruit / Vegetable Beer',1,2,'Smashin\' Berry Dark',?,40146
+1303,'Jennings Brothers PLC',1234546313,2.5,2.5,3.5,'wl0307','English Bitter',2.5,2.5,'Fish King',4.3,47926
+12907,'Sauris AgriBeer S.a.s',1293821411,2,2.5,2,'crnipeter','Herbed / Spiced Beer',2,2,'Zahre Canapa',5,30199
+2430,'Al Ahram Beverages Company',1219148418,1.5,2,2,'aforbes10','Euro Pale Lager',2,2,'Stella',4.5,27586
+2430,'Al Ahram Beverages Company',1219148291,1.5,2,2,'aforbes10','Euro Strong Lager',2,2,'Meister Max',8,27589
+395,'Bluegrass Brewing Co. - East St. Matthew\'s',1094615342,2,3,3,'oracle','American Amber / Red Ale',2.5,2,'Organic Amber',?,19777
+453,'Pivovarna Laško',1285359296,2,2.5,2,'crnipeter','Doppelbock',2,2,'Eliksir',7.6,62056
+7402,'Wasatch Brew Pub',1321310509,2.5,3,3,'txbrewer','Pumpkin Ale',2,2,'Pumpkin',4,73498
+9020,'Yazoo Brewing Company',1315067420,2.5,3,3,'TheGordianKnot','Irish Dry Stout',2,2,'Onward Stout Aged On Cherries',3.8,72767
+4150,'Denmark Brewing, LLC',1125879588,2.5,2.5,2.5,'ALESwhatCURESya','Dubbel',2.5,2.5,'Dubbel',?,25648
+574,'Swan Brewery',1248439535,3,2,3.5,'LittleCreature','Light Lager',2,2,'EMU Draft Midstrength',3.5,1538
+860,'The Vermont Pub & Brewery',1076826070,2,2,2.5,'UnionMade','Herbed / Spiced Beer',3,2,'Holidaze',?,15916
+2804,'Pivovaren Zavod Varensko Pivo',1283114379,2,2.5,3,'BucBasil','Euro Pale Lager',3,2,'Varnensko',4.4,61477
+1199,'Founders Brewing Company',1293151841,2.5,2.5,3.5,'LilBeerDoctor','Oatmeal Stout',2.5,2.5,'Founders Oatmeal Stout',4.5,16079
+3268,'O\'Fallon Brewery',1052749883,2,2,4,'Realale','American Pale Ale (APA)',2,1.5,'O\'Fallon Spring Ale',?,7676
+5430,'Kolos OAO/ Ledyanoy Stakanchik',1075578766,2.5,2.5,3.5,'Globetrotter','Euro Pale Lager',2.5,2.5,'Beer Svetloye Klassik',5,11789
+568,'Browar Okocim S.A. (Carlsberg)',1321330555,2,1.5,3,'thehyperduck','German Pilsener',3,2,'Okocim Premium Pils',5.6,59439
+25619,'Van Der Bönerbosch Brewing Company, LLC',1312152139,2,2,2,'depechemode1983','Witbier',2.5,2,'Böner Sun-Kissed Wheat',?,69159
+20638,'DUFF Sales & Marketing E.K.',1308770073,2.5,2.5,3.5,'thierrynantes','American Adjunct Lager',2.5,2.5,'Duff Extra',5,62237
+5514,'Browar Staropolski',1316916863,2,2.5,2,'samie85','Euro Strong Lager',2,2,'Zorg',8,72732
+18012,'Seven Brides Brewing',1320017708,2,3,3,'ricke49','American Amber / Red Ale',2,1.5,'Emily\'s Ember',4.5,51613
+381,'Snowgoose Restaurant & Pub / Sleeping Lady Brewing Company',1247785197,2,2.5,3,'ccrida','Berliner Weissbier',3,2,'Berliner Weisse',?,50849
+81,'Heineken Nederland B.V.',1317912177,2.5,2.5,2.5,'ThaCreep','Bock',2.5,1.5,'Royal Club 8.0',8,73833
+1930,'Alcatraz Brewing Co.',1264137922,2.5,2,3,'kmperkin','Hefeweizen',2,3,'Alcatraz Weiss Guy Wheat',?,15409
+16866,'The Bruery',1321855062,1.5,2,3,'womencantsail','Rye Beer',3,2,'Rugbrød Barrel Aged',?,75514
+813,'Les Brasseurs de Gayant',1154884218,2,2,3,'benmiliron','Euro Pale Lager',2.5,3,'Bière Du Désert',7.5,7191
+12222,'Bere Trei Stejari',1217447165,2,2,2,'drpimento','Euro Pale Lager',1.5,2,'Balea',?,44046
+483,'Grans Bryggeri AS',1111164837,2,2,2,'Sigmund','Euro Pale Lager',1.5,2,'Grans Bright Beer',4.7,22587
+1693,'Krasnyj Vostok',1169350742,1,2,3,'Dmitri','Euro Pale Lager',2,1.5,'Krasniy Vostok Originalnoye',6.2,14032
+4938,'Pivzavod AO Yantar',1056192917,2,2.5,3,'Globetrotter','Euro Pale Lager',3,2,'Yantar Pale',?,10530
+11061,'Herslev Bryghus',1206216640,2,3,3.5,'lakevalley','Schwarzbier',2,2,'Schwarz Bier (5.2%)',5.2,23085
+343,'Jasper Murdock’s Alehouse, Dining Room & Microbrewery',1251044215,2,2,3.5,'khuygie88','English India Pale Ale (IPA)',3,2,'Old Slipperyskin India Pale Ale',6.3,2621
+439,'UNICER União Cervejeira S.A.',1287968692,3,2,3,'boss302','American Adjunct Lager',2,2.5,'Cristal',5.1,37202
+663,'Federal Jack\'s Restaurant & Brew Pub',1312930663,2.5,1,3,'whatthehull','Fruit / Vegetable Beer',2,2,'Blueberry Wheat Ale',4.7,38528
+2969,'Königsbacher Brauerei',1273697068,2.5,2.5,2.5,'stcules','German Pilsener',2.5,2.5,'Nette Edel Pils',4.8,58291
+620,'Der HirschBrau/Privatbrauerei Höss',1321791059,2.5,3,3,'Mar02x','Munich Dunkel Lager',2,2,'Bayern Dunkel',4.7,74502
+11941,'Pécsi Sörfözde',1149879958,2,2,4,'bark','Euro Pale Lager',2.5,2,'Sörfözde Pannon Gold',3.8,30998
+11941,'Pécsi Sörfözde',1227733134,2,3,3,'atis','Light Lager',2,2.5,'Schlossmühle',3,46150
+11941,'Pécsi Sörfözde',1225541283,2,2,2.5,'atis','Euro Pale Lager',3,2,'Altenbräu Spezial',4.2,45669
+16816,'Lone Peak Brewery',1325392720,2,2,3,'antilogic','English India Pale Ale (IPA)',3,1.5,'Lone Peak IPA',?,51170
+2298,'Hop Back Brewery plc',1063761817,2.5,2,3,'rastaman','English Bitter',2,3,'Hopback Halcyon Daze',4.6,12742
+21833,'Euskal Garagardoa S.L.',1293395637,2.5,2.5,2.5,'RonBeerBox','Irish Red Ale',2.5,2.5,'Pagoa Red Ale - Gorria',4.6,60270
+716,'Asahi Breweries Ltd',1141563878,2,2,2,'Naerhu','Japanese Rice Lager',2,2.5,'Asahi Super Yeast Kokukoku No Nama Beer',5.5,28330
+15185,'Cerveza Jerome',1302315494,2,3,2.5,'smcolw','American Amber / Red Ale',2,2,'Cerveza Jerome Andean Red Ale',6,67954
+3079,'Ram International / Humperdinks Restaurant and Big Horn Brewing',1170868739,1.5,3,3,'CharlesDarwin','American Stout',2,2,'Big Horn Chocolate Cream Stout',?,35163
+13296,'Windsor Castle Brewery (Sadler\'s Ales)',1320433170,2.5,2.5,2.5,'BlackHaddock','English Pale Ale',2.5,2.5,'Thin Ice',4.5,74884
+4500,'Brasserie Vanuxeem',1242593170,2,3,3.5,'BlackHaddock','American Amber / Red Ale',2,2,'Queue De Charrue Ambree',?,16742
+8203,'Paddock Wood Brewing Co.',1179260475,2.5,2.5,2.5,'Phyl21ca','Tripel',2.5,2.5,'ArchAngel',8.5,30048
+302,'Genesee Brewing Co. / Dundee Brewing Co.',1307841770,2.5,2.5,3.5,'plaid75','American Adjunct Lager',2.5,2.5,'Genesee Ice Beer',5.5,3293
+302,'Genesee Brewing Co. / Dundee Brewing Co.',1144353986,2.5,2,2,'hbridgers','American Adjunct Lager',2,2,'Koch\'s Golden Anniversary Beer',?,4942
+641,'Brouwerij Verhaeghe',1312619667,2.5,1.5,3.5,'ThaCreep','Belgian Pale Ale',2.5,2.5,'Poperings Nunnebier (for Nevejan Of Krombeke)',7.2,50829
+11936,'Sierra Madre Brewing Co.',1129741274,2.5,2,2,'tesguino','Bock',2,2,'Cañón Del Huajuco',5,25207
+3517,'Brouwerij Martens NV',1258826165,2,2,2,'Sunnanek','American Adjunct Lager',1.5,2,'Tipo Lager',4.8,54271
+1811,'Scottish Chief\'s Tavern Brewery',1194256189,2,2,3.5,'brendan13','English Porter',3,2,'What\'s Brewing? Porter',6.2,39489
+10878,'Minakuchi Shuzo, K.K.',1107908776,1.5,2,4,'Naerhu','English Stout',2,2,'Dogo Stout',5,21864
+13594,'Chastnaya Pivovarnya Erstes',1145185069,2,2.5,4,'Globetrotter','Hefeweizen',2,2,'Erstes Pschennichnoye',?,29926
+17981,'Cigar City Brewing',1288506838,2,3,3.5,'ktrillionaire','American Double / Imperial IPA',2,2,'110K+OT Batch #3 - The Other West Coast IPA - Cedar Aged (Humidor Series)',10,60877
+660,'Huisbrouwerij Boelens',1130778664,2,2,2,'paterlodie','Fruit / Vegetable Beer',2,2.5,'Prinsesken',6.5,26683
+11361,'Heiner Brau',1272324618,2.5,2.5,3.5,'Mora2000','American Pale Ale (APA)',2.5,2.5,'Zea Category 5 Pale Ale',?,43668
+610,'Bear Republic Brewing Co.',1311783062,2,2,2,'avaldivia','Light Lager',2,2.5,'Oso De Oro',3.9,21790
+13548,'Tracks Brewing Company',1155437434,2,3,3.5,'Wasatch','American Stout',2,2,'Skull Valley Stout',4,32232

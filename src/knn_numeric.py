@@ -42,7 +42,7 @@ FIELD_MAP['review_palate'] = 8
 FIELD_MAP['review_taste'] = 9
 FIELD_MAP['beer_name'] = 10
 FIELD_MAP['beer_abv'] = 11
-FIELD_MAP['brewery_id'] = 12
+FIELD_MAP['beer_id'] = 12
 
 REVIEW_MAP_KEY = 10 #beer_name
 COMMON_REVIEWERS_MAP_KEY = 6 #review_profilename
