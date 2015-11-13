@@ -51,8 +51,13 @@ public class PredictionTestRunner {
         System.out.println("Average rating of Query User [" + PREDICT_QUERY.getReviewer() + "] is : " + averageRatingByQueryUser);
         Utils.printMem();
         
-        //Global baseline 
-        Double globalBaseLine = meanBeerRating + (meanBeerRating - averageRatingOfQueryBeer) + (meanBeerRating - averageRatingByQueryUser);
+        //Global baseline using offset from product average and user average 
+        Double productAvgOffset = Math.abs(averageRatingOfQueryBeer - meanBeerRating);
+        Double userAvgOffset = Math.abs(averageRatingByQueryUser - meanBeerRating);
+        
+        Double globalBaseLine = meanBeerRating
+        		+ ((averageRatingOfQueryBeer > meanBeerRating) ? productAvgOffset : -1 * productAvgOffset)
+        		+ ((averageRatingByQueryUser > meanBeerRating) ? userAvgOffset : -1 * userAvgOffset);
         System.out.println("Global baseline estimate for Prediction Query [Beer: "+ PREDICT_QUERY.getProductId() + ", Reviewer: " + PREDICT_QUERY.getReviewer() + "] is : " + globalBaseLine);
         Utils.printMem();
         
