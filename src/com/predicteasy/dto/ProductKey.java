@@ -15,6 +15,15 @@ public class ProductKey {
 		this.productId = beerName;
 		this.reviewer = reviewer;
 	}
+	
+	public String getProductId() {
+		return productId;
+	}
+
+	public String getReviewer() {
+		return reviewer;
+	}
+
 	@Override
 	public int hashCode() {
 		final int prime = 31;

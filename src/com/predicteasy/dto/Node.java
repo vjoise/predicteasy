@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * Node which represents data.
- * Created by A0120096(Venkatesh) on 13/10/2015.
+ * @author Venkat & Gaurav (KDDM project)
  */
 public class Node {
 

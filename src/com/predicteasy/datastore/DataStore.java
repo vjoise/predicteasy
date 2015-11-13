@@ -12,6 +12,8 @@ import com.predicteasy.dto.ProductReviewDetails;
 public interface DataStore {
 	public void addData(String[] values);
 	public long size();
+
+	public Double getMeanProductRating();
 	
 	public Map<ProductKey, Number> getReviewSummary(ProductKey productKey);
 	public List<ProductReviewDetails> getProductReviews(ProductKey productKey);

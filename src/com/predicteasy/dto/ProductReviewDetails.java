@@ -6,6 +6,7 @@ public class ProductReviewDetails {
 	private Number overallReview;
 	private Number aromaReview;
 	private Number appearanceReview;
+	private long reviewTime;
 	
 	public ProductReviewDetails(Number overallReview, Number aromaReview,
 			Number appearanceReview) {
@@ -13,6 +14,31 @@ public class ProductReviewDetails {
 		this.overallReview = overallReview;
 		this.aromaReview = aromaReview;
 		this.appearanceReview = appearanceReview;
+	}
+	
+	public ProductReviewDetails(Number overallReview, Number aromaReview,
+			Number appearanceReview, long reviewTime) {
+		super();
+		this.overallReview = overallReview;
+		this.aromaReview = aromaReview;
+		this.appearanceReview = appearanceReview;
+		this.reviewTime = reviewTime;
+	}
+
+	public Number getOverallReview() {
+		return overallReview;
+	}
+
+	public Number getAromaReview() {
+		return aromaReview;
+	}
+
+	public Number getAppearanceReview() {
+		return appearanceReview;
+	}
+
+	public long getReviewTime() {
+		return reviewTime;
 	}
 
 	public static ProductReviewDetails mergeReviews(ProductReviewDetails review1, ProductReviewDetails review2){
