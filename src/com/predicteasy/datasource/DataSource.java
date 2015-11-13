@@ -1,10 +1,11 @@
 package com.predicteasy.datasource;
 
-import java.util.Map;
+import com.predicteasy.datastore.DataStore;
 
-import com.predicteasy.dto.Node;
-
+/**
+ * @author Venkat & Gaurav (KDDM project)
+ */
 public interface DataSource {
 
-	public Map<Long, Node> getData();
+	public DataStore getData();
 }

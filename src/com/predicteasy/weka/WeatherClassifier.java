@@ -32,7 +32,7 @@ public class WeatherClassifier{
 		Evaluation evaluation = new Evaluation(trainingSet);
  
 		model.buildClassifier(trainingSet);
-		evaluation.evaluateModel(model, testingSet);
+		double[] predictions = evaluation.evaluateModel(model, testingSet);
  
 		return evaluation;
 	}
@@ -62,13 +62,17 @@ public class WeatherClassifier{
 	}
  
 	public static void main(String[] args) throws Exception {
-		BufferedReader datafile = readDataFile("./src/weather.txt");
+		BufferedReader trainingDatafile = readDataFile("./src/weather_training.txt");
+		BufferedReader testDatafile = readDataFile("./src/weather_test.txt");
+		
+		Instances trainingData = new Instances(trainingDatafile);
+		trainingData.setClassIndex(trainingData.numAttributes() - 1);
  
-		Instances data = new Instances(datafile);
-		data.setClassIndex(data.numAttributes() - 1);
- 
+		Instances testData = new Instances(testDatafile);
+		testData.setClassIndex(testData.numAttributes() - 1);
+		
 		// Do 10-split cross validation
-		Instances[][] split = crossValidationSplit(data, 10);
+		Instances[][] split = crossValidationSplit(testData, 10);
  
 		// Separate split into training and testing arrays
 		Instances[] trainingSplits = split[0];
@@ -94,6 +98,10 @@ public class WeatherClassifier{
  
 				predictions.appendElements(validation.predictions());
  
+				//validation.predictions().toArray()
+//				for(FastVector fastVec : validation.predictions()){
+//					System.out.println(validation.predictions().toString());
+//				}
 				// Uncomment to see the summary for each training-testing pair.
 				//System.out.println(models[j].toString());
 			}

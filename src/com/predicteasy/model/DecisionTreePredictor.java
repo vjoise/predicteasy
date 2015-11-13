@@ -1,21 +1,17 @@
 package com.predicteasy.model;
 
-import java.util.Map;
-
 import com.predicteasy.datastore.DataStore;
-import com.predicteasy.datastore.IndexedDataStore;
 import com.predicteasy.dto.Node;
-import com.predicteasy.utils.MathUtils;
+import com.predicteasy.utils.Utils;
 
 /**
- * A generic rating predictor based on customer id and product attributes.
- * Created by A0120096(Venkatesh) on 13/10/2015.
+ * Decision tree based prediction model
  */
 public class DecisionTreePredictor implements BasePredictor {
 
-    private DataStore dataSource;
-    
-    private boolean isDebug = Boolean.parseBoolean(System.getProperty("debug.mode", "false"));
+	private boolean isDebug = Boolean.parseBoolean(System.getProperty("debug.mode", "false"));
+	
+	private DataStore dataSource;
     
     public DecisionTreePredictor(DataStore dataStore) {
         dataSource = dataStore;
@@ -33,9 +29,10 @@ public class DecisionTreePredictor implements BasePredictor {
     	double totalPos = dataSource.getTotalPositives();
     	double totalNeg = dataSource.getTotalNegatives();
     	
-    	double targetEntropy = MathUtils.entropy(totalPos, totalNeg);
+    	double targetEntropy = Utils.entropy(totalPos, totalNeg);
     	System.out.println("Target entropy is : " + targetEntropy);
     	
+    	//TODO : Need to check if 
     	//Step 2 : Find entropy for each attribute and info gain.
     	//Based on max gain, pick the attribute to start building tree.
     	

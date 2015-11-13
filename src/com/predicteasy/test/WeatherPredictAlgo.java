@@ -4,7 +4,7 @@ import java.util.Map;
 
 import com.predicteasy.datasource.CSVDataSource;
 import com.predicteasy.datasource.DataSource;
-import com.predicteasy.datastore.IndexedDataStore;
+import com.predicteasy.datastore.IndexedProductDataStore;
 import com.predicteasy.dto.Node;
 import com.predicteasy.model.DecisionTreePredictor;
 
@@ -20,7 +20,7 @@ public class WeatherPredictAlgo {
 //        neighborsMap.put();
         
         /* Data source that will have this data initialized in all indexes for fast query*/
-        IndexedDataStore dataStore = new IndexedDataStore(inputData);
+        IndexedProductDataStore dataStore = new IndexedProductDataStore(inputData);
         
 		/* Initiate rating predictor here. */
         DecisionTreePredictor predictor = new DecisionTreePredictor(dataStore);
