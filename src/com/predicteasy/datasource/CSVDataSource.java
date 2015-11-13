@@ -1,6 +1,7 @@
 package com.predicteasy.datasource;
 
 import java.io.File;
+import java.net.URLDecoder;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -28,7 +29,7 @@ public class CSVDataSource implements DataSource{
     
     public CSVDataSource(String csvFileName, boolean hasHeader) throws Exception{
     	System.out.println("Reading data from csv file : " + csvFileName);
-    	this.dataStore = this.loadFile(new File(csvFileName), hasHeader);
+    	this.dataStore = this.loadFile(new File(URLDecoder.decode(getClass().getClassLoader().getResource(csvFileName).getPath())), hasHeader);
     }
 
     private DataStore loadFile(File inputFile, boolean hasHeader) throws Exception{

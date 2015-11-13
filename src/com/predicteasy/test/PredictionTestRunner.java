@@ -16,7 +16,7 @@ import com.predicteasy.utils.Utils;
 public class PredictionTestRunner {
 
 	public static boolean IS_DEBUG_MODE = false;
-	public static final String DATA_SOURCE_FILE = "/Users/gaurav/Downloads/KDDM/predicteasy/resources/beer_reviews.csv";
+	public static final String DATA_SOURCE_FILE = "beer_reviews.csv";
 	
 	private static final ProductKey PREDICT_QUERY = new ProductKey("English Strong Ale", "stcules");
 	
