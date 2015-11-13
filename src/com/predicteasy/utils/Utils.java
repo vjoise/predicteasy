@@ -1,5 +1,8 @@
 package com.predicteasy.utils;
 
+/**
+ * @author Venkat & Gaurav (KDDM project)
+ */
 public class Utils {
 
 	/**

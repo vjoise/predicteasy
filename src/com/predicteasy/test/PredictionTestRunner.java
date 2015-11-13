@@ -8,6 +8,11 @@ import com.predicteasy.knn.NearestNeighborFinder;
 import com.predicteasy.model.BasePredictor;
 import com.predicteasy.utils.Utils;
 
+/**
+ * KDDM term project
+ * 
+ * @author Venkat & Gaurav (KDDM project)
+ */
 public class PredictionTestRunner {
 
 	public static boolean IS_DEBUG_MODE = false;
