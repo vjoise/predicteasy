@@ -3,11 +3,9 @@ package com.predicteasy.datastore;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.Set;
 import java.util.concurrent.locks.ReentrantLock;
 
 import org.apache.commons.lang3.StringUtils;
@@ -29,7 +27,7 @@ public class IndexedProductDataStore implements DataStore{
 	static{
 		//brewery_id,brewery_name,review_time,review_overall,review_aroma,review_appearance,review_profilename,
 		//beer_style,review_palate,review_taste,beer_name,beer_abv,beer_beerid
-		KEY_COLUMNS.add("beer_beerid");KEY_COLUMNS.add("review_profilename");
+		KEY_COLUMNS.add("beer_name");KEY_COLUMNS.add("review_profilename");
 		REVIEW_COLUMNS.add("review_overall"); REVIEW_COLUMNS.add("review_aroma"); REVIEW_COLUMNS.add("review_appearance");
 	}	
 	private Map<String, Integer> KEY_COLUMN_INDEX_MAP = new HashMap<String, Integer>();
@@ -115,20 +113,12 @@ public class IndexedProductDataStore implements DataStore{
 	@Override
 	public Double getMeanProductRating() {
 		try{
-			Double overallRating = new Double(0);
-			Double counter = new Double(0);
 			lock.lock();
-			for(Entry<ProductKey, ProductReviewDetails> entry : reviewData.entrySet()){
-				Double overallRaring = (Double)entry.getValue().getOverallReview();
-				if(overallRaring > 10)
-					System.out.println("Something wrong here"); 
-				overallRating += (Double)entry.getValue().getOverallReview();
-				counter++;
-				System.out.println(overallRating/counter);
-				if(overallRating/counter > 10)
-					System.out.println("Something wrong here");
-			}
 			
+			Double overallRating = new Double(0);
+			for(Entry<ProductKey, ProductReviewDetails> entry : reviewData.entrySet()){
+				overallRating += (Double)entry.getValue().getOverallReview();
+			}
 			return overallRating/reviewData.entrySet().size();
 		}finally{
 			lock.unlock();
@@ -150,5 +140,65 @@ public class IndexedProductDataStore implements DataStore{
 	public List<ProductReviewDetails> getProductReviews(ProductKey productKey) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	/** 
+	 * Average product rating for this beer by all users (except the query user)
+	 * (Though review for this beer by query customer shouldnt be present, still checking to avoid problem with test data)
+	 */
+	@Override
+	public Double getAverageProductRating(ProductKey predictQuery) {
+		String queryBeer = predictQuery.getProductId();
+		String queryUser = predictQuery.getReviewer();
+		
+		//Find all entries for this beer (excluding the query user)
+		try{
+			lock.lock();
+			Double overallQueryProductRating = new Double(0);
+			Double counter = new Double(0);
+			
+			for(Entry<ProductKey, ProductReviewDetails> entry : reviewData.entrySet()){
+				if(StringUtils.equals(queryBeer, entry.getKey().getProductId()) 
+						&& !StringUtils.equals(queryUser, entry.getKey().getReviewer())) {
+					
+					overallQueryProductRating += (Double)entry.getValue().getOverallReview();
+					counter++;
+				}
+			}
+			
+			return overallQueryProductRating/counter;
+		}finally{
+			lock.unlock();
+		}
+	}
+
+	/** 
+	 * Average rating for all beers by query user 
+	 * (except the query beer itself - though query beer review for this user will not be in data, still checking to avoid mistakes with test data)
+	*/
+	@Override
+	public Double getAverageUserRating(ProductKey predictQuery) {
+		String queryBeer = predictQuery.getProductId();
+		String queryUser = predictQuery.getReviewer();
+		
+		//Find all entries for this user (excluding the query beer)
+		try{
+			lock.lock();
+			Double overallQueryUserRating = new Double(0);
+			Double counter = new Double(0);
+			
+			for(Entry<ProductKey, ProductReviewDetails> entry : reviewData.entrySet()){
+				if(!StringUtils.equals(queryBeer, entry.getKey().getProductId()) 
+						&& StringUtils.equals(queryUser, entry.getKey().getReviewer())) {
+					
+					overallQueryUserRating += (Double)entry.getValue().getOverallReview();
+					counter++;
+				}
+			}
+			
+			return overallQueryUserRating/counter;
+		}finally{
+			lock.unlock();
+		}
 	}
 }

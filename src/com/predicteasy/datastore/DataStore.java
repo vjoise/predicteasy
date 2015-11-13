@@ -14,6 +14,8 @@ public interface DataStore {
 	public long size();
 
 	public Double getMeanProductRating();
+	public Double getAverageProductRating(ProductKey predictQuery);
+	public Double getAverageUserRating(ProductKey predictQuery);
 	
 	public Map<ProductKey, Number> getReviewSummary(ProductKey productKey);
 	public List<ProductReviewDetails> getProductReviews(ProductKey productKey);

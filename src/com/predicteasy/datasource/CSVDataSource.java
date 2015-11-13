@@ -6,10 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
-import org.apache.commons.lang3.StringUtils;
 
 import com.predicteasy.datastore.DataStore;
 import com.predicteasy.datastore.IndexedProductDataStore;
@@ -32,15 +28,12 @@ public class CSVDataSource implements DataSource{
     
     public CSVDataSource(String csvFileName, boolean hasHeader) throws Exception{
     	System.out.println("Reading data from csv file : " + csvFileName);
-    	Utils.printMem();  	
     	this.dataStore = this.loadFile(new File(csvFileName), hasHeader);
     }
 
     private DataStore loadFile(File inputFile, boolean hasHeader) throws Exception{
     	DataStore dataStore = null;
-    	Map<Long, Node> data = new HashMap<Long, Node>();
     	Scanner scanner = new Scanner(inputFile);
-    	
     	try{
     		//Pick header and initialize the index store
     		if(hasHeader){
@@ -75,10 +68,8 @@ public class CSVDataSource implements DataSource{
     		}
     		scanner.close();
     		Runtime.getRuntime().gc();
-    		Utils.printMem();
     	}
     	valueOfK = (int)Math.sqrt(dataStore.size());
-    	
     	return dataStore;
     }
 

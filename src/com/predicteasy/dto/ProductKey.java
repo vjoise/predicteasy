@@ -55,6 +55,12 @@ public class ProductKey {
 			return false;
 		return true;
 	}
+
+	@Override
+	public String toString() {
+		return "[productId=" + productId + ", reviewer=" + reviewer
+				+ "]";
+	}
 	
 	
 }
