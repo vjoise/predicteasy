@@ -5,6 +5,7 @@ import csv
 import math
 import operator
 import knnv2 as kv
+import knn_customer as knnc
 from timeit import default_timer
 
 
@@ -64,6 +65,7 @@ def putListMapEntry(key, value, inputMap) :
 #This class loads data from the CSV on to an in-memory matrix.
 class CSVDataLoader :
     def transposeRowsColumns(self, filePath) :
+        start_time = default_timer()
         sumOfBeerRatingsOverall = 0
         csvOut = open(str(filePath), 'rb')
         reader = csv.reader(csvOut)
@@ -81,6 +83,7 @@ class CSVDataLoader :
             #if count == 100000 :
             #    break;
         MEAN_PRODUCT_RATING=round((sumOfBeerRatingsOverall/count), 1)
+        print "Time taken to load data : ", (default_timer() - start_time)
         print "Mean Beer rating for any beer : ", MEAN_PRODUCT_RATING
         print "# of beers = ", len(availableBeerColumns)
         print "# of customers = ", len(availableCustomerRows)
@@ -131,59 +134,32 @@ class PredictionModel :
     def computeFilteredRatingEstimate(self, productName):
         #Now find all the beers which are similar to this one.
         similarBeers = kv.findSimiarity(productName, availableBeerColumns, availableCustomerRows, FIELD_MAP)
-
         #Within this set of beers find the first most similar one ( with minimum distance ).
-        beer = similarBeers[0][1]
         sum = 0
-        sumOfRatings = 0
-        avg = 0
-        for record in availableBeerColumns[beer] :
-            sumOfRatings += float(record[REVIEW_OVERALL])
-        avg = float(sumOfRatings / len(availableBeerColumns[beer]))
+        avg = {}
+        #Now get all the ratings for similar customers for these beers and take an average.
+        for beer in similarBeers:
+            totalCount = 0
+            sumOfRatings = 0
+            for record in availableBeerColumns[beer] :
+                #Choose only those customers who are similar for collaborative filtering.
+                if record[CUSTOMER_ID] in self.similarCustomers :
+                    sumOfRatings += float(record[REVIEW_OVERALL])
+                    totalCount += 1
+            if totalCount != 0 :
+                avg[beer] = float(sumOfRatings / totalCount)
         return avg
-   
-        
 
-def findNearestNeighbors(product, factorOfK):
-
-        #Initialize Similar items here
-        similarItems = []
-        distanceList = []
-        processedRecordsMap = {}
-
-        # For all the items, compare this item on features and return the most closest matching items.
-        for rec in availableBeerColumns:
-            #Since we do not know the order of input query, we need to loop through the key value pairs.
-            dist = self.computeDistance(testRecord, rec)
-            distanceList.append((dist, rec))
-            
-        distanceList.sort(key=operator.itemgetter(0))
-        for item in range(factorOfK):
-                similarItems.append(distanceList[item][1])
-        return similarItems
-    
-def computeDistance(self, testData, data) :
-    distance = 0
-    for key,value in testData.iteritems() :
-        leftValue = float(value)
-        rightValue = float(data[FIELD_MAP[key]])
-        distance += pow((leftValue- rightValue), 2)
-    return math.sqrt(distance)
     
     
 def findSimilarCustomers(customerId) :
+    return knnc.findSimilarCustomers(customerId, availableCustomerRows, availableBeerColumns);
 
-    #First get the list of products that this customer has already reviewed.
-    ratingDataForTestCustomer = availableCustomerRows.get(customerId)
-    print "ratingData for Test customer : " , len(ratingDataForTestCustomer)
-    
-    #Find nearest match for this customer.
-    nearestNeighbors = findNearestNeighbors(customerId, ratingDataForTestCustomer)
     
 start = default_timer()
 
 #Build the initial matrix availableCustomerRows from the input data.
-CSVDataLoader().transposeRowsColumns('C:/NUS/beer_reviews.csv')
+CSVDataLoader().transposeRowsColumns('C:/nus/cs5228 - kddm/predicteasy/data/beer_reviews.csv')
 
 #Now find the similar customers for a given customer on a number of parameters.
 #Choose any test profile to find its NN.
@@ -195,9 +171,12 @@ print "test Customer : ", testCustomer
 
 print "test Product : ", testProduct
 
-#similarCustomers = findSimilarCustomers(testCustomer)
-similarCustomers = ["stcules", "t420o"]
+similarCustomers = findSimilarCustomers(testCustomer)
+print "similar Customers for ", testCustomer, " :: "
+print similarCustomers
+#similarCustomers = ["stcules", "t420o"]
 filteredRating = 0
+overallRating = 0
 try :
         
     #BeerName - 'Heavy Handed IPA'
@@ -210,14 +189,17 @@ try :
 
     #Compute rating by Collaborative filtering.
     filteredRating = model.computeFilteredRatingEstimate('Heavy Handed IPA')
+    for k,v in filteredRating.iteritems():
+        print "rating for : ", k,  " is " , v
+        overallRating += v;
+    overallRating = (overallRating / len(filteredRating))
+    
+    
 except Exception as e:
     print e
     pass
 
 duration = default_timer() - start
-
-#Now compute overall rating for this customer and beer.
-overallRating = filteredRating
 
 print "Overall Rating for the combination : ", testCustomer, ", ", testProduct, " is : ", overallRating
 
