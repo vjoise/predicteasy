@@ -9,32 +9,22 @@ start = default_timer()
 
 #Build the initial matrix availableCustomerRows from the input data.
 csvLoader = CSVDataLoader()
-csvLoader.transposeRowsColumns('../../resources/beer_test.csv')
+csvLoader.transposeRowsColumns('../../resources/beer_reviews.csv')
 
 availableBeerColumns = csvLoader.getAvailableBeerColumns()
 availableCustomerRows = csvLoader.getAvailableCustomerRows() 
 
-#testCustomer = 'stcules'
-#testProduct = 
-
-temp = ['rawthar' , 'Caldera Ginger Beer', 4.0]
-
-testQueries = [temp]
-#testQueries.append([temp])
-#testQueries.append(['stcules'] , ['Caldera Ginger Beer'])
+testQueries = [['rawthar' , 'Caldera Ginger Beer', 4.0]]
 
 actualToPredictedRating = []
-
-print testQueries[0]
 
 for query in testQueries :
 
 	testCustomer = query[0]
 	testProduct = query[1]
 	actualRating = query[2]
-	print "testCustomer ", testCustomer
-	print "testProduct ", testProduct
-	print "actual rating", actualRating
+	print "****************************************"
+	print "Test Query ", query
 	
 	#Step 1 : Find Similar customers for this customer
 	print "Finding similar customers for : ", testCustomer
@@ -60,7 +50,7 @@ for query in testQueries :
 	
 	    #Compute rating by Collaborative filtering.
 	    filteredRating = model.computeFilteredRatingEstimate(testProduct)
-	    print "Filtered ***** rating : ", filteredRating
+	    print "Filtered rating : ", filteredRating
 	
 	    #Now get the average overall rating
 	    for k,v in filteredRating.iteritems():
@@ -68,6 +58,8 @@ for query in testQueries :
 	        overallRating += v;
 	        
 	    overallRating = (overallRating / len(filteredRating))
+	    print "Overall Rating : ",  overallRating
+	    print "****************************************"
 	    
 	    actualToPredictedRating.append([actualRating] + [overallRating])
 	
