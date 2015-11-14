@@ -8,43 +8,86 @@ from util import *
 start = default_timer()
 
 #Build the initial matrix availableCustomerRows from the input data.
-CSVDataLoader().transposeRowsColumns('C:/nus/cs5228 - kddm/predicteasy/data/beer_reviews.csv')
+csvLoader = CSVDataLoader()
+csvLoader.transposeRowsColumns('../../resources/beer_test.csv')
 
-testCustomer = '2BDChicago'
-testProduct = 'Heavy Handed IPA'
+availableBeerColumns = csvLoader.getAvailableBeerColumns()
+availableCustomerRows = csvLoader.getAvailableCustomerRows() 
 
-#Find Similar customers for this customer
-print "Finding similar customers for : ", testCustomer
-similarCustomers = knnc.findSimilarCustomers(testCustomer, availableCustomerRows, availableBeerColumns);
+#testCustomer = 'stcules'
+#testProduct = 
 
-#Fnd all the beers which are similar to this one.
-print "Finding similar beers for : ", testProduct
-similarBeers = kv.findSimiarityInParallel(testProduct, availableBeerColumns, availableCustomerRows, FIELD_MAP)
+temp = ['rawthar' , 'Caldera Ginger Beer', 4.0]
 
-filteredRating = 0
-overallRating = 0
-try :
-    #BeerName - 'Heavy Handed IPA'
-    model = PredictionModel(testCustomer, similarCustomers)
+testQueries = [temp]
+#testQueries.append([temp])
+#testQueries.append(['stcules'] , ['Caldera Ginger Beer'])
 
-    #Next for each of those products find the common reviewers.
-    baselineRating = model.computeGlobalBaseline(testProduct)
+actualToPredictedRating = []
 
-    print "Global BaseLine rating : ", baselineRating
+print testQueries[0]
 
-    #Compute rating by Collaborative filtering.
-    filteredRating = model.computeFilteredRatingEstimate(testProduct)
+for query in testQueries :
 
-    #Now get the average overall rating
-    for k,v in filteredRating.iteritems():
-        print "rating for : ", k,  " is " , v
-        overallRating += v;
-        
-    overallRating = (overallRating / len(filteredRating))
-    
-except Exception as e:
-    print e
-    pass
+	testCustomer = query[0]
+	testProduct = query[1]
+	actualRating = query[2]
+	print "testCustomer ", testCustomer
+	print "testProduct ", testProduct
+	print "actual rating", actualRating
+	
+	#Step 1 : Find Similar customers for this customer
+	print "Finding similar customers for : ", testCustomer
+	similarCustomers = knnc.findSimilarCustomers(testCustomer, availableCustomerRows, availableBeerColumns);
+	
+	#Step 2 : Fnd all the beers which are similar to this one.
+	print "Finding similar beers for : ", testProduct
+	#similarBeers = kv.findSimiarityInParallel(testProduct, availableBeerColumns, availableCustomerRows, FIELD_MAP)
+	similarBeers = kv.findSimiarity(testProduct, availableBeerColumns, availableCustomerRows, FIELD_MAP)
+
+	#Step 3 : Predict rating for this query
+	filteredRating = 0
+	overallRating = 0
+	
+	try :
+	    #BeerName - 'Heavy Handed IPA'
+	    model = PredictionModel(testCustomer, similarCustomers, similarBeers, availableBeerColumns, availableCustomerRows)
+	
+	    #Next for each of those products find the common reviewers.
+	    baselineRating = model.computeGlobalBaseline(testProduct)
+	
+	    print "Global BaseLine rating : ", baselineRating
+	
+	    #Compute rating by Collaborative filtering.
+	    filteredRating = model.computeFilteredRatingEstimate(testProduct)
+	    print "Filtered ***** rating : ", filteredRating
+	
+	    #Now get the average overall rating
+	    for k,v in filteredRating.iteritems():
+	        print "rating for : ", k,  " is " , v
+	        overallRating += v;
+	        
+	    overallRating = (overallRating / len(filteredRating))
+	    
+	    actualToPredictedRating.append([actualRating] + [overallRating])
+	
+	except Exception as e:
+	    print e
+	    pass
+
+
+def computeRMSError(actualToPredictedRatingArr):
+	rmSqError = 0
+	print actualToPredictedRatingArr
+	for key in actualToPredictedRatingArr :
+		rmSqError += math.pow((key[0] - key[1]), 2)
+	
+	return (math.sqrt (rmSqError) / len(actualToPredictedRatingArr))
+	
+		
+#get Root mean square error
+rmSqError = computeRMSError(actualToPredictedRating)
+print "Aggregated Root mean square error : ", rmSqError
 
 duration = default_timer() - start
 

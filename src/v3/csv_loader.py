@@ -61,7 +61,13 @@ class CSVDataLoader :
         print "Mean Beer rating for any beer : ", MEAN_PRODUCT_RATING
         print "# of beers = ", len(availableBeerColumns)
         print "# of customers = ", len(availableCustomerRows)
-        
+    
+    def getAvailableCustomerRows(self) :
+    	return availableCustomerRows    
+    
+    def getAvailableBeerColumns(self) :
+    	return availableBeerColumns  
+    	     
 class RatingData :
     product = ''
     overallRating = 0.0

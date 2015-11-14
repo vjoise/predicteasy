@@ -26,7 +26,7 @@ class PredictionModel :
     
     def computeGlobalBaseline(self, productName):
         #Mean rating across all beers
-        print "Overall Rating : ", MEAN_PRODUCT_RATING
+        #print "Overall Rating : ", MEAN_PRODUCT_RATING
         print "# of reviews for :", productName ,' is : ',len(availableBeerColumns.get(productName))
         tempSum = 0
 
@@ -91,7 +91,7 @@ filteredRating = 0
 overallRating = 0
 try :
     #BeerName - 'Heavy Handed IPA'
-    model = PredictionModel(testCustomer, similarCustomers)
+    model = PredictionModel(testCustomer, similarCustomers, similarBeers)
 
     #Next for each of those products find the common reviewers.
     baselineRating = model.computeGlobalBaseline(testProduct)

@@ -42,7 +42,9 @@ def findSimilarCustomers(customerId, availableCustomerRows, availableBeerColumns
             dist.append(row)
             #Return the best possible match by sorting the list with min distance.
     dist.sort(key=operator.itemgetter(2))
-    for i in range(1,10) :
+    for i in range(0, len(dist)-1) :
+        if len(dist) == 0 or dist[i] is None or len(dist[i]) == 0 : 
+        	continue
         returnList.append(dist[i][1])
     
     return returnList
