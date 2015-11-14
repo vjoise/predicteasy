@@ -14,7 +14,17 @@ csvLoader.transposeRowsColumns('../../resources/beer_reviews.csv')
 availableBeerColumns = csvLoader.getAvailableBeerColumns()
 availableCustomerRows = csvLoader.getAvailableCustomerRows() 
 
-testQueries = [['rawthar' , 'Caldera Ginger Beer', 4.0], ['Halcyondays' , 'Caldera Ginger Beer', 4.0]]
+#Demo - combined run
+testQueries = [['rawthar' , 'Caldera Ginger Beer', 4.0], ['Halcyondays' , 'Caldera Ginger Beer', 4.0],['rawthar' , 'Heavy Handed IPA', 4.0] ]
+
+#Demo - quick run
+#testQueries = [['rawthar' , 'Caldera Ginger Beer', 4.0]]
+
+#Demo - large data
+
+#testQueries = [['rawthar' , 'Heavy Handed IPA', 4.0]]
+#, ['Halcyondays' , 'Caldera Ginger Beer', 4.0]]
+#testQueries = [['stcules', 'English Strong Ale',3.0]]
 
 actualToPredictedRating = []
 

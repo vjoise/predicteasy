@@ -40,10 +40,13 @@ class PredictionModel :
         ratingsForThisUser = self.availableCustomerRows[self.testCustomer]
         print "#ratings for user : ", self.testCustomer, ' is ',  len(ratingsForThisUser)
         for rating in ratingsForThisUser :
-            tempSum += round(float(rating.overallRating), 1)
+            tempSum += round(float(rating.overallRating), 10)
            # print rating.product, rating.overallRating, '\n' 
-        meanUserRating = round(tempSum / len(ratingsForThisUser), 1)
-        print "Mean rating of user : ", self.testCustomer, " is :: ", meanUserRating
+        #meanUserRating = round(tempSum / len(ratingsForThisUser), 1)
+        print "Temp sum", tempSum
+        print "rating count", len(ratingsForThisUser)
+        meanUserRating = float(tempSum / len(ratingsForThisUser))
+        print "Mean rating of user***  : ", self.testCustomer, " is :: ", meanUserRating
         
         #Compared to other users, this user rates it higher/lower
         differenceInRating = meanRatingForProduct - meanUserRating

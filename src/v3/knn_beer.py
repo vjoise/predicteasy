@@ -86,11 +86,15 @@ def findSimiarity(testBeer, beersMap, peopleMap, FIELD_MAP):
     dist = []
     count = 0
     returnList = []
+    #print "TestBeer ****** ", testBeer
+    #print "People map ***** ", peopleMap
     for beer in beersMap.keys():
         if count % 1000 == 0 :
             print "\nprocessing batch :: ", count
         if beer != testBeer:
+           #print "Test beer", testBeer
            similarity = calculate_similarity(testBeer, beer, beersMap, peopleMap, FIELD_MAP)
+           #print "Similarity ******TestBeer: ", testBeer, ", Beer :", beer, " Similarity: ", similarity  
            distance = 99999
            if similarity is not None and len(similarity) > 0 :
                distance = similarity[0]
