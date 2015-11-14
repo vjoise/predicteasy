@@ -17,6 +17,7 @@ class PredictionModel :
     def __init__ (self, testCustomer, similarCustomers, similarBeers, availableBeerColumns, availableCustomerRows):
         self.testCustomer = testCustomer
         self.similarCustomers = similarCustomers
+        print "Similar beers", similarBeers
         self.similarBeers = similarBeers
         self.availableBeerColumns = availableBeerColumns
         self.availableCustomerRows = availableCustomerRows
@@ -60,11 +61,11 @@ class PredictionModel :
         for beer in self.similarBeers:
             totalCount = 0
             sumOfRatings = 0
-            for record in self.availableBeerColumns[beer[0]] :
-                #Choose only those customers who are similar for collaborative filtering.
+            for record in self.availableBeerColumns[beer] :
+            	#Choose only those customers who are similar for collaborative filtering.
                 if record[CUSTOMER_ID] in self.similarCustomers :
                     sumOfRatings += float(record[REVIEW_OVERALL])
                     totalCount += 1
             if totalCount != 0 :
-                avg[beer[0]] = float(sumOfRatings / totalCount)
+                avg[beer] = float(sumOfRatings / totalCount)
         return avg

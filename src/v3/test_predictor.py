@@ -44,17 +44,18 @@ for query in testQueries :
 	    model = PredictionModel(testCustomer, similarCustomers, similarBeers, availableBeerColumns, availableCustomerRows)
 	
 	    #Next for each of those products find the common reviewers.
+	    print "Finding Global BaseLine rating..."
 	    baselineRating = model.computeGlobalBaseline(testProduct)
-	
 	    print "Global BaseLine rating : ", baselineRating
 	
 	    #Compute rating by Collaborative filtering.
+	    print "Finding filtered rating..."
 	    filteredRating = model.computeFilteredRatingEstimate(testProduct)
 	    print "Filtered rating : ", filteredRating
 	
 	    #Now get the average overall rating
 	    for k,v in filteredRating.iteritems():
-	        print "rating for : ", k,  " is " , v
+	        #print "rating for : ", k,  " is " , v
 	        overallRating += v;
 	        
 	    overallRating = (overallRating / len(filteredRating))

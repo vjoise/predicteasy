@@ -85,6 +85,7 @@ def calculate_similarity(beer1, beer2, beersMap, peopleMap, FIELD_MAP):
 def findSimiarity(testBeer, beersMap, peopleMap, FIELD_MAP):
     dist = []
     count = 0
+    returnList = []
     for beer in beersMap.keys():
         if count % 1000 == 0 :
             print "\nprocessing batch :: ", count
@@ -97,7 +98,12 @@ def findSimiarity(testBeer, beersMap, peopleMap, FIELD_MAP):
            dist.append(row)
         count = count + 1
     dist.sort(key=operator.itemgetter(2))
-    return dist
+    
+    k = math.sqrt(len(dist))
+    for item in range(0, int(k-1)):
+    	returnList.append(dist[item][1])
+    	
+   	return returnList
 
 class SimilarItemsFinderThread(Thread) :
     testBeer  = ''
